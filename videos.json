@@ -1,0 +1,28 @@
+{
+	"series": [
+		{
+			"name": "Grèce Antique",
+			"videos": [
+				"https://clipedia.be/videos/le-theoreme-de-pythagore",
+                "https://clipedia.be/videos/pythagore-en-egypte",
+                "https://clipedia.be/videos/le-principe-d-archimede",
+                "https://clipedia.be/videos/les-leviers",
+                "https://clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
+			]
+		},
+        {
+            "name": "Forces",
+            "videos": [
+                https://clipedia.be/videos/le-principe-d-archimede
+                https://clipedia.be/videos/les-leviers
+                https://clipedia.be/videos/les-poulies
+                https://clipedia.be/videos/le-moment-de-force
+                https://clipedia.be/videos/la-pression-dans-les-solides
+                https://clipedia.be/videos/la-pression-dans-les-liquides
+                https://clipedia.be/videos/la-pression-atmospherique-introduction
+                https://clipedia.be/videos/le-principe-de-pascal
+            ]
+        }
+	],
+	
+}
