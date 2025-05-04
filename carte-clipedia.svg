@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="1634.3558"
-     inkscape:cy="1444.3208"
+     inkscape:zoom="2.56"
+     inkscape:cx="271.67969"
+     inkscape:cy="1969.7266"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      units="px"
      showguides="false"
      inkscape:snap-global="true"
@@ -158,8 +158,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Calque 2"
-     sodipodi:insensitive="true">
+     inkscape:label="Calque 2">
     <path
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 6.3400775,6.3284705 4.5449523,183.71763 67.585809,208.75356 96.57558,264.08428 441.28957,266.03129 499.43445,178.13123 499.06422,4.6932696 Z"
@@ -172,13 +171,14 @@
        sodipodi:nodetypes="cccccccc" />
     <path
        style="fill:#ffedb3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 287.12016,483.50792 161.98825,3.23605 2.78286,32.01316 -100.06582,-1.91913 -4.28937,19.91201 -65.11643,-10.56252 z"
+       d="m 287.12016,483.50792 161.98825,3.23605 2.78286,53.17983 -100.06582,-1.91913 -4.28937,19.91201 -65.11643,-10.56252 z"
        id="path13196"
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ffe3ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.973559,490.62673 20.874451,-13.50968 154.95467,4.19836 -8.11417,48.74175 -155.152947,3.4676 -14.396536,-18.7624 z"
-       id="path7604" />
+       d="m 34.973559,490.62673 20.874451,-13.50968 154.95467,4.19836 -8.11417,75.20008 -155.152947,3.4676 -14.396536,-45.22073 z"
+       id="path7604"
+       sodipodi:nodetypes="ccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2744,34 +2744,24 @@
          id="circle1262" />
       <text
          font-size="6px"
-         x="25"
+         x="0.99999952"
          y="125"
          text-anchor="middle"
-         id="text1264">Solutions et concentration</text>
-    </g>
-    <g
-       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-3-de-l-alchimie-a-la-chimie"
-       data-name="Histoire de la matière 3 : De l’alchimie à la chimie"
-       id="g1272"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
-      <circle
-         fill="#9ee619"
-         cx="50"
-         cy="100"
-         r="20"
-         id="circle1268" />
-      <text
-         font-size="6px"
-         x="75"
-         y="125"
-         text-anchor="middle"
-         id="text1270">Histoire de la matière 3 : De l’alchimie à la chimie</text>
+         id="text1264"><tspan
+           sodipodi:role="line"
+           id="tspan544537"
+           x="0.99999952"
+           y="125">Solutions et</tspan><tspan
+           sodipodi:role="line"
+           id="tspan544539"
+           x="0.99999952"
+           y="132.5">concentration</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-tableau-periodique-des-elements"
        data-name="Le Tableau Périodique des Éléments"
        id="g1278"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,407.63725,471.88811)">
       <circle
          fill="#d8e619"
          cx="100"
@@ -2780,16 +2770,24 @@
          id="circle1274" />
       <text
          font-size="6px"
-         x="125"
+         x="99"
          y="125"
          text-anchor="middle"
-         id="text1276">Le Tableau Périodique des Éléments</text>
+         id="text1276"><tspan
+           sodipodi:role="line"
+           id="tspan541566"
+           x="99"
+           y="125">Le Tableau Périodique</tspan><tspan
+           sodipodi:role="line"
+           id="tspan541568"
+           x="99"
+           y="132.5">des Éléments</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/les-reactions-chimiques2-pourquoi-comment"
        data-name="Les réactions chimiques 2 : Pourquoi ? Comment ?"
        id="g1284"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,304.7787,466.91775)">
       <circle
          fill="#e6198a"
          cx="150"
@@ -2798,16 +2796,28 @@
          id="circle1280" />
       <text
          font-size="6px"
-         x="175"
+         x="151"
          y="125"
          text-anchor="middle"
-         id="text1282">Les réactions chimiques 2 : Pourquoi ? Comment ?</text>
+         id="text1282"><tspan
+           sodipodi:role="line"
+           id="tspan524325"
+           x="151"
+           y="125">Les réactions</tspan><tspan
+           sodipodi:role="line"
+           id="tspan524327"
+           x="151"
+           y="132.5">chimiques 2 :</tspan><tspan
+           sodipodi:role="line"
+           x="151"
+           y="140"
+           id="tspan524329">Pourquoi ? Comment ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/les-reactions-chimiques-introduction"
        data-name="Les réactions chimiques : introduction"
        id="g1290"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,270.38286,466.91775)">
       <circle
          fill="#19e694"
          cx="200"
@@ -2816,16 +2826,28 @@
          id="circle1286" />
       <text
          font-size="6px"
-         x="225"
+         x="203"
          y="125"
          text-anchor="middle"
-         id="text1288">Les réactions chimiques : introduction</text>
+         id="text1288"><tspan
+           sodipodi:role="line"
+           id="tspan539381"
+           x="203"
+           y="125">Les réactions</tspan><tspan
+           sodipodi:role="line"
+           x="203"
+           y="132.5"
+           id="tspan539385">chimiques :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan539383"
+           x="203"
+           y="140">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/datation-au-carbone-14"
        data-name="Datation au carbone 14"
        id="g1296"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,259.46058,513.25441)">
       <circle
          fill="#e63519"
          cx="250"
@@ -2834,16 +2856,24 @@
          id="circle1292" />
       <text
          font-size="6px"
-         x="275"
+         x="249"
          y="125"
          text-anchor="middle"
-         id="text1294">Datation au carbone 14</text>
+         id="text1294"><tspan
+           sodipodi:role="line"
+           id="tspan526588"
+           x="249"
+           y="125">Datation au</tspan><tspan
+           sodipodi:role="line"
+           id="tspan526590"
+           x="249"
+           y="132.5">carbone 14</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/isotopes-et-radioactivite"
        data-name="Isotopes et radioactivité"
        id="g1302"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,289.99034,476.58479)">
       <circle
          fill="#19a5e6"
          cx="300"
@@ -2852,16 +2882,24 @@
          id="circle1298" />
       <text
          font-size="6px"
-         x="325"
+         x="299"
          y="125"
          text-anchor="middle"
-         id="text1300">Isotopes et radioactivité</text>
+         id="text1300"><tspan
+           sodipodi:role="line"
+           id="tspan535099"
+           x="299"
+           y="125">Isotopes et</tspan><tspan
+           sodipodi:role="line"
+           id="tspan535101"
+           x="299"
+           y="132.5">radioactivité</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/les-isotopes"
        data-name="Les isotopes"
        id="g1308"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,292.75556,496.69239)">
       <circle
          fill="#19e65e"
          cx="350"
@@ -2870,34 +2908,16 @@
          id="circle1304" />
       <text
          font-size="6px"
-         x="375"
+         x="351"
          y="125"
          text-anchor="middle"
          id="text1306">Les isotopes</text>
     </g>
     <g
-       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-2-naissance-de-la-al-chimie"
-       data-name="Histoire de la matière 2 : Naissance de la al chimie"
-       id="g1314"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
-      <circle
-         fill="#e6db19"
-         cx="400"
-         cy="100"
-         r="20"
-         id="circle1310" />
-      <text
-         font-size="6px"
-         x="425"
-         y="125"
-         text-anchor="middle"
-         id="text1312">Histoire de la matière 2 : Naissance de la al chimie</text>
-    </g>
-    <g
        data-link="https%3A//clipedia.be/videos/les-atomes"
        data-name="Les atomes"
        id="g1320"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
+       transform="matrix(0.26458333,0,0,0.26458333,298.19488,496.55652)">
       <circle
          fill="#19e66f"
          cx="450"
@@ -2906,34 +2926,16 @@
          id="circle1316" />
       <text
          font-size="6px"
-         x="475"
+         x="451"
          y="125"
          text-anchor="middle"
          id="text1318">Les atomes</text>
     </g>
     <g
-       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
-       data-name="Histoire de la matière 1 : les éléments des anciens"
-       id="g1326"
-       transform="matrix(0.26458333,0,0,0.26458333,165.61433,487.26372)">
-      <circle
-         fill="#e69419"
-         cx="500"
-         cy="100"
-         r="20"
-         id="circle1322" />
-      <text
-         font-size="6px"
-         x="525"
-         y="125"
-         text-anchor="middle"
-         id="text1324">Histoire de la matière 1 : les éléments des anciens</text>
-    </g>
-    <g
        data-link="https%3A//clipedia.be/videos/la-mole-illustration"
        data-name="La mole : illustration"
        id="g1332"
-       transform="matrix(0.26458333,0,0,0.26458333,165.61433,487.26372)">
+       transform="matrix(0.26458333,0,0,0.26458333,267.47783,474.40574)">
       <circle
          fill="#e61994"
          cx="550"
@@ -2942,16 +2944,24 @@
          id="circle1328" />
       <text
          font-size="6px"
-         x="575"
+         x="551"
          y="125"
          text-anchor="middle"
-         id="text1330">La mole : illustration</text>
+         id="text1330"><tspan
+           sodipodi:role="line"
+           id="tspan547476"
+           x="551"
+           y="125">La mole :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan547478"
+           x="551"
+           y="132.5">illustration</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-mole"
        data-name="La mole"
        id="g1338"
-       transform="matrix(0.26458333,0,0,0.26458333,165.61433,487.26372)">
+       transform="matrix(0.26458333,0,0,0.26458333,233.08199,474.40574)">
       <circle
          fill="#a1e619"
          cx="600"
@@ -2960,7 +2970,7 @@
          id="circle1334" />
       <text
          font-size="6px"
-         x="625"
+         x="601"
          y="125"
          text-anchor="middle"
          id="text1336">La mole</text>
@@ -2969,7 +2979,7 @@
        data-link="https%3A//clipedia.be/videos/les-virus-sont-ils-vivants"
        data-name="Les virus sont-ils vivants ?"
        id="g1344"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,75.186421,456.98844)">
       <circle
          fill="#19e620"
          cx="0"
@@ -2978,16 +2988,24 @@
          id="circle1340" />
       <text
          font-size="6px"
-         x="25"
+         x="0.99999952"
          y="175"
          text-anchor="middle"
-         id="text1342">Les virus sont-ils vivants ?</text>
+         id="text1342"><tspan
+           sodipodi:role="line"
+           id="tspan588259"
+           x="0.99999952"
+           y="175">Les virus sont-ils</tspan><tspan
+           sodipodi:role="line"
+           id="tspan588261"
+           x="0.99999952"
+           y="182.5">vivants ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/digestion-des-proteines"
        data-name="Digestion des protéines"
        id="g1350"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,37.441195,488.89082)">
       <circle
          fill="#19e6af"
          cx="50"
@@ -2996,16 +3014,24 @@
          id="circle1346" />
       <text
          font-size="6px"
-         x="75"
+         x="49"
          y="175"
          text-anchor="middle"
-         id="text1348">Digestion des protéines</text>
+         id="text1348"><tspan
+           sodipodi:role="line"
+           id="tspan594280"
+           x="49"
+           y="175">Digestion des</tspan><tspan
+           sodipodi:role="line"
+           id="tspan594282"
+           x="49"
+           y="182.5">protéines</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/structure-des-proteines"
        data-name="Structure des protéines"
        id="g1356"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,37.441195,473.01581)">
       <circle
          fill="#19e61d"
          cx="100"
@@ -3014,16 +3040,24 @@
          id="circle1352" />
       <text
          font-size="6px"
-         x="125"
+         x="99"
          y="175"
          text-anchor="middle"
-         id="text1354">Structure des protéines</text>
+         id="text1354"><tspan
+           sodipodi:role="line"
+           id="tspan590420"
+           x="99"
+           y="175">Structure des</tspan><tspan
+           sodipodi:role="line"
+           id="tspan590422"
+           x="99"
+           y="182.5">protéines</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/introduction-aux-proteines"
        data-name="Introduction aux protéines"
        id="g1362"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,37.441195,488.89082)">
       <circle
          fill="#197fe6"
          cx="150"
@@ -3032,16 +3066,24 @@
          id="circle1358" />
       <text
          font-size="6px"
-         x="175"
+         x="151"
          y="175"
          text-anchor="middle"
-         id="text1360">Introduction aux protéines</text>
+         id="text1360"><tspan
+           sodipodi:role="line"
+           id="tspan592163"
+           x="151"
+           y="175">Introduction</tspan><tspan
+           sodipodi:role="line"
+           id="tspan592165"
+           x="151"
+           y="182.5">aux protéines</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/de-l-adn-qui-ne-viendrait-que-de-maman"
        data-name="De L’ADN qui ne viendrait que de Maman ?!"
        id="g1368"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,48.347582,461.81693)">
       <circle
          fill="#e62e19"
          cx="200"
@@ -3050,34 +3092,28 @@
          id="circle1364" />
       <text
          font-size="6px"
-         x="225"
+         x="201"
          y="175"
          text-anchor="middle"
-         id="text1366">De L’ADN qui ne viendrait que de Maman ?!</text>
-    </g>
-    <g
-       data-link="https%3A//clipedia.be/videos/pourquoi-fumer"
-       data-name="Pourquoi fumer ?"
-       id="g1374"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
-      <circle
-         fill="#6419e6"
-         cx="250"
-         cy="150"
-         r="20"
-         id="circle1370" />
-      <text
-         font-size="6px"
-         x="275"
-         y="175"
-         text-anchor="middle"
-         id="text1372">Pourquoi fumer ?</text>
+         id="text1366"><tspan
+           sodipodi:role="line"
+           id="tspan554437"
+           x="201"
+           y="175">De L’ADN qui</tspan><tspan
+           sodipodi:role="line"
+           id="tspan554439"
+           x="201"
+           y="182.5">ne viendrait que</tspan><tspan
+           sodipodi:role="line"
+           x="201"
+           y="190"
+           id="tspan554441">de Maman ?!</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/je-suis-ce-que-je-mange"
        data-name="Je suis ce que je mange"
        id="g1380"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,49.361377,470.33355)">
       <circle
          fill="#e6d119"
          cx="300"
@@ -3086,16 +3122,24 @@
          id="circle1376" />
       <text
          font-size="6px"
-         x="325"
+         x="301"
          y="175"
          text-anchor="middle"
-         id="text1378">Je suis ce que je mange</text>
+         id="text1378"><tspan
+           sodipodi:role="line"
+           id="tspan556237"
+           x="301"
+           y="175">Je suis ce</tspan><tspan
+           sodipodi:role="line"
+           id="tspan556239"
+           x="301"
+           y="182.5">que je mange</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/pourquoi-le-carbone"
        data-name="Pourquoi le carbone ?"
        id="g1386"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,58.48968,469.24884)">
       <circle
          fill="#2019e6"
          cx="350"
@@ -3104,16 +3148,24 @@
          id="circle1382" />
       <text
          font-size="6px"
-         x="375"
+         x="351"
          y="175"
          text-anchor="middle"
-         id="text1384">Pourquoi le carbone ?</text>
+         id="text1384"><tspan
+           sodipodi:role="line"
+           id="tspan561731"
+           x="351"
+           y="175">Pourquoi le</tspan><tspan
+           sodipodi:role="line"
+           id="tspan561733"
+           x="351"
+           y="182.5">carbone ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/de-quoi-sommes-nous-faits"
        data-name="De quoi sommes nous faits ?"
        id="g1392"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,58.48968,453.37383)">
       <circle
          fill="#35e619"
          cx="400"
@@ -3122,16 +3174,24 @@
          id="circle1388" />
       <text
          font-size="6px"
-         x="425"
+         x="401"
          y="175"
          text-anchor="middle"
-         id="text1390">De quoi sommes nous faits ?</text>
+         id="text1390"><tspan
+           sodipodi:role="line"
+           id="tspan557831"
+           x="401"
+           y="175">De quoi sommes</tspan><tspan
+           sodipodi:role="line"
+           id="tspan557833"
+           x="401"
+           y="182.5">nous faits ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/deuxieme-loi-de-mendel"
        data-name="Deuxième loi de Mendel"
        id="g1398"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
+       transform="matrix(0.26458333,0,0,0.26458333,75.912017,479.16394)">
       <circle
          fill="#e6198a"
          cx="450"
@@ -3140,34 +3200,24 @@
          id="circle1394" />
       <text
          font-size="6px"
-         x="475"
+         x="451"
          y="175"
          text-anchor="middle"
-         id="text1396">Deuxième loi de Mendel</text>
-    </g>
-    <g
-       data-link="https%3A//clipedia.be/videos/premiere-loi-de-mendel"
-       data-name="Première loi de Mendel"
-       id="g1404"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
-      <circle
-         fill="#a1e619"
-         cx="500"
-         cy="150"
-         r="20"
-         id="circle1400" />
-      <text
-         font-size="6px"
-         x="525"
-         y="175"
-         text-anchor="middle"
-         id="text1402">Première loi de Mendel</text>
+         id="text1396"><tspan
+           sodipodi:role="line"
+           id="tspan560467"
+           x="451"
+           y="175">Deuxième loi</tspan><tspan
+           sodipodi:role="line"
+           id="tspan560469"
+           x="451"
+           y="182.5">de Mendel</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/introduction-a-la-genetique"
        data-name="Introduction à la génétique"
        id="g1410"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-22.285149,450.12633)">
       <circle
          fill="#19e646"
          cx="550"
@@ -3176,16 +3226,24 @@
          id="circle1406" />
       <text
          font-size="6px"
-         x="575"
+         x="551"
          y="175"
          text-anchor="middle"
-         id="text1408">Introduction à la génétique</text>
+         id="text1408"><tspan
+           sodipodi:role="line"
+           id="tspan580045"
+           x="551"
+           y="175">Introduction</tspan><tspan
+           sodipodi:role="line"
+           id="tspan580047"
+           x="551"
+           y="182.5">à la génétique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/l-adn"
        data-name="L'ADN"
        id="g1416"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908836,506.83359)">
       <circle
          fill="#50e619"
          cx="600"
@@ -3194,7 +3252,7 @@
          id="circle1412" />
       <text
          font-size="6px"
-         x="625"
+         x="601"
          y="175"
          text-anchor="middle"
          id="text1414">L'ADN</text>
@@ -3203,7 +3261,7 @@
        data-link="https%3A//clipedia.be/videos/l-usine-cellulaire"
        data-name="L’usine cellulaire"
        id="g1422"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-62.247227,502.22642)">
       <circle
          fill="#1953e6"
          cx="650"
@@ -3212,7 +3270,7 @@
          id="circle1418" />
       <text
          font-size="6px"
-         x="675"
+         x="651"
          y="175"
          text-anchor="middle"
          id="text1420">L’usine cellulaire</text>
@@ -3221,7 +3279,7 @@
        data-link="https%3A//clipedia.be/videos/la-cellule"
        data-name="La cellule"
        id="g1428"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-84.036931,488.61877)">
       <circle
          fill="#e62e19"
          cx="700"
@@ -3230,7 +3288,7 @@
          id="circle1424" />
       <text
          font-size="6px"
-         x="725"
+         x="701"
          y="175"
          text-anchor="middle"
          id="text1426">La cellule</text>
@@ -3239,7 +3297,7 @@
        data-link="https%3A//clipedia.be/videos/la-vie"
        data-name="La vie"
        id="g1434"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-69.617166,490.95858)">
       <circle
          fill="#d119e6"
          cx="750"
@@ -3248,7 +3306,7 @@
          id="circle1430" />
       <text
          font-size="6px"
-         x="775"
+         x="751"
          y="175"
          text-anchor="middle"
          id="text1432">La vie</text>
@@ -3257,7 +3315,7 @@
        data-link="https%3A//clipedia.be/videos/mesure-de-la-tension-arterielle"
        data-name="Mesure de la tension artérielle"
        id="g1440"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-69.617166,506.83359)">
       <circle
          fill="#e619b2"
          cx="800"
@@ -3266,16 +3324,24 @@
          id="circle1436" />
       <text
          font-size="6px"
-         x="825"
+         x="801"
          y="175"
          text-anchor="middle"
-         id="text1438">Mesure de la tension artérielle</text>
+         id="text1438"><tspan
+           sodipodi:role="line"
+           id="tspan567625"
+           x="801"
+           y="175">Mesure de la</tspan><tspan
+           sodipodi:role="line"
+           id="tspan567627"
+           x="801"
+           y="182.5">tension artérielle</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-logarithme-et-l-audition"
        data-name="Le logarithme et l’audition"
        id="g1446"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-70.389871,489.23017)">
       <circle
          fill="#b919e6"
          cx="850"
@@ -3284,16 +3350,24 @@
          id="circle1442" />
       <text
          font-size="6px"
-         x="875"
+         x="851"
          y="175"
          text-anchor="middle"
-         id="text1444">Le logarithme et l’audition</text>
+         id="text1444"><tspan
+           sodipodi:role="line"
+           id="tspan573695"
+           x="851"
+           y="175">Le logarithme</tspan><tspan
+           sodipodi:role="line"
+           id="tspan573697"
+           x="851"
+           y="182.5">et l’audition</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-vision"
        data-name="La vision"
        id="g1452"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
+       transform="matrix(0.26458333,0,0,0.26458333,-69.617166,506.83359)">
       <circle
          fill="#a5e619"
          cx="900"
@@ -3302,7 +3376,7 @@
          id="circle1448" />
       <text
          font-size="6px"
-         x="925"
+         x="901"
          y="175"
          text-anchor="middle"
          id="text1450">La vision</text>
@@ -6322,6 +6396,168 @@
            x="2753"
            y="90"
            id="tspan504982">des lentilles</tspan></text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-3-de-l-alchimie-a-la-chimie"
+       data-name="Histoire de la matière 3 : De l’alchimie à la chimie"
+       id="g1272"
+       transform="matrix(0.26458333,0,0,0.26458333,332.28857,489.55889)">
+      <circle
+         fill="#9ee619"
+         cx="50"
+         cy="100"
+         r="20"
+         id="circle1268" />
+      <text
+         font-size="6px"
+         x="51"
+         y="125"
+         text-anchor="middle"
+         id="text1270"><tspan
+           sodipodi:role="line"
+           id="tspan523341"
+           x="51"
+           y="125">Histoire de</tspan><tspan
+           sodipodi:role="line"
+           x="51"
+           y="132.5"
+           id="tspan523345">la matière 3 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan523343"
+           x="51"
+           y="140">De l’alchimie à la chimie</tspan></text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-2-naissance-de-la-al-chimie"
+       data-name="Histoire de la matière 2 : Naissance de la al chimie"
+       id="g1314"
+       transform="matrix(0.26458333,0,0,0.26458333,218.51773,489.55889)">
+      <circle
+         fill="#e6db19"
+         cx="400"
+         cy="100"
+         r="20"
+         id="circle1310" />
+      <text
+         font-size="6px"
+         x="399"
+         y="125"
+         text-anchor="middle"
+         id="text1312"><tspan
+           sodipodi:role="line"
+           id="tspan532667"
+           x="399"
+           y="125">Histoire de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan532669"
+           x="399"
+           y="132.5">la matière 2 :</tspan><tspan
+           sodipodi:role="line"
+           x="399"
+           y="140"
+           id="tspan532671">Naissance de la al chimie</tspan></text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
+       data-name="Histoire de la matière 1 : les éléments des anciens"
+       id="g1326"
+       transform="matrix(0.26458333,0,0,0.26458333,170.89272,489.55889)">
+      <circle
+         fill="#e69419"
+         cx="500"
+         cy="100"
+         r="20"
+         id="circle1322" />
+      <text
+         font-size="6px"
+         x="501"
+         y="125"
+         text-anchor="middle"
+         id="text1324"><tspan
+           sodipodi:role="line"
+           id="tspan522699"
+           x="501"
+           y="125">Histoire de</tspan><tspan
+           sodipodi:role="line"
+           x="501"
+           y="132.5"
+           id="tspan522703">la matière 1 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan522701"
+           x="501"
+           y="140">les éléments des anciens</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 328.59118,493.37609 h 10.58336"
+       id="path550078" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 308.47605,516.01723 h 10.58333"
+       id="path550193" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 329.64272,516.01723 h 10.58336"
+       id="path550195" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 397.12365,500.86408 h 10.58333"
+       id="path551840" />
+    <g
+       data-link="https%3A//clipedia.be/videos/premiere-loi-de-mendel"
+       data-name="Première loi de Mendel"
+       id="g1404"
+       transform="matrix(0.26458333,0,0,0.26458333,41.516183,479.16394)">
+      <circle
+         fill="#a1e619"
+         cx="500"
+         cy="150"
+         r="20"
+         id="circle1400" />
+      <text
+         font-size="6px"
+         x="503"
+         y="175"
+         text-anchor="middle"
+         id="text1402"><tspan
+           sodipodi:role="line"
+           id="tspan581931"
+           x="503"
+           y="175">Première loi</tspan><tspan
+           sodipodi:role="line"
+           id="tspan581933"
+           x="503"
+           y="182.5">de Mendel</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 179.09951,518.85143 h 10.58334"
+       id="path584565" />
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-fumer"
+       data-name="Pourquoi fumer ?"
+       id="g1374"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.050455,458.35872)">
+      <circle
+         fill="#6419e6"
+         cx="250"
+         cy="150"
+         r="20"
+         id="circle1370" />
+      <text
+         font-size="6px"
+         x="251"
+         y="175"
+         text-anchor="middle"
+         id="text1372"><tspan
+           sodipodi:role="line"
+           id="tspan564563"
+           x="251"
+           y="175">Pourquoi</tspan><tspan
+           sodipodi:role="line"
+           id="tspan564565"
+           x="251"
+           y="182.5">fumer ?</tspan></text>
     </g>
   </g>
 </svg>
