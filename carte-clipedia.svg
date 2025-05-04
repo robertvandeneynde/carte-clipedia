@@ -3,8 +3,8 @@
 
 <svg
    width="1920"
-   height="1080"
-   viewBox="0 0 508 285.75"
+   height="2160"
+   viewBox="0 0 508 571.5"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -23,20 +23,4440 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.67793911"
-     inkscape:cx="396.7908"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.32"
+     inkscape:cx="785.9375"
+     inkscape:cy="995.3125"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     units="px" />
+     units="px"
+     showguides="false" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <path
+       style="fill:#ffd5d5;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6.3400775,6.3284705 4.5449523,183.71763 67.585809,208.75356 96.57558,264.08428 441.28957,266.03129 499.43445,178.13123 499.06422,4.6932696 Z"
+       id="path22474"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#a5e1ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.4827088,284.17623 11.0886062,114.88722 140.289125,-3.62088 14.37826,25.35582 278.77406,0.75158 56.65967,-34.66555 -4.36927,-108.9345 z"
+       id="path15738" />
+    <path
+       style="fill:#ffedb3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.12016,446.46623 161.98825,3.23605 2.78286,32.01316 -100.06582,-1.91913 -4.28937,19.91201 -65.11643,-10.56252 z"
+       id="path13196"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#ffe3ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.973559,453.58504 20.874451,-13.50968 154.95467,4.19836 -8.11417,48.74175 -155.152947,3.4676 -14.396536,-18.7624 z"
+       id="path7604" />
+    <g
+       data-link="https%3A//clipedia.be/videos/le-volume-du-cone-sans-l-integrale"
+       data-name="Le volume du cône (sans l’intégrale)"
+       id="g6"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#8319e6"
+         cx="0"
+         cy="0"
+         r="20"
+         id="circle2" />
+      <text
+         font-size="6px"
+         x="25"
+         y="25"
+         text-anchor="middle"
+         id="text4">Le volume du cône (sans l’intégrale)</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-surface-du-cone"
+       data-name="La surface du cône"
+       id="g12"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#24e619"
+         cx="50"
+         cy="0"
+         r="20"
+         id="circle8" />
+      <text
+         font-size="6px"
+         x="75"
+         y="25"
+         text-anchor="middle"
+         id="text10">La surface du cône</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-l-angle-inscrit-illustration"
+       data-name="Le théorème de l’angle inscrit : illustration"
+       id="g18"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#c3e619"
+         cx="100"
+         cy="0"
+         r="20"
+         id="circle14" />
+      <text
+         font-size="6px"
+         x="125"
+         y="25"
+         text-anchor="middle"
+         id="text16">Le théorème de l’angle inscrit : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-l-angle-inscrit"
+       data-name="Le théorème de l’angle inscrit"
+       id="g24"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#e6193f"
+         cx="150"
+         cy="0"
+         r="20"
+         id="circle20" />
+      <text
+         font-size="6px"
+         x="175"
+         y="25"
+         text-anchor="middle"
+         id="text22">Le théorème de l’angle inscrit</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/mesure-dimension-unite"
+       data-name="Mesure, dimension, unité"
+       id="g30"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#19a8e6"
+         cx="200"
+         cy="0"
+         r="20"
+         id="circle26" />
+      <text
+         font-size="6px"
+         x="225"
+         y="25"
+         text-anchor="middle"
+         id="text28">Mesure, dimension, unité</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-l-angle-au-centre-illustration"
+       data-name="Le théorème de l’angle au centre, illustration"
+       id="g36"
+       transform="matrix(0.26458333,0,0,0.26458333,59.432309,20.328772)">
+      <circle
+         fill="#5de619"
+         cx="250"
+         cy="0"
+         r="20"
+         id="circle32" />
+      <text
+         font-size="6px"
+         x="275"
+         y="25"
+         text-anchor="middle"
+         id="text34">Le théorème de l’angle au centre, illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-l-angle-au-centre"
+       data-name="Le théorème de l’angle au centre"
+       id="g42"
+       transform="matrix(0.26458333,0,0,0.26458333,59.432309,20.328772)">
+      <circle
+         fill="#e61949"
+         cx="300"
+         cy="0"
+         r="20"
+         id="circle38" />
+      <text
+         font-size="6px"
+         x="325"
+         y="25"
+         text-anchor="middle"
+         id="text40">Le théorème de l’angle au centre</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-a-la-mise-en-equation"
+       data-name="Introduction à la mise en équation"
+       id="g48"
+       transform="matrix(0.26458333,0,0,0.26458333,59.432309,20.328772)">
+      <circle
+         fill="#6b19e6"
+         cx="350"
+         cy="0"
+         r="20"
+         id="circle44" />
+      <text
+         font-size="6px"
+         x="375"
+         y="25"
+         text-anchor="middle"
+         id="text46">Introduction à la mise en équation</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/application-du-theoreme-de-thales-2-force"
+       data-name="Application du théorème de Thalès 2 : force"
+       id="g54"
+       transform="matrix(0.26458333,0,0,0.26458333,59.432309,20.328772)">
+      <circle
+         fill="#19e6df"
+         cx="400"
+         cy="0"
+         r="20"
+         id="circle50" />
+      <text
+         font-size="6px"
+         x="425"
+         y="25"
+         text-anchor="middle"
+         id="text52">Application du théorème de Thalès 2 : force</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-la-mediane-pour-le-triangle-rectangle"
+       data-name="Le théorème de la médiane pour le triangle rectangle"
+       id="g60"
+       transform="matrix(0.26458333,0,0,0.26458333,59.432309,20.328772)">
+      <circle
+         fill="#1997e6"
+         cx="450"
+         cy="0"
+         r="20"
+         id="circle56" />
+      <text
+         font-size="6px"
+         x="475"
+         y="25"
+         text-anchor="middle"
+         id="text58">Le théorème de la médiane pour le triangle rectangle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/comment-archimede-a-t-il-calcule-le-volume-de-la-sphere"
+       data-name="Comment Archimède a-t-il calculé le volume de la sphère ?"
+       id="g66"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#199be6"
+         cx="500"
+         cy="0"
+         r="20"
+         id="circle62" />
+      <text
+         font-size="6px"
+         x="525"
+         y="25"
+         text-anchor="middle"
+         id="text64">Comment Archimède a-t-il calculé le volume de la sphère ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/volume-de-la-sphere"
+       data-name="Volume de la sphère"
+       id="g72"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#e66119"
+         cx="550"
+         cy="0"
+         r="20"
+         id="circle68" />
+      <text
+         font-size="6px"
+         x="575"
+         y="25"
+         text-anchor="middle"
+         id="text70">Volume de la sphère</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-surface-de-la-sphere"
+       data-name="La surface de la sphère"
+       id="g78"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#5e19e6"
+         cx="600"
+         cy="0"
+         r="20"
+         id="circle74" />
+      <text
+         font-size="6px"
+         x="625"
+         y="25"
+         text-anchor="middle"
+         id="text76">La surface de la sphère</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/decomposition-infinitesimale-et-integration"
+       data-name="Décomposition infinitésimale et intégration"
+       id="g84"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#e61972"
+         cx="650"
+         cy="0"
+         r="20"
+         id="circle80" />
+      <text
+         font-size="6px"
+         x="675"
+         y="25"
+         text-anchor="middle"
+         id="text82">Décomposition infinitésimale et intégration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-methode-de-decomposition-infinitesimale"
+       data-name="La méthode de décomposition infinitésimale"
+       id="g90"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#1983e6"
+         cx="700"
+         cy="0"
+         r="20"
+         id="circle86" />
+      <text
+         font-size="6px"
+         x="725"
+         y="25"
+         text-anchor="middle"
+         id="text88">La méthode de décomposition infinitésimale</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-au-calcul-infinitesimal"
+       data-name="Introduction au calcul infinitésimal"
+       id="g96"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#e619ac"
+         cx="750"
+         cy="0"
+         r="20"
+         id="circle92" />
+      <text
+         font-size="6px"
+         x="775"
+         y="25"
+         text-anchor="middle"
+         id="text94">Introduction au calcul infinitésimal</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-aire-du-cercle"
+       data-name="L’aire du cercle"
+       id="g102"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#9e19e6"
+         cx="800"
+         cy="0"
+         r="20"
+         id="circle98" />
+      <text
+         font-size="6px"
+         x="825"
+         y="25"
+         text-anchor="middle"
+         id="text100">L’aire du cercle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-nombre-pi-introduction"
+       data-name="Le nombre pi, introduction"
+       id="g108"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#19dbe6"
+         cx="850"
+         cy="0"
+         r="20"
+         id="circle104" />
+      <text
+         font-size="6px"
+         x="875"
+         y="25"
+         text-anchor="middle"
+         id="text106">Le nombre pi, introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/application-du-theoreme-de-thales-1-optique"
+       data-name="Application du théorème de Thalès 1 : optique"
+       id="g114"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#e619e5"
+         cx="900"
+         cy="0"
+         r="20"
+         id="circle110" />
+      <text
+         font-size="6px"
+         x="925"
+         y="25"
+         text-anchor="middle"
+         id="text112">Application du théorème de Thalès 1 : optique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-thales-et-triangles-semblables"
+       data-name="Le théorème de Thalès et triangles semblables"
+       id="g120"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#64e619"
+         cx="950"
+         cy="0"
+         r="20"
+         id="circle116" />
+      <text
+         font-size="6px"
+         x="975"
+         y="25"
+         text-anchor="middle"
+         id="text118">Le théorème de Thalès et triangles semblables</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-thales-demonstration"
+       data-name="Le théorème de Thalès, démonstration"
+       id="g126"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#6e19e6"
+         cx="1000"
+         cy="0"
+         r="20"
+         id="circle122" />
+      <text
+         font-size="6px"
+         x="1025"
+         y="25"
+         text-anchor="middle"
+         id="text124">Le théorème de Thalès, démonstration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-thales-introduction"
+       data-name="Le théorème de Thalès, introduction"
+       id="g132"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#72e619"
+         cx="1050"
+         cy="0"
+         r="20"
+         id="circle128" />
+      <text
+         font-size="6px"
+         x="1075"
+         y="25"
+         text-anchor="middle"
+         id="text130">Le théorème de Thalès, introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-aire-du-trapeze"
+       data-name="L’aire du trapèze"
+       id="g138"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#5e19e6"
+         cx="1100"
+         cy="0"
+         r="20"
+         id="circle134" />
+      <text
+         font-size="6px"
+         x="1125"
+         y="25"
+         text-anchor="middle"
+         id="text136">L’aire du trapèze</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-aire-du-parallelogramme"
+       data-name="L’aire du parallélogramme"
+       id="g144"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#1964e6"
+         cx="1150"
+         cy="0"
+         r="20"
+         id="circle140" />
+      <text
+         font-size="6px"
+         x="1175"
+         y="25"
+         text-anchor="middle"
+         id="text142">L’aire du parallélogramme</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/surfaces-et-aires"
+       data-name="Surfaces et aires"
+       id="g150"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,46.787107)">
+      <circle
+         fill="#193ce6"
+         cx="1200"
+         cy="0"
+         r="20"
+         id="circle146" />
+      <text
+         font-size="6px"
+         x="1225"
+         y="25"
+         text-anchor="middle"
+         id="text148">Surfaces et aires</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-aire-du-triangle"
+       data-name="L’aire du triangle"
+       id="g156"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#e69719"
+         cx="1250"
+         cy="0"
+         r="20"
+         id="circle152" />
+      <text
+         font-size="6px"
+         x="1275"
+         y="25"
+         text-anchor="middle"
+         id="text154">L’aire du triangle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-fractions-revision-4"
+       data-name="Les Fractions : révision 4"
+       id="g162"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#6419e6"
+         cx="1300"
+         cy="0"
+         r="20"
+         id="circle158" />
+      <text
+         font-size="6px"
+         x="1325"
+         y="25"
+         text-anchor="middle"
+         id="text160">Les Fractions : révision 4</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-fractions-revision-3"
+       data-name="Les Fractions : révision 3"
+       id="g168"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#e6b319"
+         cx="1350"
+         cy="0"
+         r="20"
+         id="circle164" />
+      <text
+         font-size="6px"
+         x="1375"
+         y="25"
+         text-anchor="middle"
+         id="text166">Les Fractions : révision 3</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-fractions-revision-2"
+       data-name="Les Fractions : révision 2"
+       id="g174"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#e68619"
+         cx="1400"
+         cy="0"
+         r="20"
+         id="circle170" />
+      <text
+         font-size="6px"
+         x="1425"
+         y="25"
+         text-anchor="middle"
+         id="text172">Les Fractions : révision 2</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-fractions-revision-1"
+       data-name="Les Fractions : révision 1"
+       id="g180"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,20.328772)">
+      <circle
+         fill="#e619c0"
+         cx="1450"
+         cy="0"
+         r="20"
+         id="circle176" />
+      <text
+         font-size="6px"
+         x="1475"
+         y="25"
+         text-anchor="middle"
+         id="text178">Les Fractions : révision 1</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-force-de-lorentz"
+       data-name="la force de Lorentz"
+       id="g720"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+      <circle
+         fill="#3fe619"
+         cx="0"
+         cy="50"
+         r="20"
+         id="circle716" />
+      <text
+         font-size="6px"
+         x="25"
+         y="75"
+         text-anchor="middle"
+         id="text718">la force de Lorentz</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/de-la-force-de-laplace-a-la-force-de-lorentz"
+       data-name="De la force de Laplace à la force de Lorentz"
+       id="g726"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+      <circle
+         fill="#e61979"
+         cx="50"
+         cy="50"
+         r="20"
+         id="circle722" />
+      <text
+         font-size="6px"
+         x="75"
+         y="75"
+         text-anchor="middle"
+         id="text724">De la force de Laplace à la force de Lorentz</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-force-magnetique-de-laplace-2"
+       data-name="La force magnétique de Laplace 2"
+       id="g732"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+      <circle
+         fill="#19e6b3"
+         cx="100"
+         cy="50"
+         r="20"
+         id="circle728" />
+      <text
+         font-size="6px"
+         x="125"
+         y="75"
+         text-anchor="middle"
+         id="text730">La force magnétique de Laplace 2</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-force-magnetique-de-laplace-1"
+       data-name="La force magnétique de Laplace 1"
+       id="g738"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+      <circle
+         fill="#e61949"
+         cx="150"
+         cy="50"
+         r="20"
+         id="circle734" />
+      <text
+         font-size="6px"
+         x="175"
+         y="75"
+         text-anchor="middle"
+         id="text736">La force magnétique de Laplace 1</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-un-champ-de-force-pour-le-monopole-magnetique"
+       data-name="Pourquoi un champ de force pour le monopôle magnétique ?"
+       id="g744"
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+      <circle
+         fill="#19e6ca"
+         cx="200"
+         cy="50"
+         r="20"
+         id="circle740" />
+      <text
+         font-size="6px"
+         x="225"
+         y="75"
+         text-anchor="middle"
+         id="text742">Pourquoi un champ de force pour le monopôle magnétique ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-le-concept-de-champ"
+       data-name="Pourquoi le concept de champ ?"
+       id="g750"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+      <circle
+         fill="#19e66f"
+         cx="250"
+         cy="50"
+         r="20"
+         id="circle746" />
+      <text
+         font-size="6px"
+         x="275"
+         y="75"
+         text-anchor="middle"
+         id="text748">Pourquoi le concept de champ ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-a-t-on-abandonne-ampere"
+       data-name="Pourquoi a-t-on abandonné Ampère ?"
+       id="g756"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+      <circle
+         fill="#19e631"
+         cx="300"
+         cy="50"
+         r="20"
+         id="circle752" />
+      <text
+         font-size="6px"
+         x="325"
+         y="75"
+         text-anchor="middle"
+         id="text754">Pourquoi a-t-on abandonné Ampère ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mystere-des-courants-de-surface"
+       data-name="Le mystère des courants de surface"
+       id="g762"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+      <circle
+         fill="#e65319"
+         cx="350"
+         cy="50"
+         r="20"
+         id="circle758" />
+      <text
+         font-size="6px"
+         x="375"
+         y="75"
+         text-anchor="middle"
+         id="text760">Le mystère des courants de surface</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-bonhomme-d-ampere-un-mystere-resolu"
+       data-name="Le bonhomme d’Ampère : un mystère résolu"
+       id="g768"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+      <circle
+         fill="#198de6"
+         cx="400"
+         cy="50"
+         r="20"
+         id="circle764" />
+      <text
+         font-size="6px"
+         x="425"
+         y="75"
+         text-anchor="middle"
+         id="text766">Le bonhomme d’Ampère : un mystère résolu</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/qu-est-ce-qu-un-aimant-selon-ampere"
+       data-name="Qu’est ce qu’un aimant selon Ampère ?"
+       id="g774"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+      <circle
+         fill="#4ce619"
+         cx="450"
+         cy="50"
+         r="20"
+         id="circle770" />
+      <text
+         font-size="6px"
+         x="475"
+         y="75"
+         text-anchor="middle"
+         id="text772">Qu’est ce qu’un aimant selon Ampère ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/constante-de-force-magnetique-definition-de-l-amper"
+       data-name="Constante de force magnétique : définition de l’Ampère"
+       id="g780"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+      <circle
+         fill="#ace619"
+         cx="500"
+         cy="50"
+         r="20"
+         id="circle776" />
+      <text
+         font-size="6px"
+         x="525"
+         y="75"
+         text-anchor="middle"
+         id="text778">Constante de force magnétique : définition de l’Ampère</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/interaction-entre-courants-paralleles-formule-d-ampere"
+       data-name="Interaction entre courants parallèles : formule d’Ampère"
+       id="g786"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+      <circle
+         fill="#19ace6"
+         cx="550"
+         cy="50"
+         r="20"
+         id="circle782" />
+      <text
+         font-size="6px"
+         x="575"
+         y="75"
+         text-anchor="middle"
+         id="text784">Interaction entre courants parallèles : formule d’Ampère</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/courant-electrique-et-champ-magnetique"
+       data-name="Courant électrique et champ magnétique"
+       id="g792"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+      <circle
+         fill="#e61920"
+         cx="600"
+         cy="50"
+         r="20"
+         id="circle788" />
+      <text
+         font-size="6px"
+         x="625"
+         y="75"
+         text-anchor="middle"
+         id="text790">Courant électrique et champ magnétique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/orientation-du-champ-magnetique"
+       data-name="Orientation du champ magnétique"
+       id="g798"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+      <circle
+         fill="#50e619"
+         cx="650"
+         cy="50"
+         r="20"
+         id="circle794" />
+      <text
+         font-size="6px"
+         x="675"
+         y="75"
+         text-anchor="middle"
+         id="text796">Orientation du champ magnétique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-formule-de-biot-et-savart"
+       data-name="La formule de Biot et Savart"
+       id="g804"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+      <circle
+         fill="#19e638"
+         cx="700"
+         cy="50"
+         r="20"
+         id="circle800" />
+      <text
+         font-size="6px"
+         x="725"
+         y="75"
+         text-anchor="middle"
+         id="text802">La formule de Biot et Savart</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-experience-d-rsted"
+       data-name="L’expérience d’Œrsted"
+       id="g810"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.835976,381.80746)">
+      <circle
+         fill="#e6195d"
+         cx="750"
+         cy="50"
+         r="20"
+         id="circle806" />
+      <text
+         font-size="6px"
+         x="775"
+         y="75"
+         text-anchor="middle"
+         id="text808">L’expérience d’Œrsted</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/magnetisme-introduction-4-la-loi-de-coulomb"
+       data-name="Magnétisme introduction 4 : la loi de Coulomb"
+       id="g816"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.339576,321.49913)">
+      <circle
+         fill="#c3e619"
+         cx="800"
+         cy="50"
+         r="20"
+         id="circle812" />
+      <text
+         font-size="6px"
+         x="825"
+         y="75"
+         text-anchor="middle"
+         id="text814">Magnétisme introduction 4 : la loi de Coulomb</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/magnetisme-introduction-3-le-champ-magnetique"
+       data-name="Magnétisme introduction 3 : le champ magnétique"
+       id="g822"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.339576,321.49913)">
+      <circle
+         fill="#75e619"
+         cx="850"
+         cy="50"
+         r="20"
+         id="circle818" />
+      <text
+         font-size="6px"
+         x="875"
+         y="75"
+         text-anchor="middle"
+         id="text820">Magnétisme introduction 3 : le champ magnétique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/magnetisme-introduction-2-les-poles-magnetiques"
+       data-name="Magnétisme introduction 2 : les pôles magnétiques"
+       id="g828"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.339576,321.49913)">
+      <circle
+         fill="#7519e6"
+         cx="900"
+         cy="50"
+         r="20"
+         id="circle824" />
+      <text
+         font-size="6px"
+         x="925"
+         y="75"
+         text-anchor="middle"
+         id="text826">Magnétisme introduction 2 : les pôles magnétiques</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/magnetisme-introduction-1-de-l-antiquite-au-moyen-age"
+       data-name="Magnétisme introduction 1 : de l’antiquité au moyen âge"
+       id="g834"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.047909,321.49913)">
+      <circle
+         fill="#5019e6"
+         cx="950"
+         cy="50"
+         r="20"
+         id="circle830" />
+      <text
+         font-size="6px"
+         x="975"
+         y="75"
+         text-anchor="middle"
+         id="text832">Magnétisme introduction 1 : de l’antiquité au moyen âge</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/equations-de-poisson-et-laplace-illustration"
+       data-name="Équations de Poisson et Laplace : illustration"
+       id="g840"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.047909,321.49913)">
+      <circle
+         fill="#1990e6"
+         cx="1000"
+         cy="50"
+         r="20"
+         id="circle836" />
+      <text
+         font-size="6px"
+         x="1025"
+         y="75"
+         text-anchor="middle"
+         id="text838">Équations de Poisson et Laplace : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/equations-de-poisson-et-laplace"
+       data-name="Équations de Poisson et Laplace"
+       id="g846"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+      <circle
+         fill="#68e619"
+         cx="1050"
+         cy="50"
+         r="20"
+         id="circle842" />
+      <text
+         font-size="6px"
+         x="1075"
+         y="75"
+         text-anchor="middle"
+         id="text844">Équations de Poisson et Laplace</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/champ-et-gradient-du-potentiel-illustration"
+       data-name="Champ et gradient du potentiel : illustration"
+       id="g852"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+      <circle
+         fill="#e61935"
+         cx="1100"
+         cy="50"
+         r="20"
+         id="circle848" />
+      <text
+         font-size="6px"
+         x="1125"
+         y="75"
+         text-anchor="middle"
+         id="text850">Champ et gradient du potentiel : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/champ-et-gradient-du-potentiel"
+       data-name="Champ et gradient du potentiel"
+       id="g858"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+      <circle
+         fill="#19e62e"
+         cx="1150"
+         cy="50"
+         r="20"
+         id="circle854" />
+      <text
+         font-size="6px"
+         x="1175"
+         y="75"
+         text-anchor="middle"
+         id="text856">Champ et gradient du potentiel</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-coulombien-illustrations"
+       data-name="Le potentiel coulombien : illustrations"
+       id="g864"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+      <circle
+         fill="#19e635"
+         cx="1200"
+         cy="50"
+         r="20"
+         id="circle860" />
+      <text
+         font-size="6px"
+         x="1225"
+         y="75"
+         text-anchor="middle"
+         id="text862">Le potentiel coulombien : illustrations</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-coulombien"
+       data-name="Le potentiel coulombien"
+       id="g870"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+      <circle
+         fill="#e619a8"
+         cx="1250"
+         cy="50"
+         r="20"
+         id="circle866" />
+      <text
+         font-size="6px"
+         x="1275"
+         y="75"
+         text-anchor="middle"
+         id="text868">Le potentiel coulombien</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-electrique-3-formulation-generale"
+       data-name="Le potentiel électrique 3 : formulation générale"
+       id="g876"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+      <circle
+         fill="#e6192a"
+         cx="1300"
+         cy="50"
+         r="20"
+         id="circle872" />
+      <text
+         font-size="6px"
+         x="1325"
+         y="75"
+         text-anchor="middle"
+         id="text874">Le potentiel électrique 3 : formulation générale</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-loi-d-ohm-la-resistance-electrique"
+       data-name="La loi d’Ohm, la résistance électrique"
+       id="g882"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+      <circle
+         fill="#e619a5"
+         cx="1350"
+         cy="50"
+         r="20"
+         id="circle878" />
+      <text
+         font-size="6px"
+         x="1375"
+         y="75"
+         text-anchor="middle"
+         id="text880">La loi d’Ohm, la résistance électrique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-electrique-2-champ-uniforme-illustration"
+       data-name="Le potentiel électrique 2 : champ uniforme, illustration"
+       id="g888"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+      <circle
+         fill="#5ae619"
+         cx="1400"
+         cy="50"
+         r="20"
+         id="circle884" />
+      <text
+         font-size="6px"
+         x="1425"
+         y="75"
+         text-anchor="middle"
+         id="text886">Le potentiel électrique 2 : champ uniforme, illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-electrique-1-champ-uniforme"
+       data-name="Le potentiel électrique 1 : champ uniforme"
+       id="g894"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+      <circle
+         fill="#19e619"
+         cx="1450"
+         cy="50"
+         r="20"
+         id="circle890" />
+      <text
+         font-size="6px"
+         x="1475"
+         y="75"
+         text-anchor="middle"
+         id="text892">Le potentiel électrique 1 : champ uniforme</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/methode-de-gauss-3-le-plan"
+       data-name="Méthode de Gauss 3 : le plan"
+       id="g900"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+      <circle
+         fill="#3f19e6"
+         cx="1500"
+         cy="50"
+         r="20"
+         id="circle896" />
+      <text
+         font-size="6px"
+         x="1525"
+         y="75"
+         text-anchor="middle"
+         id="text898">Méthode de Gauss 3 : le plan</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/methode-de-gauss-2-le-cylindre"
+       data-name="Méthode de Gauss 2 : le cylindre"
+       id="g906"
+       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+      <circle
+         fill="#e64619"
+         cx="1550"
+         cy="50"
+         r="20"
+         id="circle902" />
+      <text
+         font-size="6px"
+         x="1575"
+         y="75"
+         text-anchor="middle"
+         id="text904">Méthode de Gauss 2 : le cylindre</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/methode-de-gauss-1-la-sphere"
+       data-name="Méthode de Gauss 1 : la sphère"
+       id="g912"
+       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+      <circle
+         fill="#e62019"
+         cx="1600"
+         cy="50"
+         r="20"
+         id="circle908" />
+      <text
+         font-size="6px"
+         x="1625"
+         y="75"
+         text-anchor="middle"
+         id="text910">Méthode de Gauss 1 : la sphère</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-introduction-ii"
+       data-name="Le potentiel : introduction II"
+       id="g918"
+       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+      <circle
+         fill="#e6199e"
+         cx="1650"
+         cy="50"
+         r="20"
+         id="circle914" />
+      <text
+         font-size="6px"
+         x="1675"
+         y="75"
+         text-anchor="middle"
+         id="text916">Le potentiel : introduction II</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-potentiel-introduction-i"
+       data-name="Le potentiel : introduction I"
+       id="g924"
+       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+      <circle
+         fill="#e66419"
+         cx="1700"
+         cy="50"
+         r="20"
+         id="circle920" />
+      <text
+         font-size="6px"
+         x="1725"
+         y="75"
+         text-anchor="middle"
+         id="text922">Le potentiel : introduction I</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/theoreme-d-ostrogradski"
+       data-name="Théorème d’Ostrogradski"
+       id="g930"
+       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+      <circle
+         fill="#4619e6"
+         cx="1750"
+         cy="50"
+         r="20"
+         id="circle926" />
+      <text
+         font-size="6px"
+         x="1775"
+         y="75"
+         text-anchor="middle"
+         id="text928">Théorème d’Ostrogradski</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/loi-de-gauss-forme-locale"
+       data-name="Loi de Gauss : forme locale"
+       id="g936"
+       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+      <circle
+         fill="#19e649"
+         cx="1800"
+         cy="50"
+         r="20"
+         id="circle932" />
+      <text
+         font-size="6px"
+         x="1825"
+         y="75"
+         text-anchor="middle"
+         id="text934">Loi de Gauss : forme locale</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/loi-de-gauss-distribution-de-charge-continue"
+       data-name="Loi de Gauss : distribution de charge continue"
+       id="g942"
+       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+      <circle
+         fill="#50e619"
+         cx="1850"
+         cy="50"
+         r="20"
+         id="circle938" />
+      <text
+         font-size="6px"
+         x="1875"
+         y="75"
+         text-anchor="middle"
+         id="text940">Loi de Gauss : distribution de charge continue</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/loi-de-gausspour-le-champ-electrique"
+       data-name="Loi de Gauss pour le champ électrique"
+       id="g948"
+       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+      <circle
+         fill="#e68a19"
+         cx="1900"
+         cy="50"
+         r="20"
+         id="circle944" />
+      <text
+         font-size="6px"
+         x="1925"
+         y="75"
+         text-anchor="middle"
+         id="text946">Loi de Gauss pour le champ électrique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-gauss-demonstration"
+       data-name="Le théorème de Gauss : démonstration"
+       id="g954"
+       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+      <circle
+         fill="#e61968"
+         cx="1950"
+         cy="50"
+         r="20"
+         id="circle950" />
+      <text
+         font-size="6px"
+         x="1975"
+         y="75"
+         text-anchor="middle"
+         id="text952">Le théorème de Gauss : démonstration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-loi-de-gauss-introduction"
+       data-name="La loi de Gauss : Introduction"
+       id="g960"
+       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+      <circle
+         fill="#19e631"
+         cx="2000"
+         cy="50"
+         r="20"
+         id="circle956" />
+      <text
+         font-size="6px"
+         x="2025"
+         y="75"
+         text-anchor="middle"
+         id="text958">La loi de Gauss : Introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-lumiere-est-invisible"
+       data-name="La lumière est invisible"
+       id="g966"
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+      <circle
+         fill="#e6db19"
+         cx="2050"
+         cy="50"
+         r="20"
+         id="circle962" />
+      <text
+         font-size="6px"
+         x="2075"
+         y="75"
+         text-anchor="middle"
+         id="text964">La lumière est invisible</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/qu-est-ce-que-la-lumiere"
+       data-name="Qu’est-ce que la lumière ?"
+       id="g972"
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+      <circle
+         fill="#e6195d"
+         cx="2100"
+         cy="50"
+         r="20"
+         id="circle968" />
+      <text
+         font-size="6px"
+         x="2125"
+         y="75"
+         text-anchor="middle"
+         id="text970">Qu’est-ce que la lumière ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits"
+       data-name="La théorie cinétique des gaz parfaits"
+       id="g978"
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+      <circle
+         fill="#3819e6"
+         cx="2150"
+         cy="50"
+         r="20"
+         id="circle974" />
+      <text
+         font-size="6px"
+         x="2175"
+         y="75"
+         text-anchor="middle"
+         id="text976">La théorie cinétique des gaz parfaits</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits-introduction"
+       data-name="La théorie cinétique des gaz parfaits, introduction"
+       id="g984"
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+      <circle
+         fill="#e619e2"
+         cx="2200"
+         cy="50"
+         r="20"
+         id="circle980" />
+      <text
+         font-size="6px"
+         x="2225"
+         y="75"
+         text-anchor="middle"
+         id="text982">La théorie cinétique des gaz parfaits, introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-les-corps-tombent-ils-tous-a-la-meme-vitesse"
+       data-name="Pourquoi les corps tombent-ils tous à la même vitesse?"
+       id="g990"
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+      <circle
+         fill="#19e631"
+         cx="2250"
+         cy="50"
+         r="20"
+         id="circle986" />
+      <text
+         font-size="6px"
+         x="2275"
+         y="75"
+         text-anchor="middle"
+         id="text988">Pourquoi les corps tombent-ils tous à la même vitesse?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/formule-de-l-energiecinetique"
+       data-name="Formule de l'énergie cinétique"
+       id="g996"
+       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+      <circle
+         fill="#ac19e6"
+         cx="2300"
+         cy="50"
+         r="20"
+         id="circle992" />
+      <text
+         font-size="6px"
+         x="2325"
+         y="75"
+         text-anchor="middle"
+         id="text994">Formule de l'énergie cinétique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniformement-accelere-generalisation"
+       data-name="Le Mouvement Rectiligne Uniformément Accéléré : généralisation"
+       id="g1002"
+       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+      <circle
+         fill="#19e6ce"
+         cx="2350"
+         cy="50"
+         r="20"
+         id="circle998" />
+      <text
+         font-size="6px"
+         x="2375"
+         y="75"
+         text-anchor="middle"
+         id="text1000">Le Mouvement Rectiligne Uniformément Accéléré : généralisation</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniformement-accelere-introduction"
+       data-name="Le Mouvement Rectiligne Uniformément Accéléré : introduction"
+       id="g1008"
+       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+      <circle
+         fill="#3519e6"
+         cx="2400"
+         cy="50"
+         r="20"
+         id="circle1004" />
+      <text
+         font-size="6px"
+         x="2425"
+         y="75"
+         text-anchor="middle"
+         id="text1006">Le Mouvement Rectiligne Uniformément Accéléré : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-circonference-de-la-terre"
+       data-name="La circonférence de la Terre"
+       id="g1014"
+       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+      <circle
+         fill="#1949e6"
+         cx="2450"
+         cy="50"
+         r="20"
+         id="circle1010" />
+      <text
+         font-size="6px"
+         x="2475"
+         y="75"
+         text-anchor="middle"
+         id="text1012">La circonférence de la Terre</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/energie-de-rotation-et-moment-d-inertie"
+       data-name="Energie de rotation et moment d'inertie"
+       id="g1020"
+       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+      <circle
+         fill="#e619c0"
+         cx="2500"
+         cy="50"
+         r="20"
+         id="circle1016" />
+      <text
+         font-size="6px"
+         x="2525"
+         y="75"
+         text-anchor="middle"
+         id="text1018">Energie de rotation et moment d'inertie</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-dynamique-de-la-rotation-et-le-moment-d-inertie"
+       data-name="La dynamique de la rotation et le moment d'inertie"
+       id="g1026"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+      <circle
+         fill="#19e691"
+         cx="2550"
+         cy="50"
+         r="20"
+         id="circle1022" />
+      <text
+         font-size="6px"
+         x="2575"
+         y="75"
+         text-anchor="middle"
+         id="text1024">La dynamique de la rotation et le moment d'inertie</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-moment-de-force"
+       data-name="Le moment de force"
+       id="g1032"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+      <circle
+         fill="#e65319"
+         cx="2600"
+         cy="50"
+         r="20"
+         id="circle1028" />
+      <text
+         font-size="6px"
+         x="2625"
+         y="75"
+         text-anchor="middle"
+         id="text1030">Le moment de force</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-ondes-gravitationnelles"
+       data-name="Les ondes gravitationnelles"
+       id="g1038"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+      <circle
+         fill="#e61920"
+         cx="2650"
+         cy="50"
+         r="20"
+         id="circle1034" />
+      <text
+         font-size="6px"
+         x="2675"
+         y="75"
+         text-anchor="middle"
+         id="text1036">Les ondes gravitationnelles</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-lentilles-divergentes"
+       data-name="Les lentilles divergentes"
+       id="g1044"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+      <circle
+         fill="#1979e6"
+         cx="2700"
+         cy="50"
+         r="20"
+         id="circle1040" />
+      <text
+         font-size="6px"
+         x="2725"
+         y="75"
+         text-anchor="middle"
+         id="text1042">Les lentilles divergentes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-relation-de-conjugaison-des-lentilles"
+       data-name="La relation de conjugaison des lentilles"
+       id="g1050"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+      <circle
+         fill="#195de6"
+         cx="2750"
+         cy="50"
+         r="20"
+         id="circle1046" />
+      <text
+         font-size="6px"
+         x="2775"
+         y="75"
+         text-anchor="middle"
+         id="text1048">La relation de conjugaison des lentilles</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-a-la-loi-des-lentilles"
+       data-name="Introduction à la loi des lentilles"
+       id="g1056"
+       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+      <circle
+         fill="#bd19e6"
+         cx="2800"
+         cy="50"
+         r="20"
+         id="circle1052" />
+      <text
+         font-size="6px"
+         x="2825"
+         y="75"
+         text-anchor="middle"
+         id="text1054">Introduction à la loi des lentilles</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-technique-clipedia-pour-une-didactique-nouvelle"
+       data-name="La technique «CliPeDia» : pour une didactique nouvelle"
+       id="g1062"
+       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+      <circle
+         fill="#90e619"
+         cx="2850"
+         cy="50"
+         r="20"
+         id="circle1058" />
+      <text
+         font-size="6px"
+         x="2875"
+         y="75"
+         text-anchor="middle"
+         id="text1060">La technique «CliPeDia» : pour une didactique nouvelle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-loupe"
+       data-name="La loupe"
+       id="g1068"
+       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+      <circle
+         fill="#19e661"
+         cx="2900"
+         cy="50"
+         r="20"
+         id="circle1064" />
+      <text
+         font-size="6px"
+         x="2925"
+         y="75"
+         text-anchor="middle"
+         id="text1066">La loupe</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-appareil-photographique-principes-de-base"
+       data-name="L’appareil photographique : principes de base"
+       id="g1074"
+       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+      <circle
+         fill="#e6d819"
+         cx="2950"
+         cy="50"
+         r="20"
+         id="circle1070" />
+      <text
+         font-size="6px"
+         x="2975"
+         y="75"
+         text-anchor="middle"
+         id="text1072">L’appareil photographique : principes de base</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-lentilles-introduction"
+       data-name="Les lentilles : introduction"
+       id="g1080"
+       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+      <circle
+         fill="#19ace6"
+         cx="3000"
+         cy="50"
+         r="20"
+         id="circle1076" />
+      <text
+         font-size="6px"
+         x="3025"
+         y="75"
+         text-anchor="middle"
+         id="text1078">Les lentilles : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-loi-de-newton"
+       data-name="La loi de Newton"
+       id="g1086"
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+      <circle
+         fill="#19e6b6"
+         cx="3050"
+         cy="50"
+         r="20"
+         id="circle1082" />
+      <text
+         font-size="6px"
+         x="3075"
+         y="75"
+         text-anchor="middle"
+         id="text1084">La loi de Newton</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-proces-de-galilee"
+       data-name="Le procès de Galilée"
+       id="g1092"
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+      <circle
+         fill="#35e619"
+         cx="3100"
+         cy="50"
+         r="20"
+         id="circle1088" />
+      <text
+         font-size="6px"
+         x="3125"
+         y="75"
+         text-anchor="middle"
+         id="text1090">Le procès de Galilée</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-principe-de-relativite"
+       data-name="Le principe de relativité"
+       id="g1098"
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+      <circle
+         fill="#1949e6"
+         cx="3150"
+         cy="50"
+         r="20"
+         id="circle1094" />
+      <text
+         font-size="6px"
+         x="3175"
+         y="75"
+         text-anchor="middle"
+         id="text1096">Le principe de relativité</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-principe-d-inertie"
+       data-name="Le principe d’inertie"
+       id="g1104"
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+      <circle
+         fill="#19e6c7"
+         cx="3200"
+         cy="50"
+         r="20"
+         id="circle1100" />
+      <text
+         font-size="6px"
+         x="3225"
+         y="75"
+         text-anchor="middle"
+         id="text1102">Le principe d’inertie</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-pression-dans-les-liquides"
+       data-name="La pression dans les liquides"
+       id="g1110"
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+      <circle
+         fill="#e6ce19"
+         cx="3250"
+         cy="50"
+         r="20"
+         id="circle1106" />
+      <text
+         font-size="6px"
+         x="3275"
+         y="75"
+         text-anchor="middle"
+         id="text1108">La pression dans les liquides</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/solutions-et-concentration"
+       data-name="Solutions et concentration"
+       id="g1266"
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+      <circle
+         fill="#72e619"
+         cx="0"
+         cy="100"
+         r="20"
+         id="circle1262" />
+      <text
+         font-size="6px"
+         x="25"
+         y="125"
+         text-anchor="middle"
+         id="text1264">Solutions et concentration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-3-de-l-alchimie-a-la-chimie"
+       data-name="Histoire de la matière 3 : De l’alchimie à la chimie"
+       id="g1272"
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+      <circle
+         fill="#9ee619"
+         cx="50"
+         cy="100"
+         r="20"
+         id="circle1268" />
+      <text
+         font-size="6px"
+         x="75"
+         y="125"
+         text-anchor="middle"
+         id="text1270">Histoire de la matière 3 : De l’alchimie à la chimie</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-tableau-periodique-des-elements"
+       data-name="Le Tableau Périodique des Éléments"
+       id="g1278"
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+      <circle
+         fill="#d8e619"
+         cx="100"
+         cy="100"
+         r="20"
+         id="circle1274" />
+      <text
+         font-size="6px"
+         x="125"
+         y="125"
+         text-anchor="middle"
+         id="text1276">Le Tableau Périodique des Éléments</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-reactions-chimiques2-pourquoi-comment"
+       data-name="Les réactions chimiques 2 : Pourquoi ? Comment ?"
+       id="g1284"
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+      <circle
+         fill="#e6198a"
+         cx="150"
+         cy="100"
+         r="20"
+         id="circle1280" />
+      <text
+         font-size="6px"
+         x="175"
+         y="125"
+         text-anchor="middle"
+         id="text1282">Les réactions chimiques 2 : Pourquoi ? Comment ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-reactions-chimiques-introduction"
+       data-name="Les réactions chimiques : introduction"
+       id="g1290"
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+      <circle
+         fill="#19e694"
+         cx="200"
+         cy="100"
+         r="20"
+         id="circle1286" />
+      <text
+         font-size="6px"
+         x="225"
+         y="125"
+         text-anchor="middle"
+         id="text1288">Les réactions chimiques : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/datation-au-carbone-14"
+       data-name="Datation au carbone 14"
+       id="g1296"
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+      <circle
+         fill="#e63519"
+         cx="250"
+         cy="100"
+         r="20"
+         id="circle1292" />
+      <text
+         font-size="6px"
+         x="275"
+         y="125"
+         text-anchor="middle"
+         id="text1294">Datation au carbone 14</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/isotopes-et-radioactivite"
+       data-name="Isotopes et radioactivité"
+       id="g1302"
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+      <circle
+         fill="#19a5e6"
+         cx="300"
+         cy="100"
+         r="20"
+         id="circle1298" />
+      <text
+         font-size="6px"
+         x="325"
+         y="125"
+         text-anchor="middle"
+         id="text1300">Isotopes et radioactivité</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-isotopes"
+       data-name="Les isotopes"
+       id="g1308"
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+      <circle
+         fill="#19e65e"
+         cx="350"
+         cy="100"
+         r="20"
+         id="circle1304" />
+      <text
+         font-size="6px"
+         x="375"
+         y="125"
+         text-anchor="middle"
+         id="text1306">Les isotopes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-2-naissance-de-la-al-chimie"
+       data-name="Histoire de la matière 2 : Naissance de la al chimie"
+       id="g1314"
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+      <circle
+         fill="#e6db19"
+         cx="400"
+         cy="100"
+         r="20"
+         id="circle1310" />
+      <text
+         font-size="6px"
+         x="425"
+         y="125"
+         text-anchor="middle"
+         id="text1312">Histoire de la matière 2 : Naissance de la al chimie</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-atomes"
+       data-name="Les atomes"
+       id="g1320"
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+      <circle
+         fill="#19e66f"
+         cx="450"
+         cy="100"
+         r="20"
+         id="circle1316" />
+      <text
+         font-size="6px"
+         x="475"
+         y="125"
+         text-anchor="middle"
+         id="text1318">Les atomes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
+       data-name="Histoire de la matière 1 : les éléments des anciens"
+       id="g1326"
+       transform="matrix(0.26458333,0,0,0.26458333,165.61433,450.22203)">
+      <circle
+         fill="#e69419"
+         cx="500"
+         cy="100"
+         r="20"
+         id="circle1322" />
+      <text
+         font-size="6px"
+         x="525"
+         y="125"
+         text-anchor="middle"
+         id="text1324">Histoire de la matière 1 : les éléments des anciens</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-mole-illustration"
+       data-name="La mole : illustration"
+       id="g1332"
+       transform="matrix(0.26458333,0,0,0.26458333,165.61433,450.22203)">
+      <circle
+         fill="#e61994"
+         cx="550"
+         cy="100"
+         r="20"
+         id="circle1328" />
+      <text
+         font-size="6px"
+         x="575"
+         y="125"
+         text-anchor="middle"
+         id="text1330">La mole : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-mole"
+       data-name="La mole"
+       id="g1338"
+       transform="matrix(0.26458333,0,0,0.26458333,165.61433,450.22203)">
+      <circle
+         fill="#a1e619"
+         cx="600"
+         cy="100"
+         r="20"
+         id="circle1334" />
+      <text
+         font-size="6px"
+         x="625"
+         y="125"
+         text-anchor="middle"
+         id="text1336">La mole</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-virus-sont-ils-vivants"
+       data-name="Les virus sont-ils vivants ?"
+       id="g1344"
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+      <circle
+         fill="#19e620"
+         cx="0"
+         cy="150"
+         r="20"
+         id="circle1340" />
+      <text
+         font-size="6px"
+         x="25"
+         y="175"
+         text-anchor="middle"
+         id="text1342">Les virus sont-ils vivants ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/digestion-des-proteines"
+       data-name="Digestion des protéines"
+       id="g1350"
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+      <circle
+         fill="#19e6af"
+         cx="50"
+         cy="150"
+         r="20"
+         id="circle1346" />
+      <text
+         font-size="6px"
+         x="75"
+         y="175"
+         text-anchor="middle"
+         id="text1348">Digestion des protéines</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/structure-des-proteines"
+       data-name="Structure des protéines"
+       id="g1356"
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+      <circle
+         fill="#19e61d"
+         cx="100"
+         cy="150"
+         r="20"
+         id="circle1352" />
+      <text
+         font-size="6px"
+         x="125"
+         y="175"
+         text-anchor="middle"
+         id="text1354">Structure des protéines</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-aux-proteines"
+       data-name="Introduction aux protéines"
+       id="g1362"
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+      <circle
+         fill="#197fe6"
+         cx="150"
+         cy="150"
+         r="20"
+         id="circle1358" />
+      <text
+         font-size="6px"
+         x="175"
+         y="175"
+         text-anchor="middle"
+         id="text1360">Introduction aux protéines</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/de-l-adn-qui-ne-viendrait-que-de-maman"
+       data-name="De L’ADN qui ne viendrait que de Maman ?!"
+       id="g1368"
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+      <circle
+         fill="#e62e19"
+         cx="200"
+         cy="150"
+         r="20"
+         id="circle1364" />
+      <text
+         font-size="6px"
+         x="225"
+         y="175"
+         text-anchor="middle"
+         id="text1366">De L’ADN qui ne viendrait que de Maman ?!</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-fumer"
+       data-name="Pourquoi fumer ?"
+       id="g1374"
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+      <circle
+         fill="#6419e6"
+         cx="250"
+         cy="150"
+         r="20"
+         id="circle1370" />
+      <text
+         font-size="6px"
+         x="275"
+         y="175"
+         text-anchor="middle"
+         id="text1372">Pourquoi fumer ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/je-suis-ce-que-je-mange"
+       data-name="Je suis ce que je mange"
+       id="g1380"
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+      <circle
+         fill="#e6d119"
+         cx="300"
+         cy="150"
+         r="20"
+         id="circle1376" />
+      <text
+         font-size="6px"
+         x="325"
+         y="175"
+         text-anchor="middle"
+         id="text1378">Je suis ce que je mange</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-le-carbone"
+       data-name="Pourquoi le carbone ?"
+       id="g1386"
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+      <circle
+         fill="#2019e6"
+         cx="350"
+         cy="150"
+         r="20"
+         id="circle1382" />
+      <text
+         font-size="6px"
+         x="375"
+         y="175"
+         text-anchor="middle"
+         id="text1384">Pourquoi le carbone ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/de-quoi-sommes-nous-faits"
+       data-name="De quoi sommes nous faits ?"
+       id="g1392"
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+      <circle
+         fill="#35e619"
+         cx="400"
+         cy="150"
+         r="20"
+         id="circle1388" />
+      <text
+         font-size="6px"
+         x="425"
+         y="175"
+         text-anchor="middle"
+         id="text1390">De quoi sommes nous faits ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/deuxieme-loi-de-mendel"
+       data-name="Deuxième loi de Mendel"
+       id="g1398"
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+      <circle
+         fill="#e6198a"
+         cx="450"
+         cy="150"
+         r="20"
+         id="circle1394" />
+      <text
+         font-size="6px"
+         x="475"
+         y="175"
+         text-anchor="middle"
+         id="text1396">Deuxième loi de Mendel</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/premiere-loi-de-mendel"
+       data-name="Première loi de Mendel"
+       id="g1404"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+      <circle
+         fill="#a1e619"
+         cx="500"
+         cy="150"
+         r="20"
+         id="circle1400" />
+      <text
+         font-size="6px"
+         x="525"
+         y="175"
+         text-anchor="middle"
+         id="text1402">Première loi de Mendel</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-a-la-genetique"
+       data-name="Introduction à la génétique"
+       id="g1410"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+      <circle
+         fill="#19e646"
+         cx="550"
+         cy="150"
+         r="20"
+         id="circle1406" />
+      <text
+         font-size="6px"
+         x="575"
+         y="175"
+         text-anchor="middle"
+         id="text1408">Introduction à la génétique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-adn"
+       data-name="L'ADN"
+       id="g1416"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+      <circle
+         fill="#50e619"
+         cx="600"
+         cy="150"
+         r="20"
+         id="circle1412" />
+      <text
+         font-size="6px"
+         x="625"
+         y="175"
+         text-anchor="middle"
+         id="text1414">L'ADN</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-usine-cellulaire"
+       data-name="L’usine cellulaire"
+       id="g1422"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+      <circle
+         fill="#1953e6"
+         cx="650"
+         cy="150"
+         r="20"
+         id="circle1418" />
+      <text
+         font-size="6px"
+         x="675"
+         y="175"
+         text-anchor="middle"
+         id="text1420">L’usine cellulaire</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-cellule"
+       data-name="La cellule"
+       id="g1428"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+      <circle
+         fill="#e62e19"
+         cx="700"
+         cy="150"
+         r="20"
+         id="circle1424" />
+      <text
+         font-size="6px"
+         x="725"
+         y="175"
+         text-anchor="middle"
+         id="text1426">La cellule</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-vie"
+       data-name="La vie"
+       id="g1434"
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+      <circle
+         fill="#d119e6"
+         cx="750"
+         cy="150"
+         r="20"
+         id="circle1430" />
+      <text
+         font-size="6px"
+         x="775"
+         y="175"
+         text-anchor="middle"
+         id="text1432">La vie</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/mesure-de-la-tension-arterielle"
+       data-name="Mesure de la tension artérielle"
+       id="g1440"
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+      <circle
+         fill="#e619b2"
+         cx="800"
+         cy="150"
+         r="20"
+         id="circle1436" />
+      <text
+         font-size="6px"
+         x="825"
+         y="175"
+         text-anchor="middle"
+         id="text1438">Mesure de la tension artérielle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-logarithme-et-l-audition"
+       data-name="Le logarithme et l’audition"
+       id="g1446"
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+      <circle
+         fill="#b919e6"
+         cx="850"
+         cy="150"
+         r="20"
+         id="circle1442" />
+      <text
+         font-size="6px"
+         x="875"
+         y="175"
+         text-anchor="middle"
+         id="text1444">Le logarithme et l’audition</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-vision"
+       data-name="La vision"
+       id="g1452"
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+      <circle
+         fill="#a5e619"
+         cx="900"
+         cy="150"
+         r="20"
+         id="circle1448" />
+      <text
+         font-size="6px"
+         x="925"
+         y="175"
+         text-anchor="middle"
+         id="text1450">La vision</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.940876"
+       y="445.52402"
+       id="text9288"><tspan
+         sodipodi:role="line"
+         id="tspan9286"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="54.940876"
+         y="445.52402">Biologie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="10.305202"
+       y="289.79999"
+       id="text9288-7"><tspan
+         sodipodi:role="line"
+         id="tspan9286-5"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="10.305202"
+         y="289.79999">Physique</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="289.96912"
+       y="452.58408"
+       id="text9288-3"><tspan
+         sodipodi:role="line"
+         id="tspan9286-6"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="289.96912"
+         y="452.58408">Chimie</tspan></text>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-principe-de-pascal"
+       data-name="Le principe de Pascal"
+       id="g1116"
+       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+      <circle
+         fill="#e619b2"
+         cx="3300"
+         cy="50"
+         r="20"
+         id="circle1112" />
+      <text
+         font-size="6px"
+         x="3325"
+         y="75"
+         text-anchor="middle"
+         id="text1114">Le principe de Pascal</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-pression-atmospherique-introduction"
+       data-name="La pression atmosphérique : introduction"
+       id="g1122"
+       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+      <circle
+         fill="#e61938"
+         cx="3350"
+         cy="50"
+         r="20"
+         id="circle1118" />
+      <text
+         font-size="6px"
+         x="3375"
+         y="75"
+         text-anchor="middle"
+         id="text1120">La pression atmosphérique : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-pression-dans-les-solides"
+       data-name="La pression dans les solides"
+       id="g1128"
+       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+      <circle
+         fill="#e61953"
+         cx="3400"
+         cy="50"
+         r="20"
+         id="circle1124" />
+      <text
+         font-size="6px"
+         x="3425"
+         y="75"
+         text-anchor="middle"
+         id="text1126">La pression dans les solides</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-champ-electrique-charges-multiples"
+       data-name="Le champ électrique : charges multiples"
+       id="g1134"
+       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+      <circle
+         fill="#e61931"
+         cx="3450"
+         cy="50"
+         r="20"
+         id="circle1130" />
+      <text
+         font-size="6px"
+         x="3475"
+         y="75"
+         text-anchor="middle"
+         id="text1132">Le champ électrique : charges multiples</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-champ-electrique"
+       data-name="Le champ électrique"
+       id="g1140"
+       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+      <circle
+         fill="#e6194c"
+         cx="3500"
+         cy="50"
+         r="20"
+         id="circle1136" />
+      <text
+         font-size="6px"
+         x="3525"
+         y="75"
+         text-anchor="middle"
+         id="text1138">Le champ électrique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/loi-de-coulomb-forme-vectorielle"
+       data-name="Loi de Coulomb : forme vectorielle"
+       id="g1146"
+       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+      <circle
+         fill="#e61950"
+         cx="3550"
+         cy="50"
+         r="20"
+         id="circle1142" />
+      <text
+         font-size="6px"
+         x="3575"
+         y="75"
+         text-anchor="middle"
+         id="text1144">Loi de Coulomb : forme vectorielle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-leviers"
+       data-name="Les leviers"
+       id="g1152"
+       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+      <circle
+         fill="#19e650"
+         cx="3600"
+         cy="50"
+         r="20"
+         id="circle1148" />
+      <text
+         font-size="6px"
+         x="3625"
+         y="75"
+         text-anchor="middle"
+         id="text1150">Les leviers</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-poulies"
+       data-name="Les poulies"
+       id="g1158"
+       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+      <circle
+         fill="#9719e6"
+         cx="3650"
+         cy="50"
+         r="20"
+         id="circle1154" />
+      <text
+         font-size="6px"
+         x="3675"
+         y="75"
+         text-anchor="middle"
+         id="text1156">Les poulies</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-force-electrique-loi-de-coulomb"
+       data-name="La force électrique : loi de Coulomb"
+       id="g1164"
+       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+      <circle
+         fill="#e6b919"
+         cx="3700"
+         cy="50"
+         r="20"
+         id="circle1160" />
+      <text
+         font-size="6px"
+         x="3725"
+         y="75"
+         text-anchor="middle"
+         id="text1162">La force électrique : loi de Coulomb</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/mesure-et-calcul-de-debits"
+       data-name="Mesure et calcul de débits"
+       id="g1170"
+       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+      <circle
+         fill="#19e6ca"
+         cx="3750"
+         cy="50"
+         r="20"
+         id="circle1166" />
+      <text
+         font-size="6px"
+         x="3775"
+         y="75"
+         text-anchor="middle"
+         id="text1168">Mesure et calcul de débits</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/applications-de-l-electricite-introduction"
+       data-name="Applications de l’électricité : introduction"
+       id="g1176"
+       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+      <circle
+         fill="#5719e6"
+         cx="3800"
+         cy="50"
+         r="20"
+         id="circle1172" />
+      <text
+         font-size="6px"
+         x="3825"
+         y="75"
+         text-anchor="middle"
+         id="text1174">Applications de l’électricité : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-masse-volumique"
+       data-name="La masse volumique"
+       id="g1182"
+       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+      <circle
+         fill="#e63519"
+         cx="3850"
+         cy="50"
+         r="20"
+         id="circle1178" />
+      <text
+         font-size="6px"
+         x="3875"
+         y="75"
+         text-anchor="middle"
+         id="text1180">La masse volumique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/energie-potentielle-introduction"
+       data-name="Energie potentielle : introduction"
+       id="g1188"
+       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+      <circle
+         fill="#e61983"
+         cx="3900"
+         cy="50"
+         r="20"
+         id="circle1184" />
+      <text
+         font-size="6px"
+         x="3925"
+         y="75"
+         text-anchor="middle"
+         id="text1186">Energie potentielle : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/energie-cinetique-introduction"
+       data-name="Energie cinétique : introduction"
+       id="g1194"
+       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+      <circle
+         fill="#198ae6"
+         cx="3950"
+         cy="50"
+         r="20"
+         id="circle1190" />
+      <text
+         font-size="6px"
+         x="3975"
+         y="75"
+         text-anchor="middle"
+         id="text1192">Energie cinétique : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-electricite-faconne-notre-univers"
+       data-name="L’électricité façonne notre univers"
+       id="g1200"
+       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+      <circle
+         fill="#19afe6"
+         cx="4000"
+         cy="50"
+         r="20"
+         id="circle1196" />
+      <text
+         font-size="6px"
+         x="4025"
+         y="75"
+         text-anchor="middle"
+         id="text1198">L’électricité façonne notre univers</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/energie-introduction"
+       data-name="Energie : introduction"
+       id="g1206"
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+      <circle
+         fill="#e6e219"
+         cx="4050"
+         cy="50"
+         r="20"
+         id="circle1202" />
+      <text
+         font-size="6px"
+         x="4075"
+         y="75"
+         text-anchor="middle"
+         id="text1204">Energie : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-travail"
+       data-name="Le travail"
+       id="g1212"
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+      <circle
+         fill="#6be619"
+         cx="4100"
+         cy="50"
+         r="20"
+         id="circle1208" />
+      <text
+         font-size="6px"
+         x="4125"
+         y="75"
+         text-anchor="middle"
+         id="text1210">Le travail</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-ligne-de-changement-de-date"
+       data-name="La ligne de changement de date"
+       id="g1218"
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+      <circle
+         fill="#e66119"
+         cx="4150"
+         cy="50"
+         r="20"
+         id="circle1214" />
+      <text
+         font-size="6px"
+         x="4175"
+         y="75"
+         text-anchor="middle"
+         id="text1216">La ligne de changement de date</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-thermometre"
+       data-name="Le thermomètre"
+       id="g1224"
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+      <circle
+         fill="#8de619"
+         cx="4200"
+         cy="50"
+         r="20"
+         id="circle1220" />
+      <text
+         font-size="6px"
+         x="4225"
+         y="75"
+         text-anchor="middle"
+         id="text1222">Le thermomètre</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-echelles-de-temperature"
+       data-name="Les échelles de température"
+       id="g1230"
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+      <circle
+         fill="#e66119"
+         cx="4250"
+         cy="50"
+         r="20"
+         id="circle1226" />
+      <text
+         font-size="6px"
+         x="4275"
+         y="75"
+         text-anchor="middle"
+         id="text1228">Les échelles de température</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniforme-introduction"
+       data-name="Le mouvement rectiligne uniforme : introduction"
+       id="g1236"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+      <circle
+         fill="#a819e6"
+         cx="4300"
+         cy="50"
+         r="20"
+         id="circle1232" />
+      <text
+         font-size="6px"
+         x="4325"
+         y="75"
+         text-anchor="middle"
+         id="text1234">Le mouvement rectiligne uniforme : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniforme-generalisation"
+       data-name="Le mouvement rectiligne uniforme : généralisation"
+       id="g1242"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+      <circle
+         fill="#e6198a"
+         cx="4350"
+         cy="50"
+         r="20"
+         id="circle1238" />
+      <text
+         font-size="6px"
+         x="4375"
+         y="75"
+         text-anchor="middle"
+         id="text1240">Le mouvement rectiligne uniforme : généralisation</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mouvement-fonction-et-graphe"
+       data-name="Le mouvement : fonction et graphe"
+       id="g1248"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+      <circle
+         fill="#e6ac19"
+         cx="4400"
+         cy="50"
+         r="20"
+         id="circle1244" />
+      <text
+         font-size="6px"
+         x="4425"
+         y="75"
+         text-anchor="middle"
+         id="text1246">Le mouvement : fonction et graphe</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-mouvement-position-et-deplacement"
+       data-name="Le mouvement : position et déplacement"
+       id="g1254"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+      <circle
+         fill="#2a19e6"
+         cx="4450"
+         cy="50"
+         r="20"
+         id="circle1250" />
+      <text
+         font-size="6px"
+         x="4475"
+         y="75"
+         text-anchor="middle"
+         id="text1252">Le mouvement : position et déplacement</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-principe-d-archimede"
+       data-name="Le principe d’Archimède"
+       id="g1260"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+      <circle
+         fill="#19a5e6"
+         cx="4500"
+         cy="50"
+         r="20"
+         id="circle1256" />
+      <text
+         font-size="6px"
+         x="4525"
+         y="75"
+         text-anchor="middle"
+         id="text1258">Le principe d’Archimède</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-gradient-exercice"
+       data-name="Le gradient : exercice"
+       id="g186"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#1946e6"
+         cx="1500"
+         cy="0"
+         r="20"
+         id="circle182" />
+      <text
+         font-size="6px"
+         x="1525"
+         y="25"
+         text-anchor="middle"
+         id="text184">Le gradient : exercice</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-gradient-generalisation-a-3-dimensions"
+       data-name="Le gradient  : généralisation à 3 dimensions"
+       id="g192"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#1919e6"
+         cx="1550"
+         cy="0"
+         r="20"
+         id="circle188" />
+      <text
+         font-size="6px"
+         x="1575"
+         y="25"
+         text-anchor="middle"
+         id="text190">Le gradient : généralisation à 3 dimensions</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-gradient-interpretation-graphique"
+       data-name="Le gradient : interprétation graphique"
+       id="g198"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#27e619"
+         cx="1600"
+         cy="0"
+         r="20"
+         id="circle194" />
+      <text
+         font-size="6px"
+         x="1625"
+         y="25"
+         text-anchor="middle"
+         id="text196">Le gradient : interprétation graphique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/gradient-et-lignes-de-niveau"
+       data-name="Gradient et lignes de niveau"
+       id="g204"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e6197c"
+         cx="1650"
+         cy="0"
+         r="20"
+         id="circle200" />
+      <text
+         font-size="6px"
+         x="1675"
+         y="25"
+         text-anchor="middle"
+         id="text202">Gradient et lignes de niveau</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-gradient-illustration"
+       data-name="Le gradient : illustration"
+       id="g210"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#ace619"
+         cx="1700"
+         cy="0"
+         r="20"
+         id="circle206" />
+      <text
+         font-size="6px"
+         x="1725"
+         y="25"
+         text-anchor="middle"
+         id="text208">Le gradient : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-gradient-la-derivee-directionnelle"
+       data-name="Le gradient, la dérivée directionnelle"
+       id="g216"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#1931e6"
+         cx="1750"
+         cy="0"
+         r="20"
+         id="circle212" />
+      <text
+         font-size="6px"
+         x="1775"
+         y="25"
+         text-anchor="middle"
+         id="text214">Le gradient, la dérivée directionnelle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/determinant-d-un-produit-de-matrices"
+       data-name="Déterminant d’un produit de matrices"
+       id="g222"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#e61d19"
+         cx="1800"
+         cy="0"
+         r="20"
+         id="circle218" />
+      <text
+         font-size="6px"
+         x="1825"
+         y="25"
+         text-anchor="middle"
+         id="text220">Déterminant d’un produit de matrices</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-demonstration-par-recurrence"
+       data-name="La démonstration par récurrence"
+       id="g228"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#194ce6"
+         cx="1850"
+         cy="0"
+         r="20"
+         id="circle224" />
+      <text
+         font-size="6px"
+         x="1875"
+         y="25"
+         text-anchor="middle"
+         id="text226">La démonstration par récurrence</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/inversion-matricielle"
+       data-name="Inversion matricielle"
+       id="g234"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#ca19e6"
+         cx="1900"
+         cy="0"
+         r="20"
+         id="circle230" />
+      <text
+         font-size="6px"
+         x="1925"
+         y="25"
+         text-anchor="middle"
+         id="text232">Inversion matricielle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/proprietes-du-determinant-2eme-partie"
+       data-name="Propriétés du déterminant (2ème partie)"
+       id="g240"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#198de6"
+         cx="1950"
+         cy="0"
+         r="20"
+         id="circle236" />
+      <text
+         font-size="6px"
+         x="1975"
+         y="25"
+         text-anchor="middle"
+         id="text238">Propriétés du déterminant (2ème partie)</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/proprietes-du-determinant-1ere-partie"
+       data-name="Propriétés du déterminant (1ère partie)"
+       id="g246"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#19e627"
+         cx="2000"
+         cy="0"
+         r="20"
+         id="circle242" />
+      <text
+         font-size="6px"
+         x="2025"
+         y="25"
+         text-anchor="middle"
+         id="text244">Propriétés du déterminant (1ère partie)</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/formule-du-determinant"
+       data-name="Formule du déterminant"
+       id="g252"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#19e680"
+         cx="2050"
+         cy="0"
+         r="20"
+         id="circle248" />
+      <text
+         font-size="6px"
+         x="2075"
+         y="25"
+         text-anchor="middle"
+         id="text250">Formule du déterminant</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/determinant-generalisation"
+       data-name="Déterminant : généralisation"
+       id="g258"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e6199b"
+         cx="2100"
+         cy="0"
+         r="20"
+         id="circle254" />
+      <text
+         font-size="6px"
+         x="2125"
+         y="25"
+         text-anchor="middle"
+         id="text256">Déterminant : généralisation</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/determinant-3x3"
+       data-name="Déterminant 3x3"
+       id="g264"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#90e619"
+         cx="2150"
+         cy="0"
+         r="20"
+         id="circle260" />
+      <text
+         font-size="6px"
+         x="2175"
+         y="25"
+         text-anchor="middle"
+         id="text262">Déterminant 3x3</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/determinants-et-transformations"
+       data-name="Déterminants et transformations"
+       id="g270"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#196ee6"
+         cx="2200"
+         cy="0"
+         r="20"
+         id="circle266" />
+      <text
+         font-size="6px"
+         x="2225"
+         y="25"
+         text-anchor="middle"
+         id="text268">Déterminants et transformations</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/matrices-et-transformations"
+       data-name="Matrices et transformations"
+       id="g276"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#e61972"
+         cx="2250"
+         cy="0"
+         r="20"
+         id="circle272" />
+      <text
+         font-size="6px"
+         x="2275"
+         y="25"
+         text-anchor="middle"
+         id="text274">Matrices et transformations</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-calcul-matriciel-4-la-matrice-identite"
+       data-name="Le calcul matriciel : 4. La matrice identité"
+       id="g282"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#6be619"
+         cx="2300"
+         cy="0"
+         r="20"
+         id="circle278" />
+      <text
+         font-size="6px"
+         x="2325"
+         y="25"
+         text-anchor="middle"
+         id="text280">Le calcul matriciel : 4. La matrice identité</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-calcul-matriciel3-proprietes-de-la-multiplication"
+       data-name="Le calcul matriciel : 3. propriétés de la multiplication"
+       id="g288"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#e61946"
+         cx="2350"
+         cy="0"
+         r="20"
+         id="circle284" />
+      <text
+         font-size="6px"
+         x="2375"
+         y="25"
+         text-anchor="middle"
+         id="text286">Le calcul matriciel : 3. propriétés de la multiplication</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-calcul-matriciel-2-la-multiplication"
+       data-name="Le calcul matriciel : 2. La multiplication"
+       id="g294"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#e63c19"
+         cx="2400"
+         cy="0"
+         r="20"
+         id="circle290" />
+      <text
+         font-size="6px"
+         x="2425"
+         y="25"
+         text-anchor="middle"
+         id="text292">Le calcul matriciel : 2. La multiplication</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-calcul-matriciel-1-l-addition"
+       data-name="Le calcul matriciel : 1. L’addition"
+       id="g300"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#49e619"
+         cx="2450"
+         cy="0"
+         r="20"
+         id="circle296" />
+      <text
+         font-size="6px"
+         x="2475"
+         y="25"
+         text-anchor="middle"
+         id="text298">Le calcul matriciel : 1. L’addition</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-matrices-introduction"
+       data-name="Les Matrices : introduction"
+       id="g306"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#19e6c0"
+         cx="2500"
+         cy="0"
+         r="20"
+         id="circle302" />
+      <text
+         font-size="6px"
+         x="2525"
+         y="25"
+         text-anchor="middle"
+         id="text304">Les Matrices : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-exponentielle-imaginaire-illustrations"
+       data-name="L’exponentielle imaginaire : illustrations"
+       id="g312"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#19e63c"
+         cx="2550"
+         cy="0"
+         r="20"
+         id="circle308" />
+      <text
+         font-size="6px"
+         x="2575"
+         y="25"
+         text-anchor="middle"
+         id="text310">L’exponentielle imaginaire : illustrations</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-suites-geometriques"
+       data-name="Les suites géométriques"
+       id="g318"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e6196b"
+         cx="2600"
+         cy="0"
+         r="20"
+         id="circle314" />
+      <text
+         font-size="6px"
+         x="2625"
+         y="25"
+         text-anchor="middle"
+         id="text316">Les suites géométriques</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-fonction-exponentielle-imaginaire"
+       data-name="La fonction exponentielle imaginaire"
+       id="g324"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#19e680"
+         cx="2650"
+         cy="0"
+         r="20"
+         id="circle320" />
+      <text
+         font-size="6px"
+         x="2675"
+         y="25"
+         text-anchor="middle"
+         id="text322">La fonction exponentielle imaginaire</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-nombre-e"
+       data-name="Le nombre &quot;e&quot;"
+       id="g330"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#19e64d"
+         cx="2700"
+         cy="0"
+         r="20"
+         id="circle326" />
+      <text
+         font-size="6px"
+         x="2725"
+         y="25"
+         text-anchor="middle"
+         id="text328">Le nombre &quot;e&quot;</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-fonction-exponentielle"
+       data-name="La fonction exponentielle"
+       id="g336"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#19d4e6"
+         cx="2750"
+         cy="0"
+         r="20"
+         id="circle332" />
+      <text
+         font-size="6px"
+         x="2775"
+         y="25"
+         text-anchor="middle"
+         id="text334">La fonction exponentielle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/calcul-integral-une-petite-mise-au-point"
+       data-name="Calcul intégral : une petite mise au point"
+       id="g342"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#4619e6"
+         cx="2800"
+         cy="0"
+         r="20"
+         id="circle338" />
+      <text
+         font-size="6px"
+         x="2825"
+         y="25"
+         text-anchor="middle"
+         id="text340">Calcul intégral : une petite mise au point</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/integration-par-changement-de-variable-l-aire-du-cercle"
+       data-name="Intégration par changement de variable : l'aire du cercle"
+       id="g348"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#19e6c4"
+         cx="2850"
+         cy="0"
+         r="20"
+         id="circle344" />
+      <text
+         font-size="6px"
+         x="2875"
+         y="25"
+         text-anchor="middle"
+         id="text346">Intégration par changement de variable : l'aire du cercle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/calcul-d-integrales-exemples"
+       data-name="Calcul d'intégrales : exemples"
+       id="g354"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#1961e6"
+         cx="2900"
+         cy="0"
+         r="20"
+         id="circle350" />
+      <text
+         font-size="6px"
+         x="2925"
+         y="25"
+         text-anchor="middle"
+         id="text352">Calcul d'intégrales : exemples</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/calcul-d-integrales-la-primitive"
+       data-name="Calcul d'intégrales : la primitive"
+       id="g360"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,89.205894)">
+      <circle
+         fill="#e69419"
+         cx="2950"
+         cy="0"
+         r="20"
+         id="circle356" />
+      <text
+         font-size="6px"
+         x="2975"
+         y="25"
+         text-anchor="middle"
+         id="text358">Calcul d'intégrales : la primitive</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-a-la-notion-d-integrale-d-une-fonction"
+       data-name="L'intégrale : introduction"
+       id="g366"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e619d4"
+         cx="3000"
+         cy="0"
+         r="20"
+         id="circle362" />
+      <text
+         font-size="6px"
+         x="3025"
+         y="25"
+         text-anchor="middle"
+         id="text364">L'intégrale : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-produit-vectoriel-interpretation-geometrique-et-produit-mixte"
+       data-name="Le produit vectoriel, interprétation géométrique et produit mixte"
+       id="g372"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e67919"
+         cx="3050"
+         cy="0"
+         r="20"
+         id="circle368" />
+      <text
+         font-size="6px"
+         x="3075"
+         y="25"
+         text-anchor="middle"
+         id="text370">Le produit vectoriel, interprétation géométrique et produit mixte</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-produit-vectoriel-regle-de-calcul"
+       data-name="Le produit vectoriel, règle de calcul"
+       id="g378"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e65319"
+         cx="3100"
+         cy="0"
+         r="20"
+         id="circle374" />
+      <text
+         font-size="6px"
+         x="3125"
+         y="25"
+         text-anchor="middle"
+         id="text376">Le produit vectoriel, règle de calcul</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-suites-arithmetiques-sommes-et-applications"
+       data-name="Les suites arithmétiques : sommes et applications"
+       id="g384"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e6c419"
+         cx="3150"
+         cy="0"
+         r="20"
+         id="circle380" />
+      <text
+         font-size="6px"
+         x="3175"
+         y="25"
+         text-anchor="middle"
+         id="text382">Les suites arithmétiques : sommes et applications</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-produit-vectoriel-proprietes"
+       data-name="Le produit vectoriel, propriétés"
+       id="g390"
+       transform="matrix(0.26458333,0,0,0.26458333,-383.7583,115.66423)">
+      <circle
+         fill="#e6197c"
+         cx="3200"
+         cy="0"
+         r="20"
+         id="circle386" />
+      <text
+         font-size="6px"
+         x="3225"
+         y="25"
+         text-anchor="middle"
+         id="text388">Le produit vectoriel, propriétés</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-suites-arithmetiques-introduction"
+       data-name="Les suites arithmétiques : introduction"
+       id="g396"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#b6e619"
+         cx="3250"
+         cy="0"
+         r="20"
+         id="circle392" />
+      <text
+         font-size="6px"
+         x="3275"
+         y="25"
+         text-anchor="middle"
+         id="text394">Les suites arithmétiques : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-produit-vectoriel-introduction"
+       data-name="Le produit vectoriel, introduction"
+       id="g402"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e6bd19"
+         cx="3300"
+         cy="0"
+         r="20"
+         id="circle398" />
+      <text
+         font-size="6px"
+         x="3325"
+         y="25"
+         text-anchor="middle"
+         id="text400">Le produit vectoriel, introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/analyse-combinatoire-permutations-et-factorielles"
+       data-name="Analyse combinatoire : permutations et factorielles"
+       id="g408"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#79e619"
+         cx="3350"
+         cy="0"
+         r="20"
+         id="circle404" />
+      <text
+         font-size="6px"
+         x="3375"
+         y="25"
+         text-anchor="middle"
+         id="text406">Analyse combinatoire : permutations et factorielles</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/analyse-combinatoire-arrangements"
+       data-name="Analyse combinatoire : arrangements"
+       id="g414"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#57e619"
+         cx="3400"
+         cy="0"
+         r="20"
+         id="circle410" />
+      <text
+         font-size="6px"
+         x="3425"
+         y="25"
+         text-anchor="middle"
+         id="text412">Analyse combinatoire : arrangements</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-denombrement"
+       data-name="Analyse combinatoire : dénombrement"
+       id="g420"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e68d19"
+         cx="3450"
+         cy="0"
+         r="20"
+         id="circle416" />
+      <text
+         font-size="6px"
+         x="3475"
+         y="25"
+         text-anchor="middle"
+         id="text418">Analyse combinatoire : dénombrement</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/on-ne-peut-pas-diviser-par-un-vecteur"
+       data-name="On ne peut pas diviser par un vecteur !"
+       id="g426"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e6c719"
+         cx="3500"
+         cy="0"
+         r="20"
+         id="circle422" />
+      <text
+         font-size="6px"
+         x="3525"
+         y="25"
+         text-anchor="middle"
+         id="text424">On ne peut pas diviser par un vecteur !</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/proprietes-du-produit-scalaire"
+       data-name="Propriétés du produit scalaire"
+       id="g432"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#19e672"
+         cx="3550"
+         cy="0"
+         r="20"
+         id="circle428" />
+      <text
+         font-size="6px"
+         x="3575"
+         y="25"
+         text-anchor="middle"
+         id="text430">Propriétés du produit scalaire</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-produit-scalaire"
+       data-name="Le produit scalaire"
+       id="g438"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#b619e6"
+         cx="3600"
+         cy="0"
+         r="20"
+         id="circle434" />
+      <text
+         font-size="6px"
+         x="3625"
+         y="25"
+         text-anchor="middle"
+         id="text436">Le produit scalaire</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/equation-cartesienne-de-la-droite-dans-le-plan-forme-vectorielle"
+       data-name="Equation cartésienne de la droite dans le plan : forme vectorielle"
+       id="g444"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e619c3"
+         cx="3650"
+         cy="0"
+         r="20"
+         id="circle440" />
+      <text
+         font-size="6px"
+         x="3675"
+         y="25"
+         text-anchor="middle"
+         id="text442">Equation cartésienne de la droite dans le plan : forme vectorielle</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-notation-scientifique-applications"
+       data-name="La notation scientifique : Applications"
+       id="g450"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#a219e6"
+         cx="3700"
+         cy="0"
+         r="20"
+         id="circle446" />
+      <text
+         font-size="6px"
+         x="3725"
+         y="25"
+         text-anchor="middle"
+         id="text448">La notation scientifique : Applications</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-notation-scientifique"
+       data-name="La notation scientifique"
+       id="g456"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#1927e6"
+         cx="3750"
+         cy="0"
+         r="20"
+         id="circle452" />
+      <text
+         font-size="6px"
+         x="3775"
+         y="25"
+         text-anchor="middle"
+         id="text454">La notation scientifique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-droite-dans-le-plan-equation-cartesienne"
+       data-name="La droite dans le plan : équation cartésienne"
+       id="g462"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#9019e6"
+         cx="3800"
+         cy="0"
+         r="20"
+         id="circle458" />
+      <text
+         font-size="6px"
+         x="3825"
+         y="25"
+         text-anchor="middle"
+         id="text460">La droite dans le plan : équation cartésienne</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-droite-dans-le-plan-equation-parametrique"
+       data-name="La droite dans le plan : équation paramétrique"
+       id="g468"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#2719e6"
+         cx="3850"
+         cy="0"
+         r="20"
+         id="circle464" />
+      <text
+         font-size="6px"
+         x="3875"
+         y="25"
+         text-anchor="middle"
+         id="text466">La droite dans le plan : équation paramétrique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-fonction-tangente"
+       data-name="La fonction tangente"
+       id="g474"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e61968"
+         cx="3900"
+         cy="0"
+         r="20"
+         id="circle470" />
+      <text
+         font-size="6px"
+         x="3925"
+         y="25"
+         text-anchor="middle"
+         id="text472">La fonction tangente</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-tangente-introduction"
+       data-name="La tangente : introduction"
+       id="g480"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#3ce619"
+         cx="3950"
+         cy="0"
+         r="20"
+         id="circle476" />
+      <text
+         font-size="6px"
+         x="3975"
+         y="25"
+         text-anchor="middle"
+         id="text478">La tangente : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/racines-des-nombres-complexes"
+       data-name="Racines des nombres complexes"
+       id="g486"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#7519e6"
+         cx="4000"
+         cy="0"
+         r="20"
+         id="circle482" />
+      <text
+         font-size="6px"
+         x="4025"
+         y="25"
+         text-anchor="middle"
+         id="text484">Racines des nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/puissances-negatives-de-nombres-complexes"
+       data-name="Puissances négatives de nombres complexes"
+       id="g492"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#19e675"
+         cx="4050"
+         cy="0"
+         r="20"
+         id="circle488" />
+      <text
+         font-size="6px"
+         x="4075"
+         y="25"
+         text-anchor="middle"
+         id="text490">Puissances négatives de nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/produits-et-puissances-de-nombres-complexes"
+       data-name="Produits et puissances de nombres complexes"
+       id="g498"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e619b9"
+         cx="4100"
+         cy="0"
+         r="20"
+         id="circle494" />
+      <text
+         font-size="6px"
+         x="4125"
+         y="25"
+         text-anchor="middle"
+         id="text496">Produits et puissances de nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/formule-d-addition-du-cosinus"
+       data-name="Formule d’addition du cosinus"
+       id="g504"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#53e619"
+         cx="4150"
+         cy="0"
+         r="20"
+         id="circle500" />
+      <text
+         font-size="6px"
+         x="4175"
+         y="25"
+         text-anchor="middle"
+         id="text502">Formule d’addition du cosinus</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/formule-d-addition-du-sinus"
+       data-name="Formule d’addition du sinus"
+       id="g510"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#3b19e6"
+         cx="4200"
+         cy="0"
+         r="20"
+         id="circle506" />
+      <text
+         font-size="6px"
+         x="4225"
+         y="25"
+         text-anchor="middle"
+         id="text508">Formule d’addition du sinus</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pourquoi-est-ce-que-moins-par-moins-donne-plus"
+       data-name="Pourquoi est-ce que moins par moins donne plus ?"
+       id="g516"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#19e61d"
+         cx="4250"
+         cy="0"
+         r="20"
+         id="circle512" />
+      <text
+         font-size="6px"
+         x="4275"
+         y="25"
+         text-anchor="middle"
+         id="text514">Pourquoi est-ce que moins par moins donne plus ?</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/forme-polaire-des-nombres-complexes"
+       data-name="Forme polaire des nombres complexes"
+       id="g522"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e68019"
+         cx="4300"
+         cy="0"
+         r="20"
+         id="circle518" />
+      <text
+         font-size="6px"
+         x="4325"
+         y="25"
+         text-anchor="middle"
+         id="text520">Forme polaire des nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/representation-geometrique-des-nombres-complexes"
+       data-name="Représentation géométrique des nombres complexes"
+       id="g528"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#19e61d"
+         cx="4350"
+         cy="0"
+         r="20"
+         id="circle524" />
+      <text
+         font-size="6px"
+         x="4375"
+         y="25"
+         text-anchor="middle"
+         id="text526">Représentation géométrique des nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/division-des-nombres-complexes"
+       data-name="Division des nombres complexes"
+       id="g534"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#d1e619"
+         cx="4400"
+         cy="0"
+         r="20"
+         id="circle530" />
+      <text
+         font-size="6px"
+         x="4425"
+         y="25"
+         text-anchor="middle"
+         id="text532">Division des nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-nombres-complexes"
+       data-name="Les nombres complexes"
+       id="g540"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e65719"
+         cx="4450"
+         cy="0"
+         r="20"
+         id="circle536" />
+      <text
+         font-size="6px"
+         x="4475"
+         y="25"
+         text-anchor="middle"
+         id="text538">Les nombres complexes</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-nombres-imaginaires"
+       data-name="Les nombres imaginaires"
+       id="g546"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e64219"
+         cx="4500"
+         cy="0"
+         r="20"
+         id="circle542" />
+      <text
+         font-size="6px"
+         x="4525"
+         y="25"
+         text-anchor="middle"
+         id="text544">Les nombres imaginaires</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-loi-des-sinus"
+       data-name="La loi des sinus"
+       id="g552"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e67919"
+         cx="4550"
+         cy="0"
+         r="20"
+         id="circle548" />
+      <text
+         font-size="6px"
+         x="4575"
+         y="25"
+         text-anchor="middle"
+         id="text550">La loi des sinus</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-radian"
+       data-name="Le radian"
+       id="g558"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#1946e6"
+         cx="4600"
+         cy="0"
+         r="20"
+         id="circle554" />
+      <text
+         font-size="6px"
+         x="4625"
+         y="25"
+         text-anchor="middle"
+         id="text556">Le radian</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-equation-du-second-degre-resolution-algebrique"
+       data-name="L’équation du second degré : résolution algébrique"
+       id="g564"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e6e219"
+         cx="4650"
+         cy="0"
+         r="20"
+         id="circle560" />
+      <text
+         font-size="6px"
+         x="4675"
+         y="25"
+         text-anchor="middle"
+         id="text562">L’équation du second degré : résolution algébrique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-equation-du-second-degre-interpretation-geometrique"
+       data-name="L’équation du second degré : interprétation géométrique"
+       id="g570"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,180.92929)">
+      <circle
+         fill="#e69019"
+         cx="4700"
+         cy="0"
+         r="20"
+         id="circle566" />
+      <text
+         font-size="6px"
+         x="4725"
+         y="25"
+         text-anchor="middle"
+         id="text568">L’équation du second degré : interprétation géométrique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/l-equation-du-second-degre-illustration"
+       data-name="L’équation du second degré : illustration"
+       id="g576"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e68d19"
+         cx="4750"
+         cy="0"
+         r="20"
+         id="circle572" />
+      <text
+         font-size="6px"
+         x="4775"
+         y="25"
+         text-anchor="middle"
+         id="text574">L’équation du second degré : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-logarithmes-introduction"
+       data-name="Les logarithmes : introduction"
+       id="g582"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#e61d19"
+         cx="4800"
+         cy="0"
+         r="20"
+         id="circle578" />
+      <text
+         font-size="6px"
+         x="4825"
+         y="25"
+         text-anchor="middle"
+         id="text580">Les logarithmes : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-fonction-logarithme"
+       data-name="La fonction logarithme"
+       id="g588"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#94e619"
+         cx="4850"
+         cy="0"
+         r="20"
+         id="circle584" />
+      <text
+         font-size="6px"
+         x="4875"
+         y="25"
+         text-anchor="middle"
+         id="text586">La fonction logarithme</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/introduction-a-la-geometrie-analytique"
+       data-name="Introduction à la géométrie analytique"
+       id="g594"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#19e66f"
+         cx="4900"
+         cy="0"
+         r="20"
+         id="circle590" />
+      <text
+         font-size="6px"
+         x="4925"
+         y="25"
+         text-anchor="middle"
+         id="text592">Introduction à la géométrie analytique</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-lettres-grecques"
+       data-name="Les lettres grecques"
+       id="g600"
+       transform="matrix(0.26458333,0,0,0.26458333,-843.4711,154.47096)">
+      <circle
+         fill="#7f19e6"
+         cx="4950"
+         cy="0"
+         r="20"
+         id="circle596" />
+      <text
+         font-size="6px"
+         x="4975"
+         y="25"
+         text-anchor="middle"
+         id="text598">Les lettres grecques</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-fonction-cosinus"
+       data-name="La fonction cosinus"
+       id="g606"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#80e619"
+         cx="5000"
+         cy="0"
+         r="20"
+         id="circle602" />
+      <text
+         font-size="6px"
+         x="5025"
+         y="25"
+         text-anchor="middle"
+         id="text604">La fonction cosinus</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/numeration-de-position"
+       data-name="Numération de position"
+       id="g612"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#196be6"
+         cx="5050"
+         cy="0"
+         r="20"
+         id="circle608" />
+      <text
+         font-size="6px"
+         x="5075"
+         y="25"
+         text-anchor="middle"
+         id="text610">Numération de position</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/puissance-et-exposant-introduction"
+       data-name="Puissance et exposant : introduction"
+       id="g618"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#1994e6"
+         cx="5100"
+         cy="0"
+         r="20"
+         id="circle614" />
+      <text
+         font-size="6px"
+         x="5125"
+         y="25"
+         text-anchor="middle"
+         id="text616">Puissance et exposant : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/puissance-et-exposant-illustration"
+       data-name="Puissance et exposant : illustration"
+       id="g624"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#1942e6"
+         cx="5150"
+         cy="0"
+         r="20"
+         id="circle620" />
+      <text
+         font-size="6px"
+         x="5175"
+         y="25"
+         text-anchor="middle"
+         id="text622">Puissance et exposant : illustration</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/puissance-et-exposant-regles-de-calcul"
+       data-name="Puissance et exposant : règles de calcul"
+       id="g630"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#e6199e"
+         cx="5200"
+         cy="0"
+         r="20"
+         id="circle626" />
+      <text
+         font-size="6px"
+         x="5225"
+         y="25"
+         text-anchor="middle"
+         id="text628">Puissance et exposant : règles de calcul</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/puissances-negatives-regles-de-calcul"
+       data-name="Puissances négatives : règles de calcul "
+       id="g636"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#35e619"
+         cx="5250"
+         cy="0"
+         r="20"
+         id="circle632" />
+      <text
+         font-size="6px"
+         x="5275"
+         y="25"
+         text-anchor="middle"
+         id="text634">Puissances négatives : règles de calcul</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/changements-d-unites"
+       data-name="Changements d’unités"
+       id="g642"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#19ace6"
+         cx="5300"
+         cy="0"
+         r="20"
+         id="circle638" />
+      <text
+         font-size="6px"
+         x="5325"
+         y="25"
+         text-anchor="middle"
+         id="text640">Changements d’unités</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/derivee-d-un-produit-de-fonctions"
+       data-name="Dérivée d'un produit de fonctions"
+       id="g648"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#5319e6"
+         cx="5350"
+         cy="0"
+         r="20"
+         id="circle644" />
+      <text
+         font-size="6px"
+         x="5375"
+         y="25"
+         text-anchor="middle"
+         id="text646">Dérivée d'un produit de fonctions</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/derivee-d-un-quotient-de-fonctions"
+       data-name="Dérivée d’un quotient de fonctions"
+       id="g654"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#4d19e6"
+         cx="5400"
+         cy="0"
+         r="20"
+         id="circle650" />
+      <text
+         font-size="6px"
+         x="5425"
+         y="25"
+         text-anchor="middle"
+         id="text652">Dérivée d’un quotient de fonctions</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/exemples-de-derivees-simples"
+       data-name="Exemples de dérivées simples"
+       id="g660"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#d8e619"
+         cx="5450"
+         cy="0"
+         r="20"
+         id="circle656" />
+      <text
+         font-size="6px"
+         x="5475"
+         y="25"
+         text-anchor="middle"
+         id="text658">Exemples de dérivées simples</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/derivee-d-une-somme-de-fonctions"
+       data-name="Dérivée d’une somme de fonctions"
+       id="g666"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#e6b319"
+         cx="5500"
+         cy="0"
+         r="20"
+         id="circle662" />
+      <text
+         font-size="6px"
+         x="5525"
+         y="25"
+         text-anchor="middle"
+         id="text664">Dérivée d’une somme de fonctions</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-derivee-introduction"
+       data-name="La dérivée : Introduction"
+       id="g672"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#e61975"
+         cx="5550"
+         cy="0"
+         r="20"
+         id="circle668" />
+      <text
+         font-size="6px"
+         x="5575"
+         y="25"
+         text-anchor="middle"
+         id="text670">La dérivée : Introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-fonction-sinus"
+       data-name="La fonction sinus"
+       id="g678"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#19e6b6"
+         cx="5600"
+         cy="0"
+         r="20"
+         id="circle674" />
+      <text
+         font-size="6px"
+         x="5625"
+         y="25"
+         text-anchor="middle"
+         id="text676">La fonction sinus</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/pythagore-en-egypte"
+       data-name="Pythagore en Egypte"
+       id="g684"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#2719e6"
+         cx="5650"
+         cy="0"
+         r="20"
+         id="circle680" />
+      <text
+         font-size="6px"
+         x="5675"
+         y="25"
+         text-anchor="middle"
+         id="text682">Pythagore en Egypte</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-vecteurs-introduction"
+       data-name="Les vecteurs : introduction"
+       id="g690"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,234.3226)">
+      <circle
+         fill="#19a1e6"
+         cx="5700"
+         cy="0"
+         r="20"
+         id="circle686" />
+      <text
+         font-size="6px"
+         x="5725"
+         y="25"
+         text-anchor="middle"
+         id="text688">Les vecteurs : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-vecteurs-a-deux-dimensions-introduction"
+       data-name="Les vecteurs à deux dimensions : introduction"
+       id="g696"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#19b6e6"
+         cx="5750"
+         cy="0"
+         r="20"
+         id="circle692" />
+      <text
+         font-size="6px"
+         x="5775"
+         y="25"
+         text-anchor="middle"
+         id="text694">Les vecteurs à deux dimensions : introduction</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-norme-d-un-vecteur"
+       data-name="La norme d'un vecteur"
+       id="g702"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#e68619"
+         cx="5800"
+         cy="0"
+         r="20"
+         id="circle698" />
+      <text
+         font-size="6px"
+         x="5825"
+         y="25"
+         text-anchor="middle"
+         id="text700">La norme d'un vecteur</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/le-theoreme-de-pythagore"
+       data-name="Le théorème de Pythagore"
+       id="g708"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#e67c19"
+         cx="5850"
+         cy="0"
+         r="20"
+         id="circle704" />
+      <text
+         font-size="6px"
+         x="5875"
+         y="25"
+         text-anchor="middle"
+         id="text706">Le théorème de Pythagore</text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/somme-des-angles-du-triangle"
+       data-name="Somme des angles du triangle"
+       id="g714"
+       transform="matrix(0.26458333,0,0,0.26458333,-1192.2478,207.86427)">
+      <circle
+         fill="#7ce619"
+         cx="5900"
+         cy="0"
+         r="20"
+         id="circle710" />
+      <text
+         font-size="6px"
+         x="5925"
+         y="25"
+         text-anchor="middle"
+         id="text712">Somme des angles du triangle</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.7879696"
+       y="18.561392"
+       id="text26166"><tspan
+         sodipodi:role="line"
+         id="tspan26164"
+         style="stroke-width:0.264583"
+         x="9.7879696"
+         y="18.561392">Mathématiques</tspan></text>
+  </g>
 </svg>
