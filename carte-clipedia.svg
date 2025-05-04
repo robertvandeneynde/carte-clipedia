@@ -24,8 +24,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.8101934"
-     inkscape:cx="871.73008"
-     inkscape:cy="788.03736"
+     inkscape:cx="1155.4014"
+     inkscape:cy="1245.9995"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -38,9 +38,24 @@
      inkscape:snap-bbox="false"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true" />
+     inkscape:snap-smooth-nodes="true"
+     inkscape:lockguides="false" />
   <defs
      id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker268315"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path268313" />
+    </marker>
     <marker
        style="overflow:visible;"
        id="marker64991"
@@ -124,28 +139,29 @@
        sodipodi:nodetypes="cccccccc" />
     <path
        style="fill:#a5e1ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3.4827088,284.17623 11.0886062,114.88722 140.289125,-3.62088 14.37826,25.35582 278.77406,0.75158 56.65967,-34.66555 -4.36927,-108.9345 z"
-       id="path15738" />
+       d="m 3.4827088,284.17623 11.6026032,154.24379 140.289128,-3.62088 14.37826,25.35582 278.77406,0.75158 56.14567,-74.02212 -4.36927,-108.9345 z"
+       id="path15738"
+       sodipodi:nodetypes="cccccccc" />
     <path
        style="fill:#ffedb3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 287.12016,446.46623 161.98825,3.23605 2.78286,32.01316 -100.06582,-1.91913 -4.28937,19.91201 -65.11643,-10.56252 z"
+       d="m 287.12016,483.50792 161.98825,3.23605 2.78286,32.01316 -100.06582,-1.91913 -4.28937,19.91201 -65.11643,-10.56252 z"
        id="path13196"
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ffe3ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.973559,453.58504 20.874451,-13.50968 154.95467,4.19836 -8.11417,48.74175 -155.152947,3.4676 -14.396536,-18.7624 z"
+       d="m 34.973559,490.62673 20.874451,-13.50968 154.95467,4.19836 -8.11417,48.74175 -155.152947,3.4676 -14.396536,-18.7624 z"
        id="path7604" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="54.940876"
-       y="445.52402"
+       y="482.56561"
        id="text9288"><tspan
          sodipodi:role="line"
          id="tspan9286"
          style="font-size:4.23333px;stroke-width:0.264583"
          x="54.940876"
-         y="445.52402">Biologie</tspan></text>
+         y="482.56561">Biologie</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -161,13 +177,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="289.96912"
-       y="452.58408"
+       y="489.62567"
        id="text9288-3"><tspan
          sodipodi:role="line"
          id="tspan9286-6"
          style="font-size:4.23333px;stroke-width:0.264583"
          x="289.96912"
-         y="452.58408">Chimie</tspan></text>
+         y="489.62567">Chimie</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -893,16 +909,24 @@
          id="circle716" />
       <text
          font-size="6px"
-         x="25"
+         x="0.99999952"
          y="75"
          text-anchor="middle"
-         id="text718">la force de Lorentz</text>
+         id="text718"><tspan
+           sodipodi:role="line"
+           id="tspan180112"
+           x="0.99999952"
+           y="75">la force de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan180114"
+           x="0.99999952"
+           y="82.5">Lorentz</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/de-la-force-de-laplace-a-la-force-de-lorentz"
        data-name="De la force de Laplace à la force de Lorentz"
        id="g726"
-       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,17.098973,300.78712)">
       <circle
          fill="#e61979"
          cx="50"
@@ -911,16 +935,24 @@
          id="circle722" />
       <text
          font-size="6px"
-         x="75"
+         x="49"
          y="75"
          text-anchor="middle"
-         id="text724">De la force de Laplace à la force de Lorentz</text>
+         id="text724"><tspan
+           sodipodi:role="line"
+           id="tspan180674"
+           x="49"
+           y="75">De la force de Laplace</tspan><tspan
+           sodipodi:role="line"
+           id="tspan180676"
+           x="49"
+           y="82.5">à la force de Lorentz</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-force-magnetique-de-laplace-2"
        data-name="La force magnétique de Laplace 2"
        id="g732"
-       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,62.45703,288.60032)">
       <circle
          fill="#19e6b3"
          cx="100"
@@ -929,16 +961,24 @@
          id="circle728" />
       <text
          font-size="6px"
-         x="125"
+         x="99"
          y="75"
          text-anchor="middle"
-         id="text730">La force magnétique de Laplace 2</text>
+         id="text730"><tspan
+           sodipodi:role="line"
+           id="tspan184876"
+           x="99"
+           y="75">La force magnétique</tspan><tspan
+           sodipodi:role="line"
+           id="tspan184878"
+           x="99"
+           y="82.5">de Laplace 2</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-force-magnetique-de-laplace-1"
        data-name="La force magnétique de Laplace 1"
        id="g738"
-       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,28.061196,288.60032)">
       <circle
          fill="#e61949"
          cx="150"
@@ -947,16 +987,24 @@
          id="circle734" />
       <text
          font-size="6px"
-         x="175"
+         x="151"
          y="75"
          text-anchor="middle"
-         id="text736">La force magnétique de Laplace 1</text>
+         id="text736"><tspan
+           sodipodi:role="line"
+           id="tspan183048"
+           x="151"
+           y="75">La force magnétique</tspan><tspan
+           sodipodi:role="line"
+           id="tspan183050"
+           x="151"
+           y="82.5">de Laplace 1</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/pourquoi-un-champ-de-force-pour-le-monopole-magnetique"
        data-name="Pourquoi un champ de force pour le monopôle magnétique ?"
        id="g744"
-       transform="matrix(0.26458333,0,0,0.26458333,17.098973,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,-4.2081341,288.79523)">
       <circle
          fill="#19e6ca"
          cx="200"
@@ -965,16 +1013,32 @@
          id="circle740" />
       <text
          font-size="6px"
-         x="225"
+         x="201"
          y="75"
          text-anchor="middle"
-         id="text742">Pourquoi un champ de force pour le monopôle magnétique ?</text>
+         id="text742"><tspan
+           sodipodi:role="line"
+           id="tspan186772"
+           x="201"
+           y="75">Pourquoi un</tspan><tspan
+           sodipodi:role="line"
+           x="201"
+           y="82.5"
+           id="tspan188486">champ de force</tspan><tspan
+           sodipodi:role="line"
+           id="tspan186774"
+           x="201"
+           y="90">pour le monopôle</tspan><tspan
+           sodipodi:role="line"
+           x="201"
+           y="97.5"
+           id="tspan188488">magnétique ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/pourquoi-le-concept-de-champ"
        data-name="Pourquoi le concept de champ ?"
        id="g750"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+       transform="matrix(0.26458333,0,0,0.26458333,-46.933639,316.48334)">
       <circle
          fill="#19e66f"
          cx="250"
@@ -983,16 +1047,24 @@
          id="circle746" />
       <text
          font-size="6px"
-         x="275"
+         x="249"
          y="75"
          text-anchor="middle"
-         id="text748">Pourquoi le concept de champ ?</text>
+         id="text748"><tspan
+           sodipodi:role="line"
+           id="tspan174446"
+           x="249"
+           y="75">Pourquoi le concept</tspan><tspan
+           sodipodi:role="line"
+           id="tspan174448"
+           x="249"
+           y="82.5">de champ ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/pourquoi-a-t-on-abandonne-ampere"
        data-name="Pourquoi a-t-on abandonné Ampère ?"
        id="g756"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+       transform="matrix(0.26458333,0,0,0.26458333,-51.692696,332.53713)">
       <circle
          fill="#19e631"
          cx="300"
@@ -1001,16 +1073,24 @@
          id="circle752" />
       <text
          font-size="6px"
-         x="325"
+         x="301"
          y="75"
          text-anchor="middle"
-         id="text754">Pourquoi a-t-on abandonné Ampère ?</text>
+         id="text754"><tspan
+           sodipodi:role="line"
+           id="tspan171818"
+           x="301"
+           y="75">Pourquoi a-t-on</tspan><tspan
+           sodipodi:role="line"
+           id="tspan171820"
+           x="301"
+           y="82.5">abandonné Ampère ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mystere-des-courants-de-surface"
        data-name="Le mystère des courants de surface"
        id="g762"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+       transform="matrix(0.26458333,0,0,0.26458333,-46.933639,316.48334)">
       <circle
          fill="#e65319"
          cx="350"
@@ -1019,16 +1099,24 @@
          id="circle758" />
       <text
          font-size="6px"
-         x="375"
+         x="351"
          y="75"
          text-anchor="middle"
-         id="text760">Le mystère des courants de surface</text>
+         id="text760"><tspan
+           sodipodi:role="line"
+           id="tspan176640"
+           x="351"
+           y="75">Le mystère des courants</tspan><tspan
+           sodipodi:role="line"
+           id="tspan176642"
+           x="351"
+           y="82.5">de surface</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-bonhomme-d-ampere-un-mystere-resolu"
        data-name="Le bonhomme d’Ampère : un mystère résolu"
        id="g768"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+       transform="matrix(0.26458333,0,0,0.26458333,-51.692696,332.53713)">
       <circle
          fill="#198de6"
          cx="400"
@@ -1037,16 +1125,24 @@
          id="circle764" />
       <text
          font-size="6px"
-         x="425"
+         x="401"
          y="75"
          text-anchor="middle"
-         id="text766">Le bonhomme d’Ampère : un mystère résolu</text>
+         id="text766"><tspan
+           sodipodi:role="line"
+           id="tspan173462"
+           x="401"
+           y="75">Le bonhomme d’Ampère :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan173464"
+           x="401"
+           y="82.5">un mystère résolu</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/qu-est-ce-qu-un-aimant-selon-ampere"
        data-name="Qu’est ce qu’un aimant selon Ampère ?"
        id="g774"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.401029,306.07878)">
+       transform="matrix(0.26458333,0,0,0.26458333,-46.933639,316.48334)">
       <circle
          fill="#4ce619"
          cx="450"
@@ -1055,16 +1151,24 @@
          id="circle770" />
       <text
          font-size="6px"
-         x="475"
+         x="449"
          y="75"
          text-anchor="middle"
-         id="text772">Qu’est ce qu’un aimant selon Ampère ?</text>
+         id="text772"><tspan
+           sodipodi:role="line"
+           id="tspan178350"
+           x="449"
+           y="75">Qu’est ce qu’un aimant</tspan><tspan
+           sodipodi:role="line"
+           id="tspan178352"
+           x="449"
+           y="82.5">selon Ampère ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/constante-de-force-magnetique-definition-de-l-amper"
        data-name="Constante de force magnétique : définition de l’Ampère"
        id="g780"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,-10.565963,283.18446)">
       <circle
          fill="#ace619"
          cx="500"
@@ -1073,16 +1177,28 @@
          id="circle776" />
       <text
          font-size="6px"
-         x="525"
+         x="501"
          y="75"
          text-anchor="middle"
-         id="text778">Constante de force magnétique : définition de l’Ampère</text>
+         id="text778"><tspan
+           sodipodi:role="line"
+           id="tspan191075"
+           x="501"
+           y="75">Constante de</tspan><tspan
+           sodipodi:role="line"
+           x="501"
+           y="82.5"
+           id="tspan191079">forcem agnétique :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan191077"
+           x="501"
+           y="90">définition de l’Ampère</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/interaction-entre-courants-paralleles-formule-d-ampere"
        data-name="Interaction entre courants parallèles : formule d’Ampère"
        id="g786"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,306.07879)">
       <circle
          fill="#19ace6"
          cx="550"
@@ -1091,16 +1207,28 @@
          id="circle782" />
       <text
          font-size="6px"
-         x="575"
+         x="551"
          y="75"
          text-anchor="middle"
-         id="text784">Interaction entre courants parallèles : formule d’Ampère</text>
+         id="text784"><tspan
+           sodipodi:role="line"
+           id="tspan201584"
+           x="551"
+           y="75">Interaction entre</tspan><tspan
+           sodipodi:role="line"
+           id="tspan201586"
+           x="551"
+           y="82.5">courants parallèles :</tspan><tspan
+           sodipodi:role="line"
+           x="551"
+           y="90"
+           id="tspan201588">formule d’Ampère</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/courant-electrique-et-champ-magnetique"
        data-name="Courant électrique et champ magnétique"
        id="g792"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4421048,281.1793)">
       <circle
          fill="#e61920"
          cx="600"
@@ -1109,16 +1237,27 @@
          id="circle788" />
       <text
          font-size="6px"
-         x="625"
+         x="601"
          y="75"
          text-anchor="middle"
-         id="text790">Courant électrique et champ magnétique</text>
+         id="text790"
+         style="fill:#374b55;fill-opacity:1"><tspan
+           sodipodi:role="line"
+           id="tspan192335"
+           x="601"
+           y="75"
+           style="fill:#000000;fill-opacity:1">Courant électrique et</tspan><tspan
+           sodipodi:role="line"
+           id="tspan192337"
+           x="601"
+           y="82.5"
+           style="fill:#000000;fill-opacity:1">champ magnétique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/orientation-du-champ-magnetique"
        data-name="Orientation du champ magnétique"
        id="g798"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,-17.811433,305.26279)">
       <circle
          fill="#50e619"
          cx="650"
@@ -1127,16 +1266,24 @@
          id="circle794" />
       <text
          font-size="6px"
-         x="675"
+         x="651"
          y="75"
          text-anchor="middle"
-         id="text796">Orientation du champ magnétique</text>
+         id="text796"><tspan
+           sodipodi:role="line"
+           id="tspan198514"
+           x="651"
+           y="75">Orientation du</tspan><tspan
+           sodipodi:role="line"
+           id="tspan198516"
+           x="651"
+           y="82.5">champ magnétique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-formule-de-biot-et-savart"
        data-name="La formule de Biot et Savart"
        id="g804"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.651027,290.20378)">
+       transform="matrix(0.26458333,0,0,0.26458333,-11.646458,286.84192)">
       <circle
          fill="#19e638"
          cx="700"
@@ -1145,16 +1292,24 @@
          id="circle800" />
       <text
          font-size="6px"
-         x="725"
+         x="701"
          y="75"
          text-anchor="middle"
-         id="text802">La formule de Biot et Savart</text>
+         id="text802"><tspan
+           sodipodi:role="line"
+           id="tspan195974"
+           x="701"
+           y="75">La formule de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan195976"
+           x="701"
+           y="82.5">Biot et Savart</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/l-experience-d-rsted"
        data-name="L’expérience d’Œrsted"
        id="g810"
-       transform="matrix(0.26458333,0,0,0.26458333,-10.835976,381.80746)">
+       transform="matrix(0.26458333,0,0,0.26458333,-12.130104,408.0111)">
       <circle
          fill="#e6195d"
          cx="750"
@@ -1163,16 +1318,24 @@
          id="circle806" />
       <text
          font-size="6px"
-         x="775"
+         x="749"
          y="75"
          text-anchor="middle"
-         id="text808">L’expérience d’Œrsted</text>
+         id="text808"><tspan
+           sodipodi:role="line"
+           id="tspan134109"
+           x="749"
+           y="75">L’expérience</tspan><tspan
+           sodipodi:role="line"
+           id="tspan134111"
+           x="749"
+           y="82.5">d’Œrsted</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/magnetisme-introduction-4-la-loi-de-coulomb"
        data-name="Magnétisme introduction 4 : la loi de Coulomb"
        id="g816"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.339576,321.49913)">
+       transform="matrix(0.26458333,0,0,0.26458333,-21.945105,346.74843)">
       <circle
          fill="#c3e619"
          cx="800"
@@ -1181,16 +1344,28 @@
          id="circle812" />
       <text
          font-size="6px"
-         x="825"
+         x="799"
          y="75"
          text-anchor="middle"
-         id="text814">Magnétisme introduction 4 : la loi de Coulomb</text>
+         id="text814"><tspan
+           sodipodi:role="line"
+           id="tspan148431"
+           x="799"
+           y="75">Magnétisme</tspan><tspan
+           sodipodi:role="line"
+           x="799"
+           y="82.5"
+           id="tspan162307">introduction 4 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan148433"
+           x="799"
+           y="90">la loi de Coulomb</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/magnetisme-introduction-3-le-champ-magnetique"
        data-name="Magnétisme introduction 3 : le champ magnétique"
        id="g822"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.339576,321.49913)">
+       transform="matrix(0.26458333,0,0,0.26458333,-56.340939,346.74843)">
       <circle
          fill="#75e619"
          cx="850"
@@ -1199,16 +1374,28 @@
          id="circle818" />
       <text
          font-size="6px"
-         x="875"
+         x="849"
          y="75"
          text-anchor="middle"
-         id="text820">Magnétisme introduction 3 : le champ magnétique</text>
+         id="text820"><tspan
+           sodipodi:role="line"
+           id="tspan153731"
+           x="849"
+           y="75">Magnétisme</tspan><tspan
+           sodipodi:role="line"
+           x="849"
+           y="82.5"
+           id="tspan160541">introduction 3 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan153733"
+           x="849"
+           y="90">le champ magnétique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/magnetisme-introduction-2-les-poles-magnetiques"
        data-name="Magnétisme introduction 2 : les pôles magnétiques"
        id="g828"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.339576,321.49913)">
+       transform="matrix(0.26458333,0,0,0.26458333,-90.736773,346.74843)">
       <circle
          fill="#7519e6"
          cx="900"
@@ -1217,16 +1404,28 @@
          id="circle824" />
       <text
          font-size="6px"
-         x="925"
+         x="901"
          y="75"
          text-anchor="middle"
-         id="text826">Magnétisme introduction 2 : les pôles magnétiques</text>
+         id="text826"><tspan
+           sodipodi:role="line"
+           id="tspan150147"
+           x="901"
+           y="75">Magnétisme</tspan><tspan
+           sodipodi:role="line"
+           x="901"
+           y="82.5"
+           id="tspan159129">introduction 2 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan150149"
+           x="901"
+           y="90">les pôles magnétiques</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/magnetisme-introduction-1-de-l-antiquite-au-moyen-age"
        data-name="Magnétisme introduction 1 : de l’antiquité au moyen âge"
        id="g834"
-       transform="matrix(0.26458333,0,0,0.26458333,-83.047909,321.49913)">
+       transform="matrix(0.26458333,0,0,0.26458333,-123.01594,346.74843)">
       <circle
          fill="#5019e6"
          cx="950"
@@ -1235,16 +1434,32 @@
          id="circle830" />
       <text
          font-size="6px"
-         x="975"
+         x="953"
          y="75"
          text-anchor="middle"
-         id="text832">Magnétisme introduction 1 : de l’antiquité au moyen âge</text>
+         id="text832"><tspan
+           sodipodi:role="line"
+           id="tspan155403"
+           x="953"
+           y="75">Magnétisme</tspan><tspan
+           sodipodi:role="line"
+           x="953"
+           y="82.5"
+           id="tspan157243">introduction 1 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan155405"
+           x="953"
+           y="90">de l’antiquité</tspan><tspan
+           sodipodi:role="line"
+           x="953"
+           y="97.5"
+           id="tspan167881">au moyen âge</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/equations-de-poisson-et-laplace-illustration"
        data-name="Équations de Poisson et Laplace : illustration"
        id="g840"
-       transform="matrix(0.26458333,0,0,0.26458333,-83.047909,321.49913)">
+       transform="matrix(0.26458333,0,0,0.26458333,-112.87933,367.70214)">
       <circle
          fill="#1990e6"
          cx="1000"
@@ -1256,7 +1471,15 @@
          x="1025"
          y="75"
          text-anchor="middle"
-         id="text838">Équations de Poisson et Laplace : illustration</text>
+         id="text838"><tspan
+           sodipodi:role="line"
+           id="tspan151807"
+           x="1025"
+           y="75">Équations de Poisson</tspan><tspan
+           sodipodi:role="line"
+           id="tspan151809"
+           x="1025"
+           y="82.5">et Laplace : illustration</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/equations-de-poisson-et-laplace"
@@ -1271,16 +1494,24 @@
          id="circle842" />
       <text
          font-size="6px"
-         x="1075"
+         x="1049"
          y="75"
          text-anchor="middle"
-         id="text844">Équations de Poisson et Laplace</text>
+         id="text844"><tspan
+           sodipodi:role="line"
+           id="tspan276281"
+           x="1049"
+           y="75">Équations de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan276283"
+           x="1049"
+           y="82.5">Poisson et Laplace</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/champ-et-gradient-du-potentiel-illustration"
        data-name="Champ et gradient du potentiel : illustration"
        id="g852"
-       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+       transform="matrix(0.26458333,0,0,0.26458333,-36.251144,381.87696)">
       <circle
          fill="#e61935"
          cx="1100"
@@ -1289,10 +1520,22 @@
          id="circle848" />
       <text
          font-size="6px"
-         x="1125"
+         x="1101"
          y="75"
          text-anchor="middle"
-         id="text850">Champ et gradient du potentiel : illustration</text>
+         id="text850"><tspan
+           sodipodi:role="line"
+           id="tspan273872"
+           x="1101"
+           y="75">Champ et gradient</tspan><tspan
+           sodipodi:role="line"
+           id="tspan273874"
+           x="1101"
+           y="82.5">du potentiel :</tspan><tspan
+           sodipodi:role="line"
+           x="1101"
+           y="90"
+           id="tspan273876">illustration</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/champ-et-gradient-du-potentiel"
@@ -1307,16 +1550,24 @@
          id="circle854" />
       <text
          font-size="6px"
-         x="1175"
+         x="1151"
          y="75"
          text-anchor="middle"
-         id="text856">Champ et gradient du potentiel</text>
+         id="text856"><tspan
+           sodipodi:role="line"
+           id="tspan277557"
+           x="1151"
+           y="75">Champ et gradient</tspan><tspan
+           sodipodi:role="line"
+           id="tspan277559"
+           x="1151"
+           y="82.5">du potentiel</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-potentiel-coulombien-illustrations"
        data-name="Le potentiel coulombien : illustrations"
        id="g864"
-       transform="matrix(0.26458333,0,0,0.26458333,-35.817695,364.28713)">
+       transform="matrix(0.26458333,0,0,0.26458333,-1.4218616,364.28713)">
       <circle
          fill="#19e635"
          cx="1200"
@@ -1325,10 +1576,22 @@
          id="circle860" />
       <text
          font-size="6px"
-         x="1225"
+         x="1201"
          y="75"
          text-anchor="middle"
-         id="text862">Le potentiel coulombien : illustrations</text>
+         id="text862"><tspan
+           sodipodi:role="line"
+           id="tspan270802"
+           x="1201"
+           y="75">Le potentiel</tspan><tspan
+           sodipodi:role="line"
+           id="tspan270804"
+           x="1201"
+           y="82.5">coulombien :</tspan><tspan
+           sodipodi:role="line"
+           x="1201"
+           y="90"
+           id="tspan270806">illustrations</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-potentiel-coulombien"
@@ -1343,16 +1606,24 @@
          id="circle866" />
       <text
          font-size="6px"
-         x="1275"
+         x="1251"
          y="75"
          text-anchor="middle"
-         id="text868">Le potentiel coulombien</text>
+         id="text868"><tspan
+           sodipodi:role="line"
+           id="tspan272080"
+           x="1251"
+           y="75">Le potentiel</tspan><tspan
+           sodipodi:role="line"
+           id="tspan272082"
+           x="1251"
+           y="82.5">coulombien</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-potentiel-electrique-3-formulation-generale"
        data-name="Le potentiel électrique 3 : formulation générale"
        id="g876"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+       transform="matrix(0.26458333,0,0,0.26458333,-64.83376,401.95323)">
       <circle
          fill="#e6192a"
          cx="1300"
@@ -1361,16 +1632,32 @@
          id="circle872" />
       <text
          font-size="6px"
-         x="1325"
+         x="1301"
          y="75"
          text-anchor="middle"
-         id="text874">Le potentiel électrique 3 : formulation générale</text>
+         id="text874"><tspan
+           sodipodi:role="line"
+           id="tspan253369"
+           x="1301"
+           y="75">Le potentiel</tspan><tspan
+           sodipodi:role="line"
+           x="1301"
+           y="82.5"
+           id="tspan265333">électrique 3 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan253371"
+           x="1301"
+           y="90">formulation</tspan><tspan
+           sodipodi:role="line"
+           x="1301"
+           y="97.5"
+           id="tspan265335">générale</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-loi-d-ohm-la-resistance-electrique"
        data-name="La loi d’Ohm, la résistance électrique"
        id="g882"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+       transform="matrix(0.26458333,0,0,0.26458333,-119.51531,425.0616)">
       <circle
          fill="#e619a5"
          cx="1350"
@@ -1388,7 +1675,7 @@
        data-link="https%3A//clipedia.be/videos/le-potentiel-electrique-2-champ-uniforme-illustration"
        data-name="Le potentiel électrique 2 : champ uniforme, illustration"
        id="g888"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+       transform="matrix(0.26458333,0,0,0.26458333,-112.45876,401.95323)">
       <circle
          fill="#5ae619"
          cx="1400"
@@ -1397,16 +1684,32 @@
          id="circle884" />
       <text
          font-size="6px"
-         x="1425"
+         x="1401"
          y="75"
          text-anchor="middle"
-         id="text886">Le potentiel électrique 2 : champ uniforme, illustration</text>
+         id="text886"><tspan
+           sodipodi:role="line"
+           id="tspan256019"
+           x="1401"
+           y="75">Le potentiel</tspan><tspan
+           sodipodi:role="line"
+           x="1401"
+           y="82.5"
+           id="tspan261315">électrique 2 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan256021"
+           x="1401"
+           y="90">champ uniforme,</tspan><tspan
+           sodipodi:role="line"
+           x="1401"
+           y="97.5"
+           id="tspan262019">illustration</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-potentiel-electrique-1-champ-uniforme"
        data-name="Le potentiel électrique 1 : champ uniforme"
        id="g894"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+       transform="matrix(0.26458333,0,0,0.26458333,-146.8546,401.95323)">
       <circle
          fill="#19e619"
          cx="1450"
@@ -1415,16 +1718,28 @@
          id="circle890" />
       <text
          font-size="6px"
-         x="1475"
+         x="1451"
          y="75"
          text-anchor="middle"
-         id="text892">Le potentiel électrique 1 : champ uniforme</text>
+         id="text892"><tspan
+           sodipodi:role="line"
+           id="tspan251079"
+           x="1451"
+           y="75">Le potentiel</tspan><tspan
+           sodipodi:role="line"
+           x="1451"
+           y="82.5"
+           id="tspan259831">électrique 1 :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan251081"
+           x="1451"
+           y="90">champ uniforme</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/methode-de-gauss-3-le-plan"
        data-name="Méthode de Gauss 3 : le plan"
        id="g900"
-       transform="matrix(0.26458333,0,0,0.26458333,-88.734365,385.45381)">
+       transform="matrix(0.26458333,0,0,0.26458333,-56.313135,429.50488)">
       <circle
          fill="#3f19e6"
          cx="1500"
@@ -1433,16 +1748,24 @@
          id="circle896" />
       <text
          font-size="6px"
-         x="1525"
+         x="1499"
          y="75"
          text-anchor="middle"
-         id="text898">Méthode de Gauss 3 : le plan</text>
+         id="text898"><tspan
+           sodipodi:role="line"
+           id="tspan257625"
+           x="1499"
+           y="75">Méthode de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan257627"
+           x="1499"
+           y="82.5">Gauss 3 : le plan</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/methode-de-gauss-2-le-cylindre"
        data-name="Méthode de Gauss 2 : le cylindre"
        id="g906"
-       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+       transform="matrix(0.26458333,0,0,0.26458333,-90.708969,429.50488)">
       <circle
          fill="#e64619"
          cx="1550"
@@ -1451,16 +1774,24 @@
          id="circle902" />
       <text
          font-size="6px"
-         x="1575"
+         x="1551"
          y="75"
          text-anchor="middle"
-         id="text904">Méthode de Gauss 2 : le cylindre</text>
+         id="text904"><tspan
+           sodipodi:role="line"
+           id="tspan293260"
+           x="1551"
+           y="75">Méthode de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan293262"
+           x="1551"
+           y="82.5">Gauss 2 : le cylindre</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/methode-de-gauss-1-la-sphere"
        data-name="Méthode de Gauss 1 : la sphère"
        id="g912"
-       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+       transform="matrix(0.26458333,0,0,0.26458333,-125.10481,429.50488)">
       <circle
          fill="#e62019"
          cx="1600"
@@ -1469,16 +1800,24 @@
          id="circle908" />
       <text
          font-size="6px"
-         x="1625"
+         x="1601"
          y="75"
          text-anchor="middle"
-         id="text910">Méthode de Gauss 1 : la sphère</text>
+         id="text910"><tspan
+           sodipodi:role="line"
+           id="tspan297118"
+           x="1601"
+           y="75">Méthode de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan297120"
+           x="1601"
+           y="82.5">Gauss 1 : la sphère</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-potentiel-introduction-ii"
        data-name="Le potentiel : introduction II"
        id="g918"
-       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+       transform="matrix(0.26458333,0,0,0.26458333,-68.310974,366.36349)">
       <circle
          fill="#e6199e"
          cx="1650"
@@ -1487,16 +1826,24 @@
          id="circle914" />
       <text
          font-size="6px"
-         x="1675"
+         x="1651"
          y="75"
          text-anchor="middle"
-         id="text916">Le potentiel : introduction II</text>
+         id="text916"><tspan
+           sodipodi:role="line"
+           id="tspan303348"
+           x="1651"
+           y="75">Le potentiel :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan303350"
+           x="1651"
+           y="82.5">introduction II</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-potentiel-introduction-i"
        data-name="Le potentiel : introduction I"
        id="g924"
-       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+       transform="matrix(0.26458333,0,0,0.26458333,-102.70681,366.36349)">
       <circle
          fill="#e66419"
          cx="1700"
@@ -1505,16 +1852,24 @@
          id="circle920" />
       <text
          font-size="6px"
-         x="1725"
+         x="1701"
          y="75"
          text-anchor="middle"
-         id="text922">Le potentiel : introduction I</text>
+         id="text922"><tspan
+           sodipodi:role="line"
+           id="tspan302450"
+           x="1701"
+           y="75">Le potentiel :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan302452"
+           x="1701"
+           y="82.5">introduction I</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/theoreme-d-ostrogradski"
        data-name="Théorème d’Ostrogradski"
        id="g930"
-       transform="matrix(0.26458333,0,0,0.26458333,-73.602641,355.78015)">
+       transform="matrix(0.26458333,0,0,0.26458333,-68.310974,366.36349)">
       <circle
          fill="#4619e6"
          cx="1750"
@@ -1523,16 +1878,24 @@
          id="circle926" />
       <text
          font-size="6px"
-         x="1775"
+         x="1751"
          y="75"
          text-anchor="middle"
-         id="text928">Théorème d’Ostrogradski</text>
+         id="text928"><tspan
+           sodipodi:role="line"
+           id="tspan306815"
+           x="1751"
+           y="75">Théorème</tspan><tspan
+           sodipodi:role="line"
+           id="tspan306817"
+           x="1751"
+           y="82.5">d’Ostrogradski</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/loi-de-gauss-forme-locale"
        data-name="Loi de Gauss : forme locale"
        id="g936"
-       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+       transform="matrix(0.26458333,0,0,0.26458333,-110.6012,407.56333)">
       <circle
          fill="#19e649"
          cx="1800"
@@ -1541,16 +1904,24 @@
          id="circle932" />
       <text
          font-size="6px"
-         x="1825"
+         x="1801"
          y="75"
          text-anchor="middle"
-         id="text934">Loi de Gauss : forme locale</text>
+         id="text934"><tspan
+           sodipodi:role="line"
+           id="tspan242090"
+           x="1801"
+           y="75">Loi de Gauss :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan242092"
+           x="1801"
+           y="82.5">forme locale</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/loi-de-gauss-distribution-de-charge-continue"
        data-name="Loi de Gauss : distribution de charge continue"
        id="g942"
-       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+       transform="matrix(0.26458333,0,0,0.26458333,-110.6012,423.43834)">
       <circle
          fill="#50e619"
          cx="1850"
@@ -1559,16 +1930,28 @@
          id="circle938" />
       <text
          font-size="6px"
-         x="1875"
+         x="1851"
          y="75"
          text-anchor="middle"
-         id="text940">Loi de Gauss : distribution de charge continue</text>
+         id="text940"><tspan
+           sodipodi:role="line"
+           id="tspan238058"
+           x="1851"
+           y="75">Loi de Gauss :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan238060"
+           x="1851"
+           y="82.5">distribution de</tspan><tspan
+           sodipodi:role="line"
+           x="1851"
+           y="90"
+           id="tspan240174">charge continue</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/loi-de-gausspour-le-champ-electrique"
        data-name="Loi de Gauss pour le champ électrique"
        id="g948"
-       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+       transform="matrix(0.26458333,0,0,0.26458333,-110.6012,402.27166)">
       <circle
          fill="#e68a19"
          cx="1900"
@@ -1577,16 +1960,24 @@
          id="circle944" />
       <text
          font-size="6px"
-         x="1925"
+         x="1901"
          y="75"
          text-anchor="middle"
-         id="text946">Loi de Gauss pour le champ électrique</text>
+         id="text946"><tspan
+           sodipodi:role="line"
+           id="tspan234054"
+           x="1901"
+           y="75">Loi de Gauss pour</tspan><tspan
+           sodipodi:role="line"
+           id="tspan234056"
+           x="1901"
+           y="82.5">le champ électrique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-theoreme-de-gauss-demonstration"
        data-name="Le théorème de Gauss : démonstration"
        id="g954"
-       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+       transform="matrix(0.26458333,0,0,0.26458333,-110.6012,423.43834)">
       <circle
          fill="#e61968"
          cx="1950"
@@ -1595,16 +1986,28 @@
          id="circle950" />
       <text
          font-size="6px"
-         x="1975"
+         x="1951"
          y="75"
          text-anchor="middle"
-         id="text952">Le théorème de Gauss : démonstration</text>
+         id="text952"><tspan
+           sodipodi:role="line"
+           id="tspan245477"
+           x="1951"
+           y="75">Le théorème</tspan><tspan
+           sodipodi:role="line"
+           x="1951"
+           y="82.5"
+           id="tspan248277">de Gauss :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan245479"
+           x="1951"
+           y="90">démonstration</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-loi-de-gauss-introduction"
        data-name="La loi de Gauss : Introduction"
        id="g960"
-       transform="matrix(0.26458333,0,0,0.26458333,-139.96118,380.24227)">
+       transform="matrix(0.26458333,0,0,0.26458333,-110.6012,407.56333)">
       <circle
          fill="#19e631"
          cx="2000"
@@ -1613,10 +2016,18 @@
          id="circle956" />
       <text
          font-size="6px"
-         x="2025"
+         x="2001"
          y="75"
          text-anchor="middle"
-         id="text958">La loi de Gauss : Introduction</text>
+         id="text958"><tspan
+           sodipodi:role="line"
+           id="tspan236122"
+           x="2001"
+           y="75">La loi de Gauss :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan236124"
+           x="2001"
+           y="82.5">Introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-lumiere-est-invisible"
@@ -1640,7 +2051,7 @@
        data-link="https%3A//clipedia.be/videos/qu-est-ce-que-la-lumiere"
        data-name="Qu’est-ce que la lumière ?"
        id="g972"
-       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,306.40711)">
       <circle
          fill="#e6195d"
          cx="2100"
@@ -1649,16 +2060,24 @@
          id="circle968" />
       <text
          font-size="6px"
-         x="2125"
+         x="2101"
          y="75"
          text-anchor="middle"
-         id="text970">Qu’est-ce que la lumière ?</text>
+         id="text970"><tspan
+           sodipodi:role="line"
+           id="tspan212232"
+           x="2101"
+           y="75">Qu’est-ce que</tspan><tspan
+           sodipodi:role="line"
+           id="tspan212234"
+           x="2101"
+           y="82.5">la lumière ?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits"
        data-name="La théorie cinétique des gaz parfaits"
        id="g978"
-       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+       transform="matrix(0.26458333,0,0,0.26458333,-335.58215,279.94876)">
       <circle
          fill="#3819e6"
          cx="2150"
@@ -1667,16 +2086,24 @@
          id="circle974" />
       <text
          font-size="6px"
-         x="2175"
+         x="2149"
          y="75"
          text-anchor="middle"
-         id="text976">La théorie cinétique des gaz parfaits</text>
+         id="text976"><tspan
+           sodipodi:role="line"
+           id="tspan207746"
+           x="2149"
+           y="75">La théorie cinétique</tspan><tspan
+           sodipodi:role="line"
+           id="tspan207748"
+           x="2149"
+           y="82.5">des gaz parfaits</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits-introduction"
        data-name="La théorie cinétique des gaz parfaits, introduction"
        id="g984"
-       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,300.23121)">
       <circle
          fill="#e619e2"
          cx="2200"
@@ -1685,16 +2112,24 @@
          id="circle980" />
       <text
          font-size="6px"
-         x="2225"
+         x="2201"
          y="75"
          text-anchor="middle"
-         id="text982">La théorie cinétique des gaz parfaits, introduction</text>
+         id="text982"><tspan
+           sodipodi:role="line"
+           id="tspan214610"
+           x="2201"
+           y="75">La théorie cinétique des</tspan><tspan
+           sodipodi:role="line"
+           id="tspan214612"
+           x="2201"
+           y="82.5">gaz parfaits, introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/pourquoi-les-corps-tombent-ils-tous-a-la-meme-vitesse"
        data-name="Pourquoi les corps tombent-ils tous à la même vitesse?"
        id="g990"
-       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,290.5321)">
+       transform="matrix(0.26458333,0,0,0.26458333,-324.99881,279.94876)">
       <circle
          fill="#19e631"
          cx="2250"
@@ -1703,16 +2138,28 @@
          id="circle986" />
       <text
          font-size="6px"
-         x="2275"
+         x="2249"
          y="75"
          text-anchor="middle"
-         id="text988">Pourquoi les corps tombent-ils tous à la même vitesse?</text>
+         id="text988"><tspan
+           sodipodi:role="line"
+           id="tspan209412"
+           x="2249"
+           y="75">Pourquoi les corps</tspan><tspan
+           sodipodi:role="line"
+           id="tspan209414"
+           x="2249"
+           y="82.5">tombent-ils tous</tspan><tspan
+           sodipodi:role="line"
+           x="2249"
+           y="90"
+           id="tspan209420">à la même vitesse?</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/formule-de-l-energiecinetique"
        data-name="Formule de l'énergie cinétique"
        id="g996"
-       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+       transform="matrix(0.26458333,0,0,0.26458333,-272.08562,340.45482)">
       <circle
          fill="#ac19e6"
          cx="2300"
@@ -1721,16 +2168,24 @@
          id="circle992" />
       <text
          font-size="6px"
-         x="2325"
+         x="2301"
          y="75"
          text-anchor="middle"
-         id="text994">Formule de l'énergie cinétique</text>
+         id="text994"><tspan
+           sodipodi:role="line"
+           id="tspan314711"
+           x="2301"
+           y="75">Formule de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan314713"
+           x="2301"
+           y="82.5">l'énergie cinétique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniformement-accelere-generalisation"
        data-name="Le Mouvement Rectiligne Uniformément Accéléré : généralisation"
        id="g1002"
-       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+       transform="matrix(0.26458333,0,0,0.26458333,-251.10457,318.90817)">
       <circle
          fill="#19e6ce"
          cx="2350"
@@ -1739,16 +2194,28 @@
          id="circle998" />
       <text
          font-size="6px"
-         x="2375"
+         x="2349"
          y="75"
          text-anchor="middle"
-         id="text1000">Le Mouvement Rectiligne Uniformément Accéléré : généralisation</text>
+         id="text1000"><tspan
+           sodipodi:role="line"
+           id="tspan316868"
+           x="2349"
+           y="75">Le Mouvement</tspan><tspan
+           sodipodi:role="line"
+           id="tspan316870"
+           x="2349"
+           y="82.5">Rectiligne Uniformément</tspan><tspan
+           sodipodi:role="line"
+           x="2349"
+           y="90"
+           id="tspan316872">Accéléré : généralisation</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniformement-accelere-introduction"
        data-name="Le Mouvement Rectiligne Uniformément Accéléré : introduction"
        id="g1008"
-       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+       transform="matrix(0.26458333,0,0,0.26458333,-285.50041,318.90817)">
       <circle
          fill="#3519e6"
          cx="2400"
@@ -1757,16 +2224,28 @@
          id="circle1004" />
       <text
          font-size="6px"
-         x="2425"
+         x="2401"
          y="75"
          text-anchor="middle"
-         id="text1006">Le Mouvement Rectiligne Uniformément Accéléré : introduction</text>
+         id="text1006"><tspan
+           sodipodi:role="line"
+           id="tspan311657"
+           x="2401"
+           y="75">Le Mouvement</tspan><tspan
+           sodipodi:role="line"
+           id="tspan311659"
+           x="2401"
+           y="82.5">Rectiligne Uniformément</tspan><tspan
+           sodipodi:role="line"
+           x="2401"
+           y="90"
+           id="tspan311661">Accéléré : introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-circonference-de-la-terre"
        data-name="La circonférence de la Terre"
        id="g1014"
-       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+       transform="matrix(0.26458333,0,0,0.26458333,-254.20934,305.21238)">
       <circle
          fill="#1949e6"
          cx="2450"
@@ -1775,16 +2254,24 @@
          id="circle1010" />
       <text
          font-size="6px"
-         x="2475"
+         x="2451"
          y="75"
          text-anchor="middle"
-         id="text1012">La circonférence de la Terre</text>
+         id="text1012"><tspan
+           sodipodi:role="line"
+           id="tspan317798"
+           x="2451"
+           y="75">La circonférence</tspan><tspan
+           sodipodi:role="line"
+           id="tspan317800"
+           x="2451"
+           y="82.5">de la Terre</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/energie-de-rotation-et-moment-d-inertie"
        data-name="Energie de rotation et moment d'inertie"
        id="g1020"
-       transform="matrix(0.26458333,0,0,0.26458333,-287.98014,327.33085)">
+       transform="matrix(0.26458333,0,0,0.26458333,-296.55414,342.0143)">
       <circle
          fill="#e619c0"
          cx="2500"
@@ -1793,10 +2280,18 @@
          id="circle1016" />
       <text
          font-size="6px"
-         x="2525"
+         x="2501"
          y="75"
          text-anchor="middle"
-         id="text1018">Energie de rotation et moment d'inertie</text>
+         id="text1018"><tspan
+           sodipodi:role="line"
+           id="tspan314083"
+           x="2501"
+           y="75">Energie de rotation</tspan><tspan
+           sodipodi:role="line"
+           id="tspan314085"
+           x="2501"
+           y="82.5">et moment d'inertie</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-dynamique-de-la-rotation-et-le-moment-d-inertie"
@@ -1820,7 +2315,7 @@
        data-link="https%3A//clipedia.be/videos/le-moment-de-force"
        data-name="Le moment de force"
        id="g1032"
-       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,333.82336)">
       <circle
          fill="#e65319"
          cx="2600"
@@ -1838,7 +2333,7 @@
        data-link="https%3A//clipedia.be/videos/les-ondes-gravitationnelles"
        data-name="Les ondes gravitationnelles"
        id="g1038"
-       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,312.65668)">
       <circle
          fill="#e61920"
          cx="2650"
@@ -1856,7 +2351,7 @@
        data-link="https%3A//clipedia.be/videos/les-lentilles-divergentes"
        data-name="Les lentilles divergentes"
        id="g1044"
-       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
+       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,333.82336)">
       <circle
          fill="#1979e6"
          cx="2700"
@@ -1892,7 +2387,7 @@
        data-link="https%3A//clipedia.be/videos/introduction-a-la-loi-des-lentilles"
        data-name="Introduction à la loi des lentilles"
        id="g1056"
-       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+       transform="matrix(0.26458333,0,0,0.26458333,-411.66691,294.43162)">
       <circle
          fill="#bd19e6"
          cx="2800"
@@ -1901,16 +2396,24 @@
          id="circle1052" />
       <text
          font-size="6px"
-         x="2825"
+         x="2801"
          y="75"
          text-anchor="middle"
-         id="text1054">Introduction à la loi des lentilles</text>
+         id="text1054"><tspan
+           sodipodi:role="line"
+           id="tspan222238"
+           x="2801"
+           y="75">Introduction à la</tspan><tspan
+           sodipodi:role="line"
+           id="tspan222240"
+           x="2801"
+           y="82.5">loi des lentilles</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-technique-clipedia-pour-une-didactique-nouvelle"
        data-name="La technique «CliPeDia» : pour une didactique nouvelle"
        id="g1062"
-       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+       transform="matrix(0.26458333,0,0,0.26458333,-457.03336,275.87803)">
       <circle
          fill="#90e619"
          cx="2850"
@@ -1919,16 +2422,24 @@
          id="circle1058" />
       <text
          font-size="6px"
-         x="2875"
+         x="2851"
          y="75"
          text-anchor="middle"
-         id="text1060">La technique «CliPeDia» : pour une didactique nouvelle</text>
+         id="text1060"><tspan
+           sodipodi:role="line"
+           id="tspan220842"
+           x="2851"
+           y="75">La technique «CliPeDia» :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan220844"
+           x="2851"
+           y="82.5">pour une didactique nouvelle</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-loupe"
        data-name="La loupe"
        id="g1068"
-       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+       transform="matrix(0.26458333,0,0,0.26458333,-424.86363,282.79845)">
       <circle
          fill="#19e661"
          cx="2900"
@@ -1937,7 +2448,7 @@
          id="circle1064" />
       <text
          font-size="6px"
-         x="2925"
+         x="2899"
          y="75"
          text-anchor="middle"
          id="text1066">La loupe</text>
@@ -1946,7 +2457,7 @@
        data-link="https%3A//clipedia.be/videos/l-appareil-photographique-principes-de-base"
        data-name="L’appareil photographique : principes de base"
        id="g1074"
-       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+       transform="matrix(0.26458333,0,0,0.26458333,-424.86363,298.67346)">
       <circle
          fill="#e6d819"
          cx="2950"
@@ -1955,16 +2466,24 @@
          id="circle1070" />
       <text
          font-size="6px"
-         x="2975"
+         x="2951"
          y="75"
          text-anchor="middle"
-         id="text1072">L’appareil photographique : principes de base</text>
+         id="text1072"><tspan
+           sodipodi:role="line"
+           id="tspan226906"
+           x="2951"
+           y="75">L’appareil photographique :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan226908"
+           x="2951"
+           y="82.5">principes de base</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/les-lentilles-introduction"
        data-name="Les lentilles : introduction"
        id="g1080"
-       transform="matrix(0.26458333,0,0,0.26458333,-420.81411,291.26831)">
+       transform="matrix(0.26458333,0,0,0.26458333,-424.86363,282.79845)">
       <circle
          fill="#19ace6"
          cx="3000"
@@ -1973,10 +2492,18 @@
          id="circle1076" />
       <text
          font-size="6px"
-         x="3025"
+         x="3001"
          y="75"
          text-anchor="middle"
-         id="text1078">Les lentilles : introduction</text>
+         id="text1078"><tspan
+           sodipodi:role="line"
+           id="tspan228764"
+           x="3001"
+           y="75">Les lentilles :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan228766"
+           x="3001"
+           y="82.5">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-loi-de-newton"
@@ -2000,7 +2527,7 @@
        data-link="https%3A//clipedia.be/videos/le-proces-de-galilee"
        data-name="Le procès de Galilée"
        id="g1092"
-       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,274.6698)">
       <circle
          fill="#35e619"
          cx="3100"
@@ -2036,7 +2563,7 @@
        data-link="https%3A//clipedia.be/videos/le-principe-d-inertie"
        data-name="Le principe d’inertie"
        id="g1104"
-       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,290.54481)">
+       transform="matrix(0.26458333,0,0,0.26458333,-399.27318,274.6698)">
       <circle
          fill="#19e6c7"
          cx="3200"
@@ -2072,7 +2599,7 @@
        data-link="https%3A//clipedia.be/videos/solutions-et-concentration"
        data-name="Solutions et concentration"
        id="g1266"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
       <circle
          fill="#72e619"
          cx="0"
@@ -2090,7 +2617,7 @@
        data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-3-de-l-alchimie-a-la-chimie"
        data-name="Histoire de la matière 3 : De l’alchimie à la chimie"
        id="g1272"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
       <circle
          fill="#9ee619"
          cx="50"
@@ -2108,7 +2635,7 @@
        data-link="https%3A//clipedia.be/videos/le-tableau-periodique-des-elements"
        data-name="Le Tableau Périodique des Éléments"
        id="g1278"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
       <circle
          fill="#d8e619"
          cx="100"
@@ -2126,7 +2653,7 @@
        data-link="https%3A//clipedia.be/videos/les-reactions-chimiques2-pourquoi-comment"
        data-name="Les réactions chimiques 2 : Pourquoi ? Comment ?"
        id="g1284"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
       <circle
          fill="#e6198a"
          cx="150"
@@ -2144,7 +2671,7 @@
        data-link="https%3A//clipedia.be/videos/les-reactions-chimiques-introduction"
        data-name="Les réactions chimiques : introduction"
        id="g1290"
-       transform="matrix(0.26458333,0,0,0.26458333,297.906,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,297.906,471.38872)">
       <circle
          fill="#19e694"
          cx="200"
@@ -2162,7 +2689,7 @@
        data-link="https%3A//clipedia.be/videos/datation-au-carbone-14"
        data-name="Datation au carbone 14"
        id="g1296"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
       <circle
          fill="#e63519"
          cx="250"
@@ -2180,7 +2707,7 @@
        data-link="https%3A//clipedia.be/videos/isotopes-et-radioactivite"
        data-name="Isotopes et radioactivité"
        id="g1302"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
       <circle
          fill="#19a5e6"
          cx="300"
@@ -2198,7 +2725,7 @@
        data-link="https%3A//clipedia.be/videos/les-isotopes"
        data-name="Les isotopes"
        id="g1308"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
       <circle
          fill="#19e65e"
          cx="350"
@@ -2216,7 +2743,7 @@
        data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-2-naissance-de-la-al-chimie"
        data-name="Histoire de la matière 2 : Naissance de la al chimie"
        id="g1314"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
       <circle
          fill="#e6db19"
          cx="400"
@@ -2234,7 +2761,7 @@
        data-link="https%3A//clipedia.be/videos/les-atomes"
        data-name="Les atomes"
        id="g1320"
-       transform="matrix(0.26458333,0,0,0.26458333,303.19767,434.34703)">
+       transform="matrix(0.26458333,0,0,0.26458333,303.19767,471.38872)">
       <circle
          fill="#19e66f"
          cx="450"
@@ -2252,7 +2779,7 @@
        data-link="https%3A//clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
        data-name="Histoire de la matière 1 : les éléments des anciens"
        id="g1326"
-       transform="matrix(0.26458333,0,0,0.26458333,165.61433,450.22203)">
+       transform="matrix(0.26458333,0,0,0.26458333,165.61433,487.26372)">
       <circle
          fill="#e69419"
          cx="500"
@@ -2270,7 +2797,7 @@
        data-link="https%3A//clipedia.be/videos/la-mole-illustration"
        data-name="La mole : illustration"
        id="g1332"
-       transform="matrix(0.26458333,0,0,0.26458333,165.61433,450.22203)">
+       transform="matrix(0.26458333,0,0,0.26458333,165.61433,487.26372)">
       <circle
          fill="#e61994"
          cx="550"
@@ -2288,7 +2815,7 @@
        data-link="https%3A//clipedia.be/videos/la-mole"
        data-name="La mole"
        id="g1338"
-       transform="matrix(0.26458333,0,0,0.26458333,165.61433,450.22203)">
+       transform="matrix(0.26458333,0,0,0.26458333,165.61433,487.26372)">
       <circle
          fill="#a1e619"
          cx="600"
@@ -2306,7 +2833,7 @@
        data-link="https%3A//clipedia.be/videos/les-virus-sont-ils-vivants"
        data-name="Les virus sont-ils vivants ?"
        id="g1344"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
       <circle
          fill="#19e620"
          cx="0"
@@ -2324,7 +2851,7 @@
        data-link="https%3A//clipedia.be/videos/digestion-des-proteines"
        data-name="Digestion des protéines"
        id="g1350"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
       <circle
          fill="#19e6af"
          cx="50"
@@ -2342,7 +2869,7 @@
        data-link="https%3A//clipedia.be/videos/structure-des-proteines"
        data-name="Structure des protéines"
        id="g1356"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
       <circle
          fill="#19e61d"
          cx="100"
@@ -2360,7 +2887,7 @@
        data-link="https%3A//clipedia.be/videos/introduction-aux-proteines"
        data-name="Introduction aux protéines"
        id="g1362"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
       <circle
          fill="#197fe6"
          cx="150"
@@ -2378,7 +2905,7 @@
        data-link="https%3A//clipedia.be/videos/de-l-adn-qui-ne-viendrait-que-de-maman"
        data-name="De L’ADN qui ne viendrait que de Maman ?!"
        id="g1368"
-       transform="matrix(0.26458333,0,0,0.26458333,52.091177,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,52.091177,459.20856)">
       <circle
          fill="#e62e19"
          cx="200"
@@ -2396,7 +2923,7 @@
        data-link="https%3A//clipedia.be/videos/pourquoi-fumer"
        data-name="Pourquoi fumer ?"
        id="g1374"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
       <circle
          fill="#6419e6"
          cx="250"
@@ -2414,7 +2941,7 @@
        data-link="https%3A//clipedia.be/videos/je-suis-ce-que-je-mange"
        data-name="Je suis ce que je mange"
        id="g1380"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
       <circle
          fill="#e6d119"
          cx="300"
@@ -2432,7 +2959,7 @@
        data-link="https%3A//clipedia.be/videos/pourquoi-le-carbone"
        data-name="Pourquoi le carbone ?"
        id="g1386"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
       <circle
          fill="#2019e6"
          cx="350"
@@ -2450,7 +2977,7 @@
        data-link="https%3A//clipedia.be/videos/de-quoi-sommes-nous-faits"
        data-name="De quoi sommes nous faits ?"
        id="g1392"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
       <circle
          fill="#35e619"
          cx="400"
@@ -2468,7 +2995,7 @@
        data-link="https%3A//clipedia.be/videos/deuxieme-loi-de-mendel"
        data-name="Deuxième loi de Mendel"
        id="g1398"
-       transform="matrix(0.26458333,0,0,0.26458333,57.382844,422.16687)">
+       transform="matrix(0.26458333,0,0,0.26458333,57.382844,459.20856)">
       <circle
          fill="#e6198a"
          cx="450"
@@ -2486,7 +3013,7 @@
        data-link="https%3A//clipedia.be/videos/premiere-loi-de-mendel"
        data-name="Première loi de Mendel"
        id="g1404"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
       <circle
          fill="#a1e619"
          cx="500"
@@ -2504,7 +3031,7 @@
        data-link="https%3A//clipedia.be/videos/introduction-a-la-genetique"
        data-name="Introduction à la génétique"
        id="g1410"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
       <circle
          fill="#19e646"
          cx="550"
@@ -2522,7 +3049,7 @@
        data-link="https%3A//clipedia.be/videos/l-adn"
        data-name="L'ADN"
        id="g1416"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
       <circle
          fill="#50e619"
          cx="600"
@@ -2540,7 +3067,7 @@
        data-link="https%3A//clipedia.be/videos/l-usine-cellulaire"
        data-name="L’usine cellulaire"
        id="g1422"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
       <circle
          fill="#1953e6"
          cx="650"
@@ -2558,7 +3085,7 @@
        data-link="https%3A//clipedia.be/videos/la-cellule"
        data-name="La cellule"
        id="g1428"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-80.200503,475.08357)">
       <circle
          fill="#e62e19"
          cx="700"
@@ -2576,7 +3103,7 @@
        data-link="https%3A//clipedia.be/videos/la-vie"
        data-name="La vie"
        id="g1434"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
       <circle
          fill="#d119e6"
          cx="750"
@@ -2594,7 +3121,7 @@
        data-link="https%3A//clipedia.be/videos/mesure-de-la-tension-arterielle"
        data-name="Mesure de la tension artérielle"
        id="g1440"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
       <circle
          fill="#e619b2"
          cx="800"
@@ -2612,7 +3139,7 @@
        data-link="https%3A//clipedia.be/videos/le-logarithme-et-l-audition"
        data-name="Le logarithme et l’audition"
        id="g1446"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
       <circle
          fill="#b919e6"
          cx="850"
@@ -2630,7 +3157,7 @@
        data-link="https%3A//clipedia.be/videos/la-vision"
        data-name="La vision"
        id="g1452"
-       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,438.04188)">
+       transform="matrix(0.26458333,0,0,0.26458333,-74.908833,475.08357)">
       <circle
          fill="#a5e619"
          cx="900"
@@ -2648,7 +3175,7 @@
        data-link="https%3A//clipedia.be/videos/le-principe-de-pascal"
        data-name="Le principe de Pascal"
        id="g1116"
-       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+       transform="matrix(0.26458333,0,0,0.26458333,-838.7466,389.38391)">
       <circle
          fill="#e619b2"
          cx="3300"
@@ -2657,16 +3184,24 @@
          id="circle1112" />
       <text
          font-size="6px"
-         x="3325"
+         x="3299"
          y="75"
          text-anchor="middle"
-         id="text1114">Le principe de Pascal</text>
+         id="text1114"><tspan
+           sodipodi:role="line"
+           id="tspan119759"
+           x="3299"
+           y="75">Le principe</tspan><tspan
+           sodipodi:role="line"
+           id="tspan119761"
+           x="3299"
+           y="82.5">de Pascal</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-pression-atmospherique-introduction"
        data-name="La pression atmosphérique : introduction"
        id="g1122"
-       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+       transform="matrix(0.26458333,0,0,0.26458333,-838.7466,405.25892)">
       <circle
          fill="#e61938"
          cx="3350"
@@ -2675,16 +3210,24 @@
          id="circle1118" />
       <text
          font-size="6px"
-         x="3375"
+         x="3351"
          y="75"
          text-anchor="middle"
-         id="text1120">La pression atmosphérique : introduction</text>
+         id="text1120"><tspan
+           sodipodi:role="line"
+           id="tspan111756"
+           x="3351"
+           y="75">La pression atmosphérique :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan111758"
+           x="3351"
+           y="82.5">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-pression-dans-les-solides"
        data-name="La pression dans les solides"
        id="g1128"
-       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+       transform="matrix(0.26458333,0,0,0.26458333,-838.7466,389.38391)">
       <circle
          fill="#e61953"
          cx="3400"
@@ -2693,16 +3236,24 @@
          id="circle1124" />
       <text
          font-size="6px"
-         x="3425"
+         x="3399"
          y="75"
          text-anchor="middle"
-         id="text1126">La pression dans les solides</text>
+         id="text1126"><tspan
+           sodipodi:role="line"
+           id="tspan118537"
+           x="3399"
+           y="75">La pression</tspan><tspan
+           sodipodi:role="line"
+           id="tspan118539"
+           x="3399"
+           y="82.5">dans les solides</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-champ-electrique-charges-multiples"
        data-name="Le champ électrique : charges multiples"
        id="g1134"
-       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+       transform="matrix(0.26458333,0,0,0.26458333,-838.7466,405.25892)">
       <circle
          fill="#e61931"
          cx="3450"
@@ -2711,16 +3262,24 @@
          id="circle1130" />
       <text
          font-size="6px"
-         x="3475"
+         x="3451"
          y="75"
          text-anchor="middle"
-         id="text1132">Le champ électrique : charges multiples</text>
+         id="text1132"><tspan
+           sodipodi:role="line"
+           id="tspan113471"
+           x="3451"
+           y="75">Le champ électrique :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan113473"
+           x="3451"
+           y="82.5">charges multiples</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-champ-electrique"
        data-name="Le champ électrique"
        id="g1140"
-       transform="matrix(0.26458333,0,0,0.26458333,-837.45247,357.8886)">
+       transform="matrix(0.26458333,0,0,0.26458333,-838.7466,389.38391)">
       <circle
          fill="#e6194c"
          cx="3500"
@@ -2729,16 +3288,24 @@
          id="circle1136" />
       <text
          font-size="6px"
-         x="3525"
+         x="3501"
          y="75"
          text-anchor="middle"
-         id="text1138">Le champ électrique</text>
+         id="text1138"><tspan
+           sodipodi:role="line"
+           id="tspan116361"
+           x="3501"
+           y="75">Le champ</tspan><tspan
+           sodipodi:role="line"
+           id="tspan116363"
+           x="3501"
+           y="82.5">électrique</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/loi-de-coulomb-forme-vectorielle"
        data-name="Loi de Coulomb : forme vectorielle"
        id="g1146"
-       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+       transform="matrix(0.26458333,0,0,0.26458333,-903.8351,352.1279)">
       <circle
          fill="#e61950"
          cx="3550"
@@ -2747,16 +3314,24 @@
          id="circle1142" />
       <text
          font-size="6px"
-         x="3575"
+         x="3549"
          y="75"
          text-anchor="middle"
-         id="text1144">Loi de Coulomb : forme vectorielle</text>
+         id="text1144"><tspan
+           sodipodi:role="line"
+           id="tspan145201"
+           x="3549"
+           y="75">Loi de Coulomb :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan145203"
+           x="3549"
+           y="82.5">forme vectorielle</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/les-leviers"
        data-name="Les leviers"
        id="g1152"
-       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+       transform="matrix(0.26458333,0,0,0.26458333,-903.8351,368.00291)">
       <circle
          fill="#19e650"
          cx="3600"
@@ -2774,7 +3349,7 @@
        data-link="https%3A//clipedia.be/videos/les-poulies"
        data-name="Les poulies"
        id="g1158"
-       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+       transform="matrix(0.26458333,0,0,0.26458333,-903.8351,352.1279)">
       <circle
          fill="#9719e6"
          cx="3650"
@@ -2783,7 +3358,7 @@
          id="circle1154" />
       <text
          font-size="6px"
-         x="3675"
+         x="3651"
          y="75"
          text-anchor="middle"
          id="text1156">Les poulies</text>
@@ -2792,7 +3367,7 @@
        data-link="https%3A//clipedia.be/videos/la-force-electrique-loi-de-coulomb"
        data-name="La force électrique : loi de Coulomb"
        id="g1164"
-       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+       transform="matrix(0.26458333,0,0,0.26458333,-903.8351,368.00291)">
       <circle
          fill="#e6b919"
          cx="3700"
@@ -2801,16 +3376,24 @@
          id="circle1160" />
       <text
          font-size="6px"
-         x="3725"
+         x="3701"
          y="75"
          text-anchor="middle"
-         id="text1162">La force électrique : loi de Coulomb</text>
+         id="text1162"><tspan
+           sodipodi:role="line"
+           id="tspan139935"
+           x="3701"
+           y="75">La force électrique :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan139937"
+           x="3701"
+           y="82.5">loi de Coulomb</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/mesure-et-calcul-de-debits"
        data-name="Mesure et calcul de débits"
        id="g1170"
-       transform="matrix(0.26458333,0,0,0.26458333,-917.30491,333.58848)">
+       transform="matrix(0.26458333,0,0,0.26458333,-903.8351,352.1279)">
       <circle
          fill="#19e6ca"
          cx="3750"
@@ -2819,16 +3402,24 @@
          id="circle1166" />
       <text
          font-size="6px"
-         x="3775"
+         x="3751"
          y="75"
          text-anchor="middle"
-         id="text1168">Mesure et calcul de débits</text>
+         id="text1168"><tspan
+           sodipodi:role="line"
+           id="tspan140875"
+           x="3751"
+           y="75">Mesure et calcul</tspan><tspan
+           sodipodi:role="line"
+           id="tspan140877"
+           x="3751"
+           y="82.5">de débits</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/applications-de-l-electricite-introduction"
        data-name="Applications de l’électricité : introduction"
        id="g1176"
-       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+       transform="matrix(0.26458333,0,0,0.26458333,-880.24858,388.85197)">
       <circle
          fill="#5719e6"
          cx="3800"
@@ -2837,16 +3428,24 @@
          id="circle1172" />
       <text
          font-size="6px"
-         x="3825"
+         x="3799"
          y="75"
          text-anchor="middle"
-         id="text1174">Applications de l’électricité : introduction</text>
+         id="text1174"><tspan
+           sodipodi:role="line"
+           id="tspan122553"
+           x="3799"
+           y="75">Applications de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan122555"
+           x="3799"
+           y="82.5">l’électricité : introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-masse-volumique"
        data-name="La masse volumique"
        id="g1182"
-       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+       transform="matrix(0.26458333,0,0,0.26458333,-880.24858,404.72698)">
       <circle
          fill="#e63519"
          cx="3850"
@@ -2864,7 +3463,7 @@
        data-link="https%3A//clipedia.be/videos/energie-potentielle-introduction"
        data-name="Energie potentielle : introduction"
        id="g1188"
-       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+       transform="matrix(0.26458333,0,0,0.26458333,-880.24858,388.85197)">
       <circle
          fill="#e61983"
          cx="3900"
@@ -2873,16 +3472,24 @@
          id="circle1184" />
       <text
          font-size="6px"
-         x="3925"
+         x="3901"
          y="75"
          text-anchor="middle"
-         id="text1186">Energie potentielle : introduction</text>
+         id="text1186"><tspan
+           sodipodi:role="line"
+           id="tspan124455"
+           x="3901"
+           y="75">Energie potentielle :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan124457"
+           x="3901"
+           y="82.5">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/energie-cinetique-introduction"
        data-name="Energie cinétique : introduction"
        id="g1194"
-       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+       transform="matrix(0.26458333,0,0,0.26458333,-880.24858,404.72698)">
       <circle
          fill="#198ae6"
          cx="3950"
@@ -2891,16 +3498,24 @@
          id="circle1190" />
       <text
          font-size="6px"
-         x="3975"
+         x="3951"
          y="75"
          text-anchor="middle"
-         id="text1192">Energie cinétique : introduction</text>
+         id="text1192"><tspan
+           sodipodi:role="line"
+           id="tspan129351"
+           x="3951"
+           y="75">Energie cinétique :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan129353"
+           x="3951"
+           y="82.5">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/l-electricite-faconne-notre-univers"
        data-name="L’électricité façonne notre univers"
        id="g1200"
-       transform="matrix(0.26458333,0,0,0.26458333,-878.95445,357.35666)">
+       transform="matrix(0.26458333,0,0,0.26458333,-880.24858,388.85197)">
       <circle
          fill="#19afe6"
          cx="4000"
@@ -2909,10 +3524,18 @@
          id="circle1196" />
       <text
          font-size="6px"
-         x="4025"
+         x="3999"
          y="75"
          text-anchor="middle"
-         id="text1198">L’électricité façonne notre univers</text>
+         id="text1198"><tspan
+           sodipodi:role="line"
+           id="tspan126941"
+           x="3999"
+           y="75">L’électricité façonne</tspan><tspan
+           sodipodi:role="line"
+           id="tspan126943"
+           x="3999"
+           y="82.5">notre univers</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/energie-introduction"
@@ -2936,7 +3559,7 @@
        data-link="https%3A//clipedia.be/videos/le-travail"
        data-name="Le travail"
        id="g1212"
-       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,373.79603)">
       <circle
          fill="#6be619"
          cx="4100"
@@ -2972,7 +3595,7 @@
        data-link="https%3A//clipedia.be/videos/le-thermometre"
        data-name="Le thermomètre"
        id="g1224"
-       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,357.92102)">
+       transform="matrix(0.26458333,0,0,0.26458333,-645.26029,373.79603)">
       <circle
          fill="#8de619"
          cx="4200"
@@ -3017,16 +3640,28 @@
          id="circle1232" />
       <text
          font-size="6px"
-         x="4325"
+         x="4301"
          y="75"
          text-anchor="middle"
-         id="text1234">Le mouvement rectiligne uniforme : introduction</text>
+         id="text1234"><tspan
+           sodipodi:role="line"
+           id="tspan285323"
+           x="4301"
+           y="75">Le mouvement</tspan><tspan
+           sodipodi:role="line"
+           x="4301"
+           y="82.5"
+           id="tspan285327">rectiligne uniforme :</tspan><tspan
+           sodipodi:role="line"
+           x="4301"
+           y="90"
+           id="tspan285331">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniforme-generalisation"
        data-name="Le mouvement rectiligne uniforme : généralisation"
        id="g1242"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+       transform="matrix(0.26458333,0,0,0.26458333,-899.66402,333.41647)">
       <circle
          fill="#e6198a"
          cx="4350"
@@ -3035,16 +3670,28 @@
          id="circle1238" />
       <text
          font-size="6px"
-         x="4375"
+         x="4351"
          y="75"
          text-anchor="middle"
-         id="text1240">Le mouvement rectiligne uniforme : généralisation</text>
+         id="text1240"><tspan
+           sodipodi:role="line"
+           id="tspan287232"
+           x="4351"
+           y="75">Le mouvement</tspan><tspan
+           sodipodi:role="line"
+           id="tspan287234"
+           x="4351"
+           y="82.5">rectiligne uniforme :</tspan><tspan
+           sodipodi:role="line"
+           x="4351"
+           y="90"
+           id="tspan287236">généralisation</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mouvement-fonction-et-graphe"
        data-name="Le mouvement : fonction et graphe"
        id="g1248"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+       transform="matrix(0.26458333,0,0,0.26458333,-860.77569,306.31343)">
       <circle
          fill="#e6ac19"
          cx="4400"
@@ -3053,16 +3700,24 @@
          id="circle1244" />
       <text
          font-size="6px"
-         x="4425"
+         x="4401"
          y="75"
          text-anchor="middle"
-         id="text1246">Le mouvement : fonction et graphe</text>
+         id="text1246"><tspan
+           sodipodi:role="line"
+           id="tspan283441"
+           x="4401"
+           y="75">Le mouvement :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan283443"
+           x="4401"
+           y="82.5">fonction et graphe</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mouvement-position-et-deplacement"
        data-name="Le mouvement : position et déplacement"
        id="g1254"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+       transform="matrix(0.26458333,0,0,0.26458333,-895.17153,306.31343)">
       <circle
          fill="#2a19e6"
          cx="4450"
@@ -3071,16 +3726,24 @@
          id="circle1250" />
       <text
          font-size="6px"
-         x="4475"
+         x="4451"
          y="75"
          text-anchor="middle"
-         id="text1252">Le mouvement : position et déplacement</text>
+         id="text1252"><tspan
+           sodipodi:role="line"
+           id="tspan289239"
+           x="4451"
+           y="75">Le mouvement :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan289241"
+           x="4451"
+           y="82.5">position et déplacement</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-principe-d-archimede"
        data-name="Le principe d’Archimède"
        id="g1260"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.60153,333.41647)">
+       transform="matrix(0.26458333,0,0,0.26458333,-892.62616,331.25223)">
       <circle
          fill="#19a5e6"
          cx="4500"
@@ -3089,10 +3752,18 @@
          id="circle1256" />
       <text
          font-size="6px"
-         x="4525"
+         x="4501"
          y="75"
          text-anchor="middle"
-         id="text1258">Le principe d’Archimède</text>
+         id="text1258"><tspan
+           sodipodi:role="line"
+           id="tspan282261"
+           x="4501"
+           y="75">Le principe</tspan><tspan
+           sodipodi:role="line"
+           id="tspan282263"
+           x="4501"
+           y="82.5">d’Archimède</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-gradient-exercice"
@@ -4947,5 +5618,58 @@
        d="m 429.62695,18.702938 8.78752,0.11164"
        id="path64611"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker64991)"
+       d="m 133.62989,359.9776 h 8.46666"
+       id="path163566"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker64991)"
+       d="m 152.67988,359.9776 h 10.58334"
+       id="path163568" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker64991)"
+       d="m 173.84655,359.9776 h 10.58334"
+       id="path163570" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker64991)"
+       d="M 73.040362,301.82948 H 83.623695"
+       id="path189361" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 242.08289,415.18239 h 10.58334"
+       id="path268229" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker64991)"
+       d="M 263.24957,415.18239 H 273.8329"
+       id="path268231" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 300.20313,377.51628 h 10.58333"
+       id="path278665" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="M 235.39845,346.64562 H 245.9818"
+       id="path288433" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 324.68685,442.73405 h 10.58333"
+       id="path294740" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 303.52018,442.73405 h 10.58333"
+       id="path299857" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 352.37652,379.59265 h 10.58334"
+       id="path307949" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 354.79124,332.13733 h 10.58334"
+       id="path318945" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 287.51596,319.54258 h 10.58333"
+       id="path321122" />
   </g>
 </svg>
