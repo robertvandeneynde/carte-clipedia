@@ -24,8 +24,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.8101934"
-     inkscape:cx="284.77621"
-     inkscape:cy="361.56358"
+     inkscape:cx="1634.3558"
+     inkscape:cy="1444.3208"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -2410,10 +2410,22 @@
          id="circle1022" />
       <text
          font-size="6px"
-         x="2575"
+         x="2553"
          y="75"
          text-anchor="middle"
-         id="text1024">La dynamique de la rotation et le moment d'inertie</text>
+         id="text1024"><tspan
+           sodipodi:role="line"
+           id="tspan499184"
+           x="2553"
+           y="75">La dynamique</tspan><tspan
+           sodipodi:role="line"
+           id="tspan499186"
+           x="2553"
+           y="82.5">de la rotation et</tspan><tspan
+           sodipodi:role="line"
+           x="2553"
+           y="90"
+           id="tspan499192">le moment d'inertie</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-moment-de-force"
@@ -2428,10 +2440,18 @@
          id="circle1028" />
       <text
          font-size="6px"
-         x="2625"
+         x="2603"
          y="75"
          text-anchor="middle"
-         id="text1030">Le moment de force</text>
+         id="text1030"><tspan
+           sodipodi:role="line"
+           id="tspan500412"
+           x="2603"
+           y="75">Le moment</tspan><tspan
+           sodipodi:role="line"
+           id="tspan500414"
+           x="2603"
+           y="82.5">de force</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/les-ondes-gravitationnelles"
@@ -2446,52 +2466,24 @@
          id="circle1034" />
       <text
          font-size="6px"
-         x="2675"
+         x="2651"
          y="75"
          text-anchor="middle"
-         id="text1036">Les ondes gravitationnelles</text>
-    </g>
-    <g
-       data-link="https%3A//clipedia.be/videos/les-lentilles-divergentes"
-       data-name="Les lentilles divergentes"
-       id="g1044"
-       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,333.82336)">
-      <circle
-         fill="#1979e6"
-         cx="2700"
-         cy="50"
-         r="20"
-         id="circle1040" />
-      <text
-         font-size="6px"
-         x="2725"
-         y="75"
-         text-anchor="middle"
-         id="text1042">Les lentilles divergentes</text>
-    </g>
-    <g
-       data-link="https%3A//clipedia.be/videos/la-relation-de-conjugaison-des-lentilles"
-       data-name="La relation de conjugaison des lentilles"
-       id="g1050"
-       transform="matrix(0.26458333,0,0,0.26458333,-253.27096,317.94835)">
-      <circle
-         fill="#195de6"
-         cx="2750"
-         cy="50"
-         r="20"
-         id="circle1046" />
-      <text
-         font-size="6px"
-         x="2775"
-         y="75"
-         text-anchor="middle"
-         id="text1048">La relation de conjugaison des lentilles</text>
+         id="text1036"><tspan
+           sodipodi:role="line"
+           id="tspan498340"
+           x="2651"
+           y="75">Les ondes</tspan><tspan
+           sodipodi:role="line"
+           id="tspan498342"
+           x="2651"
+           y="82.5">gravitationnelles</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/introduction-a-la-loi-des-lentilles"
        data-name="Introduction à la loi des lentilles"
        id="g1056"
-       transform="matrix(0.26458333,0,0,0.26458333,-411.66691,294.43162)">
+       transform="matrix(0.26458333,0,0,0.26458333,-412.88982,277.74423)">
       <circle
          fill="#bd19e6"
          cx="2800"
@@ -2543,7 +2535,7 @@
        data-link="https%3A//clipedia.be/videos/la-loupe"
        data-name="La loupe"
        id="g1068"
-       transform="matrix(0.26458333,0,0,0.26458333,-424.86363,282.79845)">
+       transform="matrix(0.26458333,0,0,0.26458333,-397.5091,285.82319)">
       <circle
          fill="#19e661"
          cx="2900"
@@ -2561,7 +2553,7 @@
        data-link="https%3A//clipedia.be/videos/l-appareil-photographique-principes-de-base"
        data-name="L’appareil photographique : principes de base"
        id="g1074"
-       transform="matrix(0.26458333,0,0,0.26458333,-424.86363,298.67346)">
+       transform="matrix(0.26458333,0,0,0.26458333,-430.55702,300.43149)">
       <circle
          fill="#e6d819"
          cx="2950"
@@ -2587,7 +2579,7 @@
        data-link="https%3A//clipedia.be/videos/les-lentilles-introduction"
        data-name="Les lentilles : introduction"
        id="g1080"
-       transform="matrix(0.26458333,0,0,0.26458333,-424.86363,282.79845)">
+       transform="matrix(0.26458333,0,0,0.26458333,-491.72361,277.17604)">
       <circle
          fill="#19ace6"
          cx="3000"
@@ -2622,10 +2614,18 @@
          id="circle1082" />
       <text
          font-size="6px"
-         x="3075"
+         x="3051"
          y="75"
          text-anchor="middle"
-         id="text1084">La loi de Newton</text>
+         id="text1084"><tspan
+           sodipodi:role="line"
+           id="tspan487828"
+           x="3051"
+           y="75">La loi de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan487830"
+           x="3051"
+           y="82.5">Newton</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-proces-de-galilee"
@@ -2640,10 +2640,18 @@
          id="circle1088" />
       <text
          font-size="6px"
-         x="3125"
+         x="3103"
          y="75"
          text-anchor="middle"
-         id="text1090">Le procès de Galilée</text>
+         id="text1090"><tspan
+           sodipodi:role="line"
+           id="tspan486828"
+           x="3103"
+           y="75">Le procès</tspan><tspan
+           sodipodi:role="line"
+           id="tspan486830"
+           x="3103"
+           y="82.5">de Galilée</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-principe-de-relativite"
@@ -2658,10 +2666,18 @@
          id="circle1094" />
       <text
          font-size="6px"
-         x="3175"
+         x="3151"
          y="75"
          text-anchor="middle"
-         id="text1096">Le principe de relativité</text>
+         id="text1096"><tspan
+           sodipodi:role="line"
+           id="tspan488762"
+           x="3151"
+           y="75">Le principe</tspan><tspan
+           sodipodi:role="line"
+           id="tspan488764"
+           x="3151"
+           y="82.5">de relativité</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-principe-d-inertie"
@@ -2676,10 +2692,18 @@
          id="circle1100" />
       <text
          font-size="6px"
-         x="3225"
+         x="3201"
          y="75"
          text-anchor="middle"
-         id="text1102">Le principe d’inertie</text>
+         id="text1102"><tspan
+           sodipodi:role="line"
+           id="tspan490848"
+           x="3201"
+           y="75">Le principe</tspan><tspan
+           sodipodi:role="line"
+           id="tspan490850"
+           x="3201"
+           y="82.5">d’inertie</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/la-pression-dans-les-liquides"
@@ -2694,10 +2718,18 @@
          id="circle1106" />
       <text
          font-size="6px"
-         x="3275"
+         x="3251"
          y="75"
          text-anchor="middle"
-         id="text1108">La pression dans les liquides</text>
+         id="text1108"><tspan
+           sodipodi:role="line"
+           id="tspan491956"
+           x="3251"
+           y="75">La pression</tspan><tspan
+           sodipodi:role="line"
+           id="tspan491958"
+           x="3251"
+           y="82.5">dans les liquides</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/solutions-et-concentration"
@@ -3584,10 +3616,18 @@
          id="circle1202" />
       <text
          font-size="6px"
-         x="4075"
+         x="4051"
          y="75"
          text-anchor="middle"
-         id="text1204">Energie : introduction</text>
+         id="text1204"><tspan
+           sodipodi:role="line"
+           id="tspan507233"
+           x="4051"
+           y="75">Energie :</tspan><tspan
+           sodipodi:role="line"
+           id="tspan507235"
+           x="4051"
+           y="82.5">introduction</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-travail"
@@ -3602,7 +3642,7 @@
          id="circle1208" />
       <text
          font-size="6px"
-         x="4125"
+         x="4101"
          y="75"
          text-anchor="middle"
          id="text1210">Le travail</text>
@@ -3620,10 +3660,18 @@
          id="circle1214" />
       <text
          font-size="6px"
-         x="4175"
+         x="4153"
          y="75"
          text-anchor="middle"
-         id="text1216">La ligne de changement de date</text>
+         id="text1216"><tspan
+           sodipodi:role="line"
+           id="tspan514953"
+           x="4153"
+           y="75">La ligne de</tspan><tspan
+           sodipodi:role="line"
+           id="tspan514955"
+           x="4153"
+           y="82.5">changement de date</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-thermometre"
@@ -3638,7 +3686,7 @@
          id="circle1220" />
       <text
          font-size="6px"
-         x="4225"
+         x="4201"
          y="75"
          text-anchor="middle"
          id="text1222">Le thermomètre</text>
@@ -3656,10 +3704,18 @@
          id="circle1226" />
       <text
          font-size="6px"
-         x="4275"
+         x="4253"
          y="75"
          text-anchor="middle"
-         id="text1228">Les échelles de température</text>
+         id="text1228"><tspan
+           sodipodi:role="line"
+           id="tspan517059"
+           x="4253"
+           y="75">Les échelles</tspan><tspan
+           sodipodi:role="line"
+           id="tspan517061"
+           x="4253"
+           y="82.5">de température</tspan></text>
     </g>
     <g
        data-link="https%3A//clipedia.be/videos/le-mouvement-rectiligne-uniforme-introduction"
@@ -6210,6 +6266,62 @@
            id="tspan465679"
            x="5001"
            y="32.5">cosinus</tspan></text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/les-lentilles-divergentes"
+       data-name="Les lentilles divergentes"
+       id="g1044"
+       transform="matrix(0.26458333,0,0,0.26458333,-391.63315,297.01485)">
+      <circle
+         fill="#1979e6"
+         cx="2700"
+         cy="50"
+         r="20"
+         id="circle1040" />
+      <text
+         font-size="6px"
+         x="2703"
+         y="75"
+         text-anchor="middle"
+         id="text1042"><tspan
+           sodipodi:role="line"
+           id="tspan501436"
+           x="2703"
+           y="75">Les lentilles</tspan><tspan
+           sodipodi:role="line"
+           id="tspan501438"
+           x="2703"
+           y="82.5">divergentes</tspan></text>
+    </g>
+    <g
+       data-link="https%3A//clipedia.be/videos/la-relation-de-conjugaison-des-lentilles"
+       data-name="La relation de conjugaison des lentilles"
+       id="g1050"
+       transform="matrix(0.26458333,0,0,0.26458333,-378.93258,277.72644)">
+      <circle
+         fill="#195de6"
+         cx="2750"
+         cy="50"
+         r="20"
+         id="circle1046" />
+      <text
+         font-size="6px"
+         x="2753"
+         y="75"
+         text-anchor="middle"
+         id="text1048"><tspan
+           sodipodi:role="line"
+           id="tspan502604"
+           x="2753"
+           y="75">La relation</tspan><tspan
+           sodipodi:role="line"
+           id="tspan502606"
+           x="2753"
+           y="82.5">de conjugaison</tspan><tspan
+           sodipodi:role="line"
+           x="2753"
+           y="90"
+           id="tspan504982">des lentilles</tspan></text>
     </g>
   </g>
 </svg>
