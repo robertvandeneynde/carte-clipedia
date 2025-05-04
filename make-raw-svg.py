@@ -19,7 +19,7 @@ for i, video in enumerate(J):
     color_hexstring = colorhash.ColorHash(v['link'], lightness=[0.5], saturation=[0.8]).hex
     link, name = v['link'], v['name']
     out.append(
-        f'<g data-link="{urlquote(link)}" data-name="{attrquote(name)}">'
+        f'<g data-link="{attrquote(link)}" data-name="{attrquote(name)}">'
         f'<circle fill="{color_hexstring}" cx="{x}" cy="{y}" r="20"></circle>'
         f'<text font-size="0.5em" x="{x+25}" y="{y+25}" text-anchor="middle">{attrquote(name)}</text>'
         f'</g>')
