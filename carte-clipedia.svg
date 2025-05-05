@@ -21,8 +21,8 @@
      borderopacity="1.0"
      id="namedview7"
      inkscape:current-layer="layer2"
-     inkscape:cx="1562.8906"
-     inkscape:cy="2070.7031"
+     inkscape:cx="486.71875"
+     inkscape:cy="564.84375"
      inkscape:document-units="px"
      inkscape:lockguides="false"
      inkscape:object-paths="true"
@@ -38,7 +38,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="1.28"
+     inkscape:zoom="0.64"
      pagecolor="#ffffff"
      showgrid="false"
      showguides="false"
@@ -1447,6 +1447,39 @@ zYBt2LBhw4aNvwD/D2sTeUOwKMDuAAAAAElFTkSuQmCC
        id="image209828"
        x="451.89127"
        y="539.92383" />
+    <g
+       id="g2775"
+       transform="matrix(0.26458333,0,0,0.26458333,188.4761,124.84093)">
+      <a
+         xlink:href="https://clipedia.be/videos/la-fonction-introduction"
+         id="a8">
+        <g
+           data-link="https://clipedia.be/videos/la-fonction-introduction"
+           data-name="La Fonction, introduction"
+           id="g6-9">
+          <circle
+             fill="#192ee6"
+             cx="0"
+             cy="0"
+             r="20"
+             id="circle2-2" />
+          <text
+             font-size="6px"
+             x="0.99999952"
+             y="25"
+             text-anchor="middle"
+             id="text4-6"><tspan
+               sodipodi:role="line"
+               id="tspan218104"
+               x="0.99999952"
+               y="25">La fonction:</tspan><tspan
+               sodipodi:role="line"
+               id="tspan218106"
+               x="0.99999952"
+               y="32.5">ntroduction</tspan></text>
+        </g>
+      </a>
+    </g>
   </g>
   <g
      id="layer1"
