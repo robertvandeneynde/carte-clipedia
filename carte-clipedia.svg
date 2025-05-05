@@ -21,8 +21,8 @@
      borderopacity="1.0"
      id="namedview7"
      inkscape:current-layer="layer1"
-     inkscape:cx="960.9375"
-     inkscape:cy="1475.7812"
+     inkscape:cx="1324.7204"
+     inkscape:cy="1948.1344"
      inkscape:document-units="px"
      inkscape:lockguides="false"
      inkscape:object-paths="true"
@@ -38,7 +38,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="0.64"
+     inkscape:zoom="1.8101934"
      pagecolor="#ffffff"
      showgrid="false"
      showguides="false"
@@ -1358,6 +1358,90 @@
       <path
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path268313-18-9-3"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       id="marker268315-07"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path268313-86"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       id="marker268315-84"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path268313-31"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       id="marker268315-920"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path268313-68"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       id="marker268315-266"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path268313-495"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       id="marker268315-48"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path268313-71"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       id="marker268315-27"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path268313-22"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
@@ -3540,7 +3624,7 @@
     <a
        xlink:href="https://clipedia.be/videos/solutions-et-concentration"
        id="a3303"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(25.697742,39.410502)">
       <g
          data-link="https://clipedia.be/videos/solutions-et-concentration"
          data-name="Solutions et concentration"
@@ -3571,7 +3655,7 @@
     <a
        xlink:href="https://clipedia.be/videos/le-tableau-periodique-des-elements"
        id="a3310"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-67.402441,-9.3607109)">
       <g
          data-link="https://clipedia.be/videos/le-tableau-periodique-des-elements"
          data-name="Le Tableau Périodique des Éléments"
@@ -3602,7 +3686,7 @@
     <a
        xlink:href="https://clipedia.be/videos/les-reactions-chimiques2-pourquoi-comment"
        id="a3318"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-25.653757,23.387871)">
       <g
          data-link="https://clipedia.be/videos/les-reactions-chimiques2-pourquoi-comment"
          data-name="Les réactions chimiques 2 : Pourquoi ? Comment ?"
@@ -3637,7 +3721,7 @@
     <a
        xlink:href="https://clipedia.be/videos/les-reactions-chimiques-introduction"
        id="a3326"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-25.653757,23.387871)">
       <g
          data-link="https://clipedia.be/videos/les-reactions-chimiques-introduction"
          data-name="Les réactions chimiques : introduction"
@@ -3672,7 +3756,7 @@
     <a
        xlink:href="https://clipedia.be/videos/datation-au-carbone-14"
        id="a3333"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(107.37832,-21.853687)">
       <g
          data-link="https://clipedia.be/videos/datation-au-carbone-14"
          data-name="Datation au carbone 14"
@@ -3703,7 +3787,7 @@
     <a
        xlink:href="https://clipedia.be/videos/isotopes-et-radioactivite"
        id="a3340"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(42.452721,14.815933)">
       <g
          data-link="https://clipedia.be/videos/isotopes-et-radioactivite"
          data-name="Isotopes et radioactivité"
@@ -3734,7 +3818,7 @@
     <a
        xlink:href="https://clipedia.be/videos/les-isotopes"
        id="a3345"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(5.2916666,-5.2916667)">
       <g
          data-link="https://clipedia.be/videos/les-isotopes"
          data-name="Les isotopes"
@@ -3757,7 +3841,7 @@
     <a
        xlink:href="https://clipedia.be/videos/les-atomes"
        id="a3350"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-47.772653,-5.1557967)">
       <g
          data-link="https://clipedia.be/videos/les-atomes"
          data-name="Les atomes"
@@ -3780,7 +3864,7 @@
     <a
        xlink:href="https://clipedia.be/videos/la-mole-illustration"
        id="a3357"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-3.3333334e-8,-5.2916667)">
       <g
          data-link="https://clipedia.be/videos/la-mole-illustration"
          data-name="La mole : illustration"
@@ -3811,7 +3895,7 @@
     <a
        xlink:href="https://clipedia.be/videos/la-mole"
        id="a3362"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-3.3333334e-8,-5.2916667)">
       <g
          data-link="https://clipedia.be/videos/la-mole"
          data-name="La mole"
@@ -3833,7 +3917,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/les-virus-sont-ils-vivants"
-       id="a3369">
+       id="a3369"
+       transform="translate(52.582376,28.750404)">
       <g
          data-link="https://clipedia.be/videos/les-virus-sont-ils-vivants"
          data-name="Les virus sont-ils vivants ?"
@@ -3863,7 +3948,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/digestion-des-proteines"
-       id="a3376">
+       id="a3376"
+       transform="translate(38.901201,-15.693654)">
       <g
          data-link="https://clipedia.be/videos/digestion-des-proteines"
          data-name="Digestion des protéines"
@@ -3893,7 +3979,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/structure-des-proteines"
-       id="a3383">
+       id="a3383"
+       transform="translate(4.5053662,0.18135516)">
       <g
          data-link="https://clipedia.be/videos/structure-des-proteines"
          data-name="Structure des protéines"
@@ -3923,7 +4010,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/introduction-aux-proteines"
-       id="a3390">
+       id="a3390"
+       transform="translate(-29.890467,-15.693654)">
       <g
          data-link="https://clipedia.be/videos/introduction-aux-proteines"
          data-name="Introduction aux protéines"
@@ -3953,7 +4041,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/de-l-adn-qui-ne-viendrait-que-de-maman"
-       id="a3398">
+       id="a3398"
+       transform="translate(-3.574749,-9.4218572)">
       <g
          data-link="https://clipedia.be/videos/de-l-adn-qui-ne-viendrait-que-de-maman"
          data-name="De L’ADN qui ne viendrait que de Maman ?!"
@@ -3987,7 +4076,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/je-suis-ce-que-je-mange"
-       id="a3405">
+       id="a3405"
+       transform="translate(14.419969,-16.95972)">
       <g
          data-link="https://clipedia.be/videos/je-suis-ce-que-je-mange"
          data-name="Je suis ce que je mange"
@@ -4017,7 +4107,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/pourquoi-le-carbone"
-       id="a3412">
+       id="a3412"
+       transform="translate(34.395834,-15.87501)">
       <g
          data-link="https://clipedia.be/videos/pourquoi-le-carbone"
          data-name="Pourquoi le carbone ?"
@@ -4107,7 +4198,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/introduction-a-la-genetique"
-       id="a3433">
+       id="a3433"
+       transform="translate(29.405498,29.03761)">
       <g
          data-link="https://clipedia.be/videos/introduction-a-la-genetique"
          data-name="Introduction à la génétique"
@@ -4137,7 +4229,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/l-adn"
-       id="a3438">
+       id="a3438"
+       transform="translate(35.015011,-54.438522)">
       <g
          data-link="https://clipedia.be/videos/l-adn"
          data-name="L'ADN"
@@ -4159,7 +4252,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/l-usine-cellulaire"
-       id="a3443">
+       id="a3443"
+       transform="translate(-18.603946,0.98474121)">
       <g
          data-link="https://clipedia.be/videos/l-usine-cellulaire"
          data-name="L’usine cellulaire"
@@ -4181,7 +4275,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/la-cellule"
-       id="a3448">
+       id="a3448"
+       transform="translate(-31.210075,14.592391)">
       <g
          data-link="https://clipedia.be/videos/la-cellule"
          data-name="La cellule"
@@ -4203,7 +4298,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/la-vie"
-       id="a3453">
+       id="a3453"
+       transform="translate(-22.218202,-5.219736)">
       <g
          data-link="https://clipedia.be/videos/la-vie"
          data-name="La vie"
@@ -4225,7 +4321,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/mesure-de-la-tension-arterielle"
-       id="a3460">
+       id="a3460"
+       transform="translate(47.095833,-1.0583333)">
       <g
          data-link="https://clipedia.be/videos/mesure-de-la-tension-arterielle"
          data-name="Mesure de la tension artérielle"
@@ -4255,7 +4352,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/le-logarithme-et-l-audition"
-       id="a3467">
+       id="a3467"
+       transform="translate(18.764371,16.545086)">
       <g
          data-link="https://clipedia.be/videos/le-logarithme-et-l-audition"
          data-name="Le logarithme et l’audition"
@@ -4285,7 +4383,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/la-vision"
-       id="a3472">
+       id="a3472"
+       transform="translate(-11.1125,-1.0583333)">
       <g
          data-link="https://clipedia.be/videos/la-vision"
          data-name="La vision"
@@ -6008,7 +6107,7 @@
     <a
        xlink:href="https://clipedia.be/videos/histoire-de-la-matiere-3-de-l-alchimie-a-la-chimie"
        id="a4291"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-6.8791668,-20.637501)">
       <g
          data-link="https://clipedia.be/videos/histoire-de-la-matiere-3-de-l-alchimie-a-la-chimie"
          data-name="Histoire de la matière 3 : De l’alchimie à la chimie"
@@ -6043,7 +6142,7 @@
     <a
        xlink:href="https://clipedia.be/videos/histoire-de-la-matiere-2-naissance-de-la-al-chimie"
        id="a4299"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-6.8791668,-20.637501)">
       <g
          data-link="https://clipedia.be/videos/histoire-de-la-matiere-2-naissance-de-la-al-chimie"
          data-name="Histoire de la matière 2 : Naissance de la al chimie"
@@ -6078,7 +6177,7 @@
     <a
        xlink:href="https://clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
        id="a4307"
-       transform="translate(-5.2916667,-5.2916667)">
+       transform="translate(-6.8791668,-20.637501)">
       <g
          data-link="https://clipedia.be/videos/histoire-de-la-matiere-1-les-elements-des-anciens"
          data-name="Histoire de la matière 1 : les éléments des anciens"
@@ -6111,21 +6210,33 @@
       </g>
     </a>
     <path
-       d="m 323.29951,488.08442 h 10.58336"
+       d="m 302.93742,516.76396 h 10.58336"
        id="path550078"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
     <path
-       d="m 303.18438,510.72556 h 10.58333"
+       d="M 301.59687,495.37972 H 312.1802"
        id="path550193"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
     <path
-       d="m 324.35105,510.72556 h 10.58336"
+       d="M 322.76354,495.37972 H 333.3469"
        id="path550195"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
     <path
-       d="m 391.83198,495.57241 h 10.58333"
+       d="m 397.12365,495.57241 h 10.58333"
        id="path551840"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
+    <path
+       d="m 374.7764,517.85906 h 10.58333"
+       id="path551840-0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-266)" />
+    <path
+       d="m 395.94306,517.85906 h 10.58333"
+       id="path551840-7"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-48)" />
+    <path
+       d="m 417.10974,517.85906 h 10.58333"
+       id="path551840-6"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-27)" />
     <a
        xlink:href="https://clipedia.be/videos/premiere-loi-de-mendel"
        id="a4318">
@@ -6160,9 +6271,14 @@
        d="m 179.09951,518.85143 h 10.58334"
        id="path584565"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
+    <path
+       d="m 157.93285,518.85144 h 10.58334"
+       id="path584565-8"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-07)" />
     <a
        xlink:href="https://clipedia.be/videos/pourquoi-fumer"
-       id="a4326">
+       id="a4326"
+       transform="translate(95.424953,47.416537)">
       <g
          data-link="https://clipedia.be/videos/pourquoi-fumer"
          data-name="Pourquoi fumer ?"
@@ -9759,5 +9875,25 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-26-8-2-5)"
        d="m 162.21986,372.68186 h 10.58335"
        id="path252444-79-7-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="m 102.98117,492.08257 h 10.58334"
+       id="path41155" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-920)"
+       d="m 75.252981,542.89866 h 10.58334"
+       id="path41155-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="M 52.529894,512.88466 H 63.113228"
+       id="path41157" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
+       d="M 73.696561,512.88466 H 84.279894"
+       id="path41159" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-84)"
+       d="m 111.8938,525.42634 h 10.58333"
+       id="path41159-4" />
   </g>
 </svg>
