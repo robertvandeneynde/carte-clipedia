@@ -1,6 +1,6 @@
 # coding: utf-8
 import json
-with open('scrap-2025-05-04.json', 'r', encoding='utf-8') as f: J = json.load(f)
+with open('scrap.json', 'r', encoding='utf-8') as f: J = json.load(f)
 from itertools import count
 from collections import defaultdict
 counters = defaultdict(count)
@@ -29,3 +29,4 @@ with open('raw.svg', 'w', encoding='utf-8') as f: f.write('''
      width="1920" height="1080"
      xmlns="http://www.w3.org/2000/svg"><g transform="translate(50,50)">{}</g></svg>
 '''.format(''.join(out)))
+print('raw.svg')

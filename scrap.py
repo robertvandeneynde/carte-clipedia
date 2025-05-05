@@ -40,3 +40,4 @@ for category_slug in ('mathematiques', 'physique', 'chimie', 'biologie'):
 import json
 with open('scrap.json', 'w', encoding='utf-8') as f:
     json.dump(videos, f, indent=4, ensure_ascii=False)
+print('scrap.json')
