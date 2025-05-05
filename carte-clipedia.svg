@@ -21,8 +21,8 @@
      borderopacity="1.0"
      id="namedview7"
      inkscape:current-layer="layer1"
-     inkscape:cx="1324.7204"
-     inkscape:cy="1948.1344"
+     inkscape:cx="594.53125"
+     inkscape:cy="1263.6719"
      inkscape:document-units="px"
      inkscape:lockguides="false"
      inkscape:object-paths="true"
@@ -38,7 +38,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="1.8101934"
+     inkscape:zoom="1.28"
      pagecolor="#ffffff"
      showgrid="false"
      showguides="false"
@@ -3112,7 +3112,7 @@
     <a
        xlink:href="https://clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits"
        id="a3154"
-       transform="translate(17.160118,28.435774)">
+       transform="translate(-4.0065491,28.435774)">
       <g
          data-link="https://clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits"
          data-name="La théorie cinétique des gaz parfaits"
@@ -3143,7 +3143,7 @@
     <a
        xlink:href="https://clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits-introduction"
        id="a3161"
-       transform="translate(-27.819055,8.1533252)">
+       transform="translate(-48.985723,8.1533252)">
       <g
          data-link="https://clipedia.be/videos/la-theorie-cinetique-des-gaz-parfaits-introduction"
          data-name="La théorie cinétique des gaz parfaits, introduction"
@@ -3283,7 +3283,7 @@
     <a
        xlink:href="https://clipedia.be/videos/energie-de-rotation-et-moment-d-inertie"
        id="a3206"
-       transform="translate(69.114976,-11.724444)">
+       transform="translate(69.644143,-10.66611)">
       <g
          data-link="https://clipedia.be/videos/energie-de-rotation-et-moment-d-inertie"
          data-name="Energie de rotation et moment d'inertie"
@@ -3314,7 +3314,7 @@
     <a
        xlink:href="https://clipedia.be/videos/la-dynamique-de-la-rotation-et-le-moment-d-inertie"
        id="a3214"
-       transform="translate(33.769296,12.341506)">
+       transform="translate(34.298463,13.39984)">
       <g
          data-link="https://clipedia.be/videos/la-dynamique-de-la-rotation-et-le-moment-d-inertie"
          data-name="La dynamique de la rotation et le moment d'inertie"
@@ -3500,7 +3500,7 @@
     <a
        xlink:href="https://clipedia.be/videos/la-loi-de-newton"
        id="a3268"
-       transform="translate(52.298702,17.227081)">
+       transform="translate(18.432032,21.989581)">
       <g
          data-link="https://clipedia.be/videos/la-loi-de-newton"
          data-name="La loi de Newton"
@@ -3531,7 +3531,7 @@
     <a
        xlink:href="https://clipedia.be/videos/le-proces-de-galilee"
        id="a3275"
-       transform="translate(17.902867,33.102091)">
+       transform="translate(-15.963801,37.864591)">
       <g
          data-link="https://clipedia.be/videos/le-proces-de-galilee"
          data-name="Le procès de Galilée"
@@ -3562,7 +3562,7 @@
     <a
        xlink:href="https://clipedia.be/videos/le-principe-de-relativite"
        id="a3282"
-       transform="translate(-37.659633,17.227081)">
+       transform="translate(-71.526303,21.989581)">
       <g
          data-link="https://clipedia.be/videos/le-principe-de-relativite"
          data-name="Le principe de relativité"
@@ -3593,7 +3593,7 @@
     <a
        xlink:href="https://clipedia.be/videos/le-principe-d-inertie"
        id="a3289"
-       transform="translate(-29.722132,33.102091)">
+       transform="translate(-63.588802,37.864591)">
       <g
          data-link="https://clipedia.be/videos/le-principe-d-inertie"
          data-name="Le principe d’inertie"
@@ -4623,7 +4623,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/le-mouvement-fonction-et-graphe"
-       id="a3606">
+       id="a3606"
+       transform="translate(20.6375,5.2916667)">
       <g
          data-link="https://clipedia.be/videos/le-mouvement-fonction-et-graphe"
          data-name="Le mouvement : fonction et graphe"
@@ -4653,7 +4654,8 @@
     </a>
     <a
        xlink:href="https://clipedia.be/videos/le-mouvement-position-et-deplacement"
-       id="a3613">
+       id="a3613"
+       transform="translate(20.6375,5.2916667)">
       <g
          data-link="https://clipedia.be/videos/le-mouvement-position-et-deplacement"
          data-name="Le mouvement : position et déplacement"
@@ -5956,7 +5958,7 @@
        id="path318945"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
     <path
-       d="m 287.51596,319.54258 h 10.58333"
+       d="M 308.15347,324.83425 H 318.7368"
        id="path321122"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)" />
     <path
@@ -8619,7 +8621,7 @@
     <a
        xlink:href="https://clipedia.be/videos/les-echelles-de-temperature"
        id="a3583"
-       transform="translate(-292.28676,-49.536486)">
+       transform="translate(-313.45344,-49.536486)">
       <g
          data-link="https://clipedia.be/videos/les-echelles-de-temperature"
          data-name="Les échelles de température"
@@ -8650,7 +8652,7 @@
     <a
        xlink:href="https://clipedia.be/videos/le-thermometre"
        id="a3576"
-       transform="translate(-257.89092,-65.411496)">
+       transform="translate(-279.0576,-65.411496)">
       <g
          data-link="https://clipedia.be/videos/le-thermometre"
          data-name="Le thermomètre"
@@ -8671,15 +8673,15 @@
       </g>
     </a>
     <path
-       d="m 192.22376,321.61369 h 10.58335"
+       d="m 171.05708,321.61369 h 10.58335"
        id="path288433-5"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-6)" />
     <path
-       d="m 213.39043,321.61369 h 10.58335"
+       d="M 192.22375,321.61369 H 202.8071"
        id="path288433-5-8"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-6-0)" />
     <path
-       d="m 234.55709,321.61369 h 10.58335"
+       d="m 213.39041,321.61369 h 10.58335"
        id="path288433-5-7"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-6-7)" />
     <a
@@ -8885,19 +8887,19 @@
        id="path294740-5-3-4"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-93-4-4)" />
     <path
-       d="m 401.79634,321.00106 h 10.58333"
+       d="m 367.92964,325.76356 h 10.58333"
        id="path294740-5-3-3"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-93-4-7)" />
     <path
-       d="m 422.963,321.00106 h 10.58333"
+       d="m 389.0963,325.76356 h 10.58333"
        id="path294740-5-3-4-5"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-93-4-4-3)" />
     <path
-       d="M 444.12968,321.00106 H 454.713"
+       d="M 410.26298,325.76356 H 420.8463"
        id="path294740-5-3-2"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-93-4-9)" />
     <path
-       d="m 439.31083,343.51902 h 10.58333"
+       d="m 439.84,344.57736 h 10.58333"
        id="path294740-5-3-0"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-93-4-3)" />
     <path
