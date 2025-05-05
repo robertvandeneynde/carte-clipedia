@@ -20,9 +20,9 @@
      bordercolor="#666666"
      borderopacity="1.0"
      id="namedview7"
-     inkscape:current-layer="layer1"
-     inkscape:cx="123.74369"
-     inkscape:cy="616.78494"
+     inkscape:current-layer="layer2"
+     inkscape:cx="1737.8906"
+     inkscape:cy="155.27344"
      inkscape:document-units="px"
      inkscape:lockguides="false"
      inkscape:object-paths="true"
@@ -38,7 +38,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="1.8101934"
+     inkscape:zoom="2.56"
      pagecolor="#ffffff"
      showgrid="false"
      showguides="false"
@@ -8184,41 +8184,6 @@
              y="40">(sans l’intégrale)</tspan></text>
       </g>
     </a>
-    <a
-       xlink:href="https://clipedia.be/videos/la-surface-du-cone"
-       id="a2639"
-       transform="translate(426.11294,-3.8239213)">
-      <a
-         xlink:href="https://clipedia.be/videos/la-surface-du-cone"
-         id="a2637">
-        <g
-           data-link="https://clipedia.be/videos/la-surface-du-cone"
-           data-name="La surface du cône"
-           id="g12"
-           transform="matrix(0.26458333,0,0,0.26458333,17.098973,30.912106)">
-          <circle
-             cx="50"
-             cy="0"
-             fill="#24e619"
-             id="circle8"
-             r="20" />
-          <text
-             font-size="6px"
-             id="text10"
-             text-anchor="middle"
-             x="51"
-             y="25"><tspan
-               id="tspan367679"
-               sodipodi:role="line"
-               x="51"
-               y="25">La surface</tspan><tspan
-               id="tspan367681"
-               sodipodi:role="line"
-               x="51"
-               y="32.5">du cône</tspan></text>
-        </g>
-      </a>
-    </a>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315)"
        d="M 440.56606,27.088185 H 451.1494"
@@ -9928,5 +9893,36 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker268315-84)"
        d="m 111.8938,525.42634 h 10.58333"
        id="path41159-4" />
+    <a
+       xlink:href="https://clipedia.be/videos/la-surface-du-cone"
+       id="a2637"
+       transform="translate(426.11293,-3.823921)">
+      <g
+         data-link="https://clipedia.be/videos/la-surface-du-cone"
+         data-name="La surface du cône"
+         id="g12"
+         transform="matrix(0.26458333,0,0,0.26458333,17.098973,30.912106)">
+        <circle
+           cx="50"
+           cy="0"
+           fill="#24e619"
+           id="circle8"
+           r="20" />
+        <text
+           font-size="6px"
+           id="text10"
+           text-anchor="middle"
+           x="51"
+           y="25"><tspan
+             id="tspan367679"
+             sodipodi:role="line"
+             x="51"
+             y="25">La surface</tspan><tspan
+             id="tspan367681"
+             sodipodi:role="line"
+             x="51"
+             y="32.5">du cône</tspan></text>
+      </g>
+    </a>
   </g>
 </svg>
